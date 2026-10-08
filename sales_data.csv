@@ -1,0 +1,2566 @@
+Order ID,Order Date,Region,Category,Product,Quantity,Unit Price,Revenue,Cost
+ORD-10052,2025-01-01,North,Electronics,Wireless Earbuds,1,2499,2467.6,1823.62
+ORD-10063,2025-01-01,East,Beauty & Care,Hair Dryer,3,1999,5500.12,2675.43
+ORD-10064,2025-01-01,West,Electronics,Wireless Earbuds,1,2499,2259.39,1849.79
+ORD-10071,2025-01-01,North,Home & Kitchen,Air Fryer,1,5999,5769.12,3716.99
+ORD-10081,2025-01-01,North,Home & Kitchen,Air Fryer,1,5999,5925.36,3716.29
+ORD-10036,2025-01-02,North,Electronics,Smartwatch,1,6999,6616.31,5283.11
+ORD-10085,2025-01-02,South,Home & Kitchen,Cookware Set,2,2799,5500.09,3425.08
+ORD-10006,2025-01-03,West,Home & Kitchen,Steel Water Bottle,1,599,540.04,377.62
+ORD-10009,2025-01-03,West,Electronics,Bluetooth Speaker,1,3299,3099.74,2484.75
+ORD-10028,2025-01-03,South,Beauty & Care,Skincare Kit,2,2499,4607.87,2313.13
+ORD-10072,2025-01-03,North,Home & Kitchen,Air Fryer,1,5999,5664.4,3754.93
+ORD-10078,2025-01-03,West,Beauty & Care,Perfume,1,1799,1685.22,799.33
+ORD-10079,2025-01-03,South,Apparel,Handloom Saree,1,4999,4948.94,2666.63
+ORD-10003,2025-01-04,East,Home & Kitchen,Mixer Grinder,2,3499,6401.44,4246.15
+ORD-10007,2025-01-04,South,Home & Kitchen,Steel Water Bottle,2,599,1095.63,764.16
+ORD-10019,2025-01-04,West,Home & Kitchen,Air Fryer,1,5999,5279.29,3641.56
+ORD-10030,2025-01-04,South,Beauty & Care,Skincare Kit,1,2499,2391.98,1147.13
+ORD-10077,2025-01-04,West,Electronics,Power Bank,1,1499,1402.7,1107.02
+ORD-10016,2025-01-05,East,Electronics,Wireless Earbuds,1,2499,2381.99,1829.13
+ORD-10032,2025-01-05,West,Beauty & Care,Skincare Kit,2,2499,4449.17,2203.06
+ORD-10045,2025-01-05,South,Apparel,Denim Jacket,1,2999,2770.9,1536.38
+ORD-10015,2025-01-06,East,Electronics,Smartwatch,1,6999,6169.25,5282.15
+ORD-10038,2025-01-06,West,Beauty & Care,Perfume,1,1799,1587.16,806.64
+ORD-10018,2025-01-07,West,Home & Kitchen,Steel Water Bottle,1,599,555.9,364.49
+ORD-10073,2025-01-07,East,Apparel,Handloom Saree,1,4999,4558.42,2635.25
+ORD-10014,2025-01-08,North,Home & Kitchen,Cookware Set,3,2799,8077.3,5168.79
+ORD-10025,2025-01-08,North,Beauty & Care,Hair Dryer,1,1999,1946.0,890.36
+ORD-10054,2025-01-08,South,Electronics,Power Bank,1,1499,1342.36,1111.05
+ORD-10035,2025-01-09,West,Electronics,Smartwatch,2,6999,13705.98,10178.93
+ORD-10040,2025-01-09,North,Apparel,Handloom Saree,1,4999,4735.23,2560.25
+ORD-10056,2025-01-09,West,Apparel,Running Shoes,1,3499,3192.71,1852.63
+ORD-10044,2025-01-10,West,Electronics,Power Bank,1,1499,1396.17,1090.14
+ORD-10058,2025-01-10,North,Home & Kitchen,Steel Water Bottle,1,599,591.0,381.86
+ORD-10075,2025-01-10,East,Electronics,Smartwatch,1,6999,6372.4,5254.84
+ORD-10039,2025-01-11,East,Apparel,Denim Jacket,1,2999,2900.1,1564.76
+ORD-10048,2025-01-11,East,Electronics,Bluetooth Speaker,1,3299,3077.49,2370.67
+ORD-10051,2025-01-11,West,Home & Kitchen,Cookware Set,1,2799,2636.03,1734.82
+ORD-10066,2025-01-11,North,Electronics,Smartwatch,2,6999,13794.9,10289.85
+ORD-10024,2025-01-12,South,Electronics,Bluetooth Speaker,2,3299,6357.46,4812.54
+ORD-10047,2025-01-12,North,Apparel,Denim Jacket,3,2999,8353.33,4656.34
+ORD-10062,2025-01-12,East,Electronics,Bluetooth Speaker,1,3299,3009.63,2368.55
+ORD-10012,2025-01-13,West,Home & Kitchen,Air Fryer,1,5999,5486.04,3772.57
+ORD-10059,2025-01-13,West,Apparel,Denim Jacket,2,2999,5786.91,3144.41
+ORD-10082,2025-01-13,North,Electronics,Power Bank,1,1499,1449.93,1103.68
+ORD-10001,2025-01-14,East,Electronics,Smartwatch,1,6999,6217.79,5052.07
+ORD-10043,2025-01-14,South,Electronics,Bluetooth Speaker,2,3299,5966.64,4867.15
+ORD-10060,2025-01-14,South,Beauty & Care,Face Serum,1,899,858.59,413.77
+ORD-10005,2025-01-15,North,Electronics,Wireless Earbuds,1,2499,2358.57,1880.02
+ORD-10011,2025-01-15,West,Home & Kitchen,Steel Water Bottle,1,599,575.18,360.74
+ORD-10041,2025-01-15,West,Electronics,Wireless Earbuds,1,2499,2427.03,1895.03
+ORD-10053,2025-01-15,East,Apparel,Running Shoes,2,3499,6214.19,3718.17
+ORD-10021,2025-01-16,West,Home & Kitchen,Cookware Set,1,2799,2627.05,1785.13
+ORD-10026,2025-01-17,South,Apparel,Denim Jacket,2,2999,5810.77,3067.82
+ORD-10055,2025-01-17,East,Beauty & Care,Perfume,1,1799,1784.37,815.8
+ORD-10068,2025-01-17,North,Apparel,Handloom Saree,2,4999,8965.38,5206.37
+ORD-10017,2025-01-18,West,Apparel,Cotton Kurta,2,1299,2583.0,1365.6
+ORD-10000,2025-01-19,West,Electronics,Smartwatch,1,6999,6848.89,5053.13
+ORD-10002,2025-01-19,South,Electronics,Wireless Earbuds,1,2499,2373.95,1800.65
+ORD-10027,2025-01-20,South,Home & Kitchen,Air Fryer,2,5999,11238.15,7302.03
+ORD-10029,2025-01-20,West,Electronics,Smartwatch,1,6999,6564.49,5330.05
+ORD-10061,2025-01-20,North,Electronics,Wireless Earbuds,1,2499,2350.84,1901.51
+ORD-10010,2025-01-21,West,Apparel,Running Shoes,1,3499,3104.59,1841.48
+ORD-10034,2025-01-21,West,Beauty & Care,Perfume,1,1799,1586.19,832.42
+ORD-10065,2025-01-21,East,Electronics,Wireless Earbuds,1,2499,2317.27,1827.03
+ORD-10080,2025-01-21,North,Home & Kitchen,Mixer Grinder,1,3499,3230.09,2182.83
+ORD-10008,2025-01-22,North,Home & Kitchen,Mixer Grinder,1,3499,3284.43,2109.4
+ORD-10033,2025-01-22,South,Electronics,Power Bank,1,1499,1467.79,1141.23
+ORD-10046,2025-01-22,North,Beauty & Care,Perfume,1,1799,1774.16,793.17
+ORD-10004,2025-01-23,East,Home & Kitchen,Mixer Grinder,1,3499,3158.0,2116.98
+ORD-10022,2025-01-23,East,Home & Kitchen,Air Fryer,2,5999,11624.17,7429.22
+ORD-10069,2025-01-23,South,Home & Kitchen,Air Fryer,1,5999,5921.85,3760.2
+ORD-10076,2025-01-23,East,Apparel,Denim Jacket,1,2999,2735.85,1575.57
+ORD-10074,2025-01-25,West,Electronics,Power Bank,1,1499,1405.28,1121.49
+ORD-10031,2025-01-26,West,Beauty & Care,Perfume,1,1799,1753.48,801.41
+ORD-10013,2025-01-27,East,Home & Kitchen,Steel Water Bottle,1,599,566.61,379.92
+ORD-10037,2025-01-27,South,Beauty & Care,Hair Dryer,1,1999,1954.63,900.45
+ORD-10050,2025-01-27,West,Electronics,Bluetooth Speaker,2,3299,5949.99,4957.45
+ORD-10067,2025-01-27,East,Apparel,Handloom Saree,2,4999,9569.95,5056.65
+ORD-10070,2025-01-27,East,Apparel,Cotton Kurta,1,1299,1199.35,659.47
+ORD-10084,2025-01-28,South,Electronics,Wireless Earbuds,1,2499,2310.74,1837.38
+ORD-10049,2025-01-29,West,Home & Kitchen,Cookware Set,1,2799,2793.99,1765.41
+ORD-10023,2025-01-30,East,Electronics,Wireless Earbuds,3,2499,6922.81,5611.05
+ORD-10057,2025-01-30,North,Electronics,Wireless Earbuds,1,2499,2255.93,1846.46
+ORD-10083,2025-01-30,East,Electronics,Bluetooth Speaker,2,3299,6470.61,4771.21
+ORD-10020,2025-01-31,East,Beauty & Care,Face Serum,1,899,831.71,407.81
+ORD-10042,2025-01-31,North,Electronics,Smartwatch,1,6999,6607.02,5172.43
+ORD-10121,2025-02-01,South,Home & Kitchen,Cookware Set,2,2799,5015.39,3470.04
+ORD-10167,2025-02-01,South,Electronics,Smartwatch,2,6999,12993.42,10211.99
+ORD-10129,2025-02-02,West,Electronics,Smartwatch,1,6999,6838.12,5226.91
+ORD-10111,2025-02-03,West,Electronics,Power Bank,2,1499,2751.28,2167.03
+ORD-10113,2025-02-03,South,Apparel,Handloom Saree,3,4999,13993.58,7615.47
+ORD-10132,2025-02-04,West,Home & Kitchen,Mixer Grinder,1,3499,3405.69,2227.39
+ORD-10153,2025-02-04,East,Apparel,Denim Jacket,1,2999,2860.13,1577.5
+ORD-10125,2025-02-05,West,Electronics,Wireless Earbuds,3,2499,7471.92,5439.0
+ORD-10151,2025-02-05,South,Home & Kitchen,Air Fryer,1,5999,5752.15,3616.87
+ORD-10160,2025-02-05,North,Apparel,Handloom Saree,1,4999,4624.52,2579.04
+ORD-10165,2025-02-05,West,Home & Kitchen,Air Fryer,1,5999,5576.6,3675.01
+ORD-10141,2025-02-06,North,Apparel,Running Shoes,1,3499,3225.22,1782.56
+ORD-10107,2025-02-07,North,Home & Kitchen,Air Fryer,2,5999,11285.14,7307.19
+ORD-10144,2025-02-07,North,Electronics,Smartwatch,2,6999,13361.46,10429.83
+ORD-10090,2025-02-08,East,Home & Kitchen,Cookware Set,2,2799,5364.78,3451.23
+ORD-10105,2025-02-08,East,Electronics,Wireless Earbuds,2,2499,4786.39,3605.56
+ORD-10127,2025-02-08,North,Electronics,Bluetooth Speaker,1,3299,3195.31,2397.2
+ORD-10117,2025-02-09,East,Electronics,Power Bank,1,1499,1330.38,1137.22
+ORD-10133,2025-02-09,East,Apparel,Running Shoes,1,3499,3138.48,1787.16
+ORD-10156,2025-02-09,East,Electronics,Power Bank,1,1499,1484.59,1089.85
+ORD-10157,2025-02-09,West,Apparel,Denim Jacket,1,2999,2704.65,1527.78
+ORD-10112,2025-02-10,East,Beauty & Care,Hair Dryer,1,1999,1885.01,897.8
+ORD-10130,2025-02-10,South,Electronics,Power Bank,1,1499,1399.76,1100.87
+ORD-10142,2025-02-10,West,Beauty & Care,Face Serum,2,899,1753.15,823.89
+ORD-10086,2025-02-11,North,Apparel,Running Shoes,1,3499,3486.84,1812.52
+ORD-10122,2025-02-11,South,Apparel,Running Shoes,2,3499,6668.19,3601.36
+ORD-10162,2025-02-11,North,Home & Kitchen,Cookware Set,3,2799,7979.71,5257.27
+ORD-10115,2025-02-12,South,Home & Kitchen,Cookware Set,1,2799,2479.66,1732.62
+ORD-10131,2025-02-12,East,Electronics,Wireless Earbuds,3,2499,7122.02,5690.97
+ORD-10145,2025-02-12,North,Apparel,Denim Jacket,1,2999,2976.89,1527.34
+ORD-10148,2025-02-12,North,Apparel,Running Shoes,1,3499,3183.78,1807.39
+ORD-10150,2025-02-12,South,Apparel,Handloom Saree,2,4999,9278.55,5063.93
+ORD-10163,2025-02-12,East,Apparel,Cotton Kurta,1,1299,1240.64,672.14
+ORD-10087,2025-02-13,North,Electronics,Bluetooth Speaker,1,3299,2914.6,2479.59
+ORD-10094,2025-02-13,North,Home & Kitchen,Air Fryer,1,5999,5577.07,3724.77
+ORD-10114,2025-02-13,West,Electronics,Bluetooth Speaker,2,3299,6250.52,4958.34
+ORD-10128,2025-02-13,East,Electronics,Smartwatch,2,6999,13289.61,10250.59
+ORD-10143,2025-02-13,South,Electronics,Wireless Earbuds,1,2499,2215.13,1896.55
+ORD-10152,2025-02-13,North,Electronics,Bluetooth Speaker,1,3299,2924.6,2441.83
+ORD-10089,2025-02-14,West,Electronics,Bluetooth Speaker,2,3299,6241.79,4786.07
+ORD-10096,2025-02-14,East,Apparel,Denim Jacket,2,2999,5555.03,3146.24
+ORD-10116,2025-02-14,East,Home & Kitchen,Steel Water Bottle,1,599,591.6,360.91
+ORD-10136,2025-02-14,North,Home & Kitchen,Mixer Grinder,1,3499,3147.85,2194.81
+ORD-10137,2025-02-14,West,Beauty & Care,Hair Dryer,1,1999,1937.91,920.26
+ORD-10138,2025-02-14,North,Home & Kitchen,Cookware Set,1,2799,2599.14,1781.4
+ORD-10098,2025-02-15,West,Home & Kitchen,Air Fryer,2,5999,11746.89,7597.41
+ORD-10149,2025-02-15,East,Home & Kitchen,Steel Water Bottle,1,599,598.0,370.61
+ORD-10166,2025-02-15,East,Electronics,Power Bank,1,1499,1463.29,1123.07
+ORD-10168,2025-02-16,North,Electronics,Bluetooth Speaker,1,3299,3141.39,2443.84
+ORD-10095,2025-02-17,West,Electronics,Wireless Earbuds,1,2499,2307.12,1869.98
+ORD-10092,2025-02-18,West,Home & Kitchen,Mixer Grinder,1,3499,3397.91,2159.93
+ORD-10159,2025-02-18,North,Beauty & Care,Skincare Kit,1,2499,2463.77,1097.87
+ORD-10097,2025-02-19,East,Beauty & Care,Face Serum,1,899,873.51,411.94
+ORD-10100,2025-02-19,East,Apparel,Handloom Saree,2,4999,8799.88,5082.19
+ORD-10140,2025-02-19,East,Electronics,Wireless Earbuds,1,2499,2440.96,1837.8
+ORD-10164,2025-02-19,West,Beauty & Care,Perfume,1,1799,1592.96,787.91
+ORD-10108,2025-02-20,East,Electronics,Smartwatch,1,6999,6797.82,5115.53
+ORD-10109,2025-02-20,South,Home & Kitchen,Mixer Grinder,1,3499,3461.38,2111.64
+ORD-10118,2025-02-20,South,Electronics,Wireless Earbuds,1,2499,2280.78,1900.04
+ORD-10124,2025-02-20,East,Electronics,Bluetooth Speaker,1,3299,2944.78,2378.59
+ORD-10134,2025-02-20,South,Electronics,Smartwatch,2,6999,13005.25,10278.85
+ORD-10155,2025-02-20,South,Beauty & Care,Face Serum,1,899,818.33,400.27
+ORD-10104,2025-02-21,West,Beauty & Care,Skincare Kit,1,2499,2207.9,1118.6
+ORD-10123,2025-02-21,West,Home & Kitchen,Air Fryer,1,5999,5394.26,3698.79
+ORD-10158,2025-02-21,East,Apparel,Handloom Saree,2,4999,8936.31,5208.54
+ORD-10106,2025-02-22,East,Apparel,Running Shoes,1,3499,3221.06,1810.81
+ORD-10110,2025-02-23,East,Electronics,Power Bank,1,1499,1426.35,1103.63
+ORD-10154,2025-02-24,West,Electronics,Power Bank,2,1499,2924.24,2243.3
+ORD-10088,2025-02-25,North,Beauty & Care,Perfume,1,1799,1741.22,807.16
+ORD-10101,2025-02-25,South,Beauty & Care,Hair Dryer,1,1999,1885.84,896.17
+ORD-10120,2025-02-25,East,Apparel,Cotton Kurta,1,1299,1217.19,693.99
+ORD-10139,2025-02-25,East,Beauty & Care,Skincare Kit,1,2499,2372.39,1115.42
+ORD-10091,2025-02-26,East,Electronics,Power Bank,1,1499,1332.64,1109.3
+ORD-10093,2025-02-26,East,Electronics,Wireless Earbuds,1,2499,2294.87,1834.65
+ORD-10102,2025-02-26,West,Electronics,Wireless Earbuds,3,2499,6769.82,5468.19
+ORD-10119,2025-02-26,South,Electronics,Bluetooth Speaker,1,3299,3188.78,2455.26
+ORD-10135,2025-02-26,East,Electronics,Smartwatch,1,6999,6565.21,5150.72
+ORD-10099,2025-02-27,East,Electronics,Wireless Earbuds,1,2499,2490.57,1805.86
+ORD-10103,2025-02-27,West,Apparel,Cotton Kurta,3,1299,3559.65,2004.11
+ORD-10126,2025-02-27,North,Home & Kitchen,Mixer Grinder,2,3499,6716.2,4240.14
+ORD-10146,2025-02-27,South,Electronics,Smartwatch,2,6999,12641.75,10597.09
+ORD-10161,2025-02-27,West,Home & Kitchen,Air Fryer,1,5999,5814.42,3618.58
+ORD-10147,2025-02-28,North,Apparel,Cotton Kurta,1,1299,1203.89,673.69
+ORD-10169,2025-03-02,East,Electronics,Wireless Earbuds,1,2499,2320.87,1820.15
+ORD-10171,2025-03-02,South,Home & Kitchen,Steel Water Bottle,1,599,549.36,366.93
+ORD-10181,2025-03-02,East,Electronics,Wireless Earbuds,1,2499,2211.91,1801.31
+ORD-10195,2025-03-02,East,Apparel,Handloom Saree,1,4999,4812.58,2615.91
+ORD-10209,2025-03-02,North,Beauty & Care,Hair Dryer,1,1999,1876.62,925.17
+ORD-10230,2025-03-02,East,Home & Kitchen,Air Fryer,1,5999,5744.54,3612.39
+ORD-10237,2025-03-02,East,Electronics,Wireless Earbuds,2,2499,4683.16,3757.54
+ORD-10173,2025-03-04,East,Electronics,Power Bank,3,1499,4098.44,3356.54
+ORD-10184,2025-03-04,South,Beauty & Care,Face Serum,1,899,822.12,394.84
+ORD-10189,2025-03-04,West,Electronics,Smartwatch,2,6999,12408.89,10263.93
+ORD-10206,2025-03-04,North,Beauty & Care,Perfume,1,1799,1650.69,815.78
+ORD-10210,2025-03-04,East,Electronics,Smartwatch,2,6999,13898.2,10370.47
+ORD-10231,2025-03-05,South,Apparel,Running Shoes,1,3499,3282.41,1847.56
+ORD-10179,2025-03-06,North,Apparel,Running Shoes,1,3499,3324.89,1826.6
+ORD-10208,2025-03-06,North,Home & Kitchen,Air Fryer,1,5999,5765.22,3815.38
+ORD-10219,2025-03-06,East,Home & Kitchen,Mixer Grinder,1,3499,3185.58,2159.76
+ORD-10228,2025-03-06,East,Beauty & Care,Skincare Kit,1,2499,2378.93,1140.38
+ORD-10239,2025-03-06,North,Electronics,Wireless Earbuds,1,2499,2427.83,1805.03
+ORD-10170,2025-03-07,East,Beauty & Care,Face Serum,1,899,892.63,395.87
+ORD-10222,2025-03-07,West,Beauty & Care,Perfume,1,1799,1708.86,817.19
+ORD-10225,2025-03-07,North,Apparel,Cotton Kurta,2,1299,2531.93,1378.42
+ORD-10234,2025-03-07,West,Electronics,Power Bank,1,1499,1367.99,1109.69
+ORD-10244,2025-03-07,West,Apparel,Denim Jacket,1,2999,2675.84,1573.0
+ORD-10258,2025-03-07,West,Beauty & Care,Skincare Kit,1,2499,2365.16,1144.62
+ORD-10199,2025-03-08,South,Electronics,Smartwatch,2,6999,13330.96,10264.44
+ORD-10201,2025-03-09,East,Electronics,Power Bank,1,1499,1373.46,1095.78
+ORD-10257,2025-03-09,South,Apparel,Running Shoes,2,3499,6886.48,3654.66
+ORD-10186,2025-03-10,South,Electronics,Bluetooth Speaker,2,3299,6282.89,4875.51
+ORD-10233,2025-03-10,West,Apparel,Denim Jacket,1,2999,2729.66,1517.63
+ORD-10249,2025-03-10,East,Electronics,Wireless Earbuds,1,2499,2444.22,1802.62
+ORD-10255,2025-03-10,North,Electronics,Power Bank,1,1499,1480.31,1129.72
+ORD-10192,2025-03-11,West,Apparel,Cotton Kurta,3,1299,3691.83,1978.36
+ORD-10196,2025-03-11,West,Home & Kitchen,Cookware Set,2,2799,5228.74,3481.95
+ORD-10241,2025-03-11,North,Electronics,Bluetooth Speaker,1,3299,3022.69,2429.8
+ORD-10262,2025-03-12,East,Home & Kitchen,Mixer Grinder,1,3499,3154.99,2195.55
+ORD-10212,2025-03-13,West,Home & Kitchen,Cookware Set,3,2799,7601.05,5263.73
+ORD-10213,2025-03-13,North,Home & Kitchen,Air Fryer,1,5999,5738.09,3664.14
+ORD-10236,2025-03-13,West,Electronics,Wireless Earbuds,1,2499,2320.88,1857.48
+ORD-10188,2025-03-14,North,Apparel,Denim Jacket,2,2999,5691.77,3079.12
+ORD-10207,2025-03-14,North,Beauty & Care,Perfume,2,1799,3438.08,1594.82
+ORD-10229,2025-03-14,North,Beauty & Care,Skincare Kit,1,2499,2288.13,1122.24
+ORD-10242,2025-03-14,West,Electronics,Wireless Earbuds,1,2499,2446.45,1879.64
+ORD-10172,2025-03-15,North,Beauty & Care,Skincare Kit,1,2499,2452.35,1141.09
+ORD-10227,2025-03-15,East,Electronics,Power Bank,1,1499,1407.81,1079.87
+ORD-10187,2025-03-16,North,Apparel,Cotton Kurta,1,1299,1223.96,659.2
+ORD-10218,2025-03-16,South,Apparel,Handloom Saree,2,4999,9577.61,5286.25
+ORD-10232,2025-03-16,North,Electronics,Power Bank,1,1499,1474.12,1100.35
+ORD-10261,2025-03-16,North,Electronics,Power Bank,2,1499,2956.66,2221.43
+ORD-10263,2025-03-16,West,Home & Kitchen,Cookware Set,1,2799,2513.17,1687.96
+ORD-10175,2025-03-17,West,Beauty & Care,Hair Dryer,2,1999,3947.23,1754.35
+ORD-10226,2025-03-18,West,Home & Kitchen,Mixer Grinder,2,3499,6526.55,4438.38
+ORD-10190,2025-03-19,South,Home & Kitchen,Mixer Grinder,1,3499,3481.03,2171.35
+ORD-10205,2025-03-19,North,Apparel,Denim Jacket,1,2999,2954.95,1572.74
+ORD-10214,2025-03-19,East,Home & Kitchen,Air Fryer,2,5999,11463.22,7516.82
+ORD-10221,2025-03-19,East,Apparel,Running Shoes,1,3499,3240.82,1774.21
+ORD-10198,2025-03-20,West,Beauty & Care,Perfume,1,1799,1746.05,825.41
+ORD-10203,2025-03-20,West,Apparel,Denim Jacket,1,2999,2805.84,1525.96
+ORD-10220,2025-03-20,West,Home & Kitchen,Cookware Set,1,2799,2570.71,1733.81
+ORD-10253,2025-03-20,West,Home & Kitchen,Cookware Set,1,2799,2681.76,1766.82
+ORD-10193,2025-03-21,South,Home & Kitchen,Steel Water Bottle,2,599,1161.37,739.29
+ORD-10197,2025-03-21,North,Electronics,Power Bank,1,1499,1360.68,1098.22
+ORD-10216,2025-03-21,East,Beauty & Care,Skincare Kit,1,2499,2432.01,1145.44
+ORD-10235,2025-03-21,West,Apparel,Cotton Kurta,1,1299,1189.76,678.98
+ORD-10200,2025-03-22,East,Electronics,Smartwatch,3,6999,20984.21,15225.1
+ORD-10238,2025-03-22,North,Apparel,Handloom Saree,1,4999,4816.88,2614.5
+ORD-10177,2025-03-23,West,Electronics,Power Bank,1,1499,1482.37,1117.96
+ORD-10180,2025-03-23,East,Electronics,Wireless Earbuds,1,2499,2247.64,1902.23
+ORD-10224,2025-03-23,East,Home & Kitchen,Mixer Grinder,1,3499,3303.55,2183.63
+ORD-10248,2025-03-23,West,Electronics,Power Bank,3,1499,4094.46,3420.49
+ORD-10204,2025-03-24,North,Apparel,Cotton Kurta,2,1299,2420.31,1356.96
+ORD-10246,2025-03-24,East,Electronics,Wireless Earbuds,1,2499,2414.84,1820.66
+ORD-10223,2025-03-25,East,Beauty & Care,Hair Dryer,1,1999,1793.36,885.17
+ORD-10247,2025-03-25,West,Apparel,Cotton Kurta,2,1299,2502.86,1322.17
+ORD-10252,2025-03-25,West,Apparel,Handloom Saree,2,4999,9341.44,5127.83
+ORD-10260,2025-03-25,North,Electronics,Wireless Earbuds,1,2499,2225.42,1883.28
+ORD-10174,2025-03-26,North,Electronics,Bluetooth Speaker,1,3299,3122.35,2431.89
+ORD-10215,2025-03-26,West,Electronics,Smartwatch,1,6999,6960.02,5325.78
+ORD-10217,2025-03-26,South,Electronics,Smartwatch,1,6999,6718.51,5282.03
+ORD-10211,2025-03-27,West,Beauty & Care,Skincare Kit,2,2499,4705.43,2267.89
+ORD-10240,2025-03-27,North,Beauty & Care,Skincare Kit,2,2499,4791.51,2231.4
+ORD-10183,2025-03-28,East,Beauty & Care,Skincare Kit,1,2499,2232.7,1093.14
+ORD-10202,2025-03-28,West,Electronics,Wireless Earbuds,2,2499,4676.48,3590.36
+ORD-10245,2025-03-28,West,Beauty & Care,Face Serum,1,899,863.33,416.36
+ORD-10182,2025-03-29,East,Electronics,Bluetooth Speaker,3,3299,9343.43,7395.92
+ORD-10194,2025-03-29,West,Electronics,Smartwatch,1,6999,6616.8,5077.05
+ORD-10254,2025-03-29,South,Electronics,Wireless Earbuds,1,2499,2291.66,1841.33
+ORD-10256,2025-03-29,East,Apparel,Running Shoes,1,3499,3325.44,1853.98
+ORD-10176,2025-03-30,South,Electronics,Bluetooth Speaker,2,3299,5966.79,4782.68
+ORD-10185,2025-03-30,West,Apparel,Denim Jacket,1,2999,2733.11,1545.53
+ORD-10259,2025-03-30,West,Apparel,Denim Jacket,1,2999,2781.45,1578.97
+ORD-10178,2025-03-31,West,Beauty & Care,Skincare Kit,1,2499,2201.03,1092.6
+ORD-10191,2025-03-31,South,Beauty & Care,Hair Dryer,3,1999,5443.98,2644.54
+ORD-10243,2025-03-31,West,Home & Kitchen,Steel Water Bottle,1,599,554.95,373.43
+ORD-10250,2025-03-31,South,Electronics,Smartwatch,2,6999,13341.13,10244.34
+ORD-10251,2025-03-31,West,Home & Kitchen,Steel Water Bottle,1,599,596.58,362.84
+ORD-10264,2025-04-01,West,Home & Kitchen,Air Fryer,1,5999,5337.96,3678.27
+ORD-10271,2025-04-01,South,Electronics,Wireless Earbuds,3,2499,6650.69,5565.37
+ORD-10277,2025-04-01,North,Beauty & Care,Perfume,3,1799,5349.04,2411.9
+ORD-10290,2025-04-01,West,Beauty & Care,Hair Dryer,2,1999,3933.0,1798.35
+ORD-10294,2025-04-01,West,Beauty & Care,Face Serum,1,899,869.97,403.25
+ORD-10326,2025-04-01,West,Home & Kitchen,Steel Water Bottle,1,599,569.87,368.06
+ORD-10307,2025-04-02,North,Apparel,Cotton Kurta,1,1299,1224.23,672.79
+ORD-10324,2025-04-02,East,Electronics,Bluetooth Speaker,1,3299,3263.6,2369.59
+ORD-10331,2025-04-02,South,Apparel,Running Shoes,1,3499,3454.13,1809.9
+ORD-10359,2025-04-02,South,Electronics,Bluetooth Speaker,2,3299,6370.44,4747.89
+ORD-10267,2025-04-03,East,Apparel,Denim Jacket,1,2999,2711.45,1529.61
+ORD-10338,2025-04-03,East,Home & Kitchen,Mixer Grinder,1,3499,3439.93,2227.65
+ORD-10343,2025-04-03,West,Electronics,Bluetooth Speaker,2,3299,5824.0,4990.39
+ORD-10295,2025-04-04,East,Home & Kitchen,Mixer Grinder,3,3499,9519.14,6384.12
+ORD-10298,2025-04-04,East,Electronics,Bluetooth Speaker,1,3299,3101.36,2408.98
+ORD-10281,2025-04-05,East,Electronics,Smartwatch,1,6999,6542.26,5173.8
+ORD-10358,2025-04-06,East,Home & Kitchen,Steel Water Bottle,2,599,1104.86,748.5
+ORD-10269,2025-04-08,South,Beauty & Care,Skincare Kit,2,2499,4452.19,2224.64
+ORD-10283,2025-04-08,North,Electronics,Bluetooth Speaker,3,3299,9222.49,7218.99
+ORD-10301,2025-04-08,West,Apparel,Cotton Kurta,3,1299,3792.67,2006.81
+ORD-10312,2025-04-08,North,Home & Kitchen,Cookware Set,1,2799,2567.41,1708.54
+ORD-10313,2025-04-08,South,Electronics,Power Bank,1,1499,1485.36,1086.78
+ORD-10337,2025-04-08,North,Home & Kitchen,Air Fryer,2,5999,11391.63,7279.84
+ORD-10306,2025-04-09,East,Electronics,Wireless Earbuds,1,2499,2278.82,1869.06
+ORD-10334,2025-04-09,North,Electronics,Wireless Earbuds,1,2499,2348.42,1855.17
+ORD-10341,2025-04-09,East,Beauty & Care,Hair Dryer,2,1999,3736.74,1790.29
+ORD-10346,2025-04-09,West,Home & Kitchen,Mixer Grinder,1,3499,3223.76,2160.99
+ORD-10280,2025-04-10,West,Beauty & Care,Hair Dryer,1,1999,1765.22,903.38
+ORD-10284,2025-04-10,West,Beauty & Care,Face Serum,1,899,808.62,412.62
+ORD-10360,2025-04-10,East,Apparel,Handloom Saree,1,4999,4627.52,2527.61
+ORD-10321,2025-04-11,West,Electronics,Bluetooth Speaker,1,3299,3122.97,2424.34
+ORD-10276,2025-04-12,East,Electronics,Wireless Earbuds,2,2499,4444.89,3724.85
+ORD-10278,2025-04-12,South,Apparel,Handloom Saree,1,4999,4539.42,2539.53
+ORD-10291,2025-04-12,East,Home & Kitchen,Steel Water Bottle,1,599,544.97,372.79
+ORD-10344,2025-04-12,West,Electronics,Bluetooth Speaker,1,3299,3252.41,2426.03
+ORD-10348,2025-04-12,North,Apparel,Denim Jacket,1,2999,2925.2,1535.17
+ORD-10274,2025-04-13,West,Home & Kitchen,Air Fryer,1,5999,5559.91,3691.48
+ORD-10302,2025-04-13,South,Apparel,Handloom Saree,1,4999,4990.5,2571.5
+ORD-10316,2025-04-14,West,Home & Kitchen,Air Fryer,3,5999,17300.86,11448.66
+ORD-10318,2025-04-14,East,Home & Kitchen,Steel Water Bottle,1,599,572.56,375.91
+ORD-10322,2025-04-14,West,Electronics,Power Bank,1,1499,1415.69,1129.42
+ORD-10325,2025-04-14,West,Electronics,Power Bank,1,1499,1375.32,1117.25
+ORD-10330,2025-04-14,North,Electronics,Bluetooth Speaker,2,3299,6590.28,4996.23
+ORD-10332,2025-04-14,West,Apparel,Cotton Kurta,3,1299,3727.02,1970.79
+ORD-10279,2025-04-15,North,Electronics,Smartwatch,1,6999,6538.22,5300.24
+ORD-10299,2025-04-15,West,Electronics,Smartwatch,1,6999,6349.8,5231.71
+ORD-10320,2025-04-15,South,Electronics,Bluetooth Speaker,1,3299,3053.38,2434.27
+ORD-10350,2025-04-15,North,Electronics,Power Bank,3,1499,4495.88,3346.94
+ORD-10272,2025-04-16,East,Apparel,Cotton Kurta,1,1299,1258.4,686.08
+ORD-10292,2025-04-17,North,Electronics,Bluetooth Speaker,2,3299,6088.23,5009.11
+ORD-10304,2025-04-17,West,Home & Kitchen,Air Fryer,1,5999,5328.98,3704.44
+ORD-10309,2025-04-17,East,Home & Kitchen,Cookware Set,1,2799,2776.14,1729.13
+ORD-10329,2025-04-17,East,Home & Kitchen,Air Fryer,1,5999,5983.47,3792.14
+ORD-10349,2025-04-17,West,Home & Kitchen,Steel Water Bottle,3,599,1626.23,1144.28
+ORD-10354,2025-04-17,North,Electronics,Smartwatch,1,6999,6631.12,5136.21
+ORD-10347,2025-04-18,South,Apparel,Running Shoes,1,3499,3133.65,1786.33
+ORD-10265,2025-04-19,East,Home & Kitchen,Air Fryer,1,5999,5905.97,3733.99
+ORD-10266,2025-04-19,South,Home & Kitchen,Cookware Set,1,2799,2495.74,1729.85
+ORD-10273,2025-04-19,West,Electronics,Smartwatch,1,6999,6326.22,5256.4
+ORD-10286,2025-04-19,East,Apparel,Running Shoes,1,3499,3462.04,1788.72
+ORD-10319,2025-04-19,West,Beauty & Care,Face Serum,1,899,803.79,402.06
+ORD-10327,2025-04-19,East,Apparel,Denim Jacket,1,2999,2783.39,1565.22
+ORD-10328,2025-04-19,South,Electronics,Smartwatch,1,6999,6528.8,5217.98
+ORD-10340,2025-04-19,East,Beauty & Care,Skincare Kit,1,2499,2265.96,1101.57
+ORD-10342,2025-04-19,South,Beauty & Care,Skincare Kit,1,2499,2402.22,1136.35
+ORD-10300,2025-04-20,South,Apparel,Denim Jacket,1,2999,2867.64,1577.62
+ORD-10336,2025-04-20,East,Home & Kitchen,Air Fryer,1,5999,5655.25,3791.49
+ORD-10288,2025-04-21,North,Electronics,Power Bank,1,1499,1343.77,1120.57
+ORD-10305,2025-04-21,East,Apparel,Denim Jacket,3,2999,8755.79,4801.09
+ORD-10352,2025-04-22,West,Electronics,Wireless Earbuds,1,2499,2430.55,1836.48
+ORD-10293,2025-04-23,North,Electronics,Bluetooth Speaker,2,3299,6491.49,4830.08
+ORD-10297,2025-04-23,West,Home & Kitchen,Steel Water Bottle,2,599,1069.03,759.23
+ORD-10311,2025-04-23,North,Home & Kitchen,Steel Water Bottle,1,599,573.87,364.72
+ORD-10355,2025-04-23,East,Apparel,Denim Jacket,1,2999,2720.61,1524.5
+ORD-10270,2025-04-24,East,Apparel,Handloom Saree,2,4999,9243.24,5116.34
+ORD-10289,2025-04-24,East,Apparel,Running Shoes,1,3499,3386.77,1809.45
+ORD-10310,2025-04-24,South,Electronics,Bluetooth Speaker,1,3299,3011.64,2475.82
+ORD-10314,2025-04-25,West,Electronics,Bluetooth Speaker,1,3299,3294.06,2411.31
+ORD-10335,2025-04-25,North,Beauty & Care,Perfume,1,1799,1609.35,792.88
+ORD-10339,2025-04-25,North,Home & Kitchen,Steel Water Bottle,1,599,542.94,369.06
+ORD-10351,2025-04-25,West,Home & Kitchen,Cookware Set,1,2799,2634.48,1696.39
+ORD-10285,2025-04-26,West,Electronics,Wireless Earbuds,1,2499,2352.29,1842.94
+ORD-10282,2025-04-27,North,Beauty & Care,Face Serum,2,899,1781.87,812.01
+ORD-10287,2025-04-27,West,Electronics,Smartwatch,1,6999,6306.63,5210.54
+ORD-10296,2025-04-27,East,Electronics,Wireless Earbuds,2,2499,4841.31,3645.58
+ORD-10315,2025-04-27,North,Electronics,Wireless Earbuds,1,2499,2396.36,1851.15
+ORD-10317,2025-04-27,East,Electronics,Bluetooth Speaker,1,3299,3144.91,2408.56
+ORD-10323,2025-04-27,East,Home & Kitchen,Mixer Grinder,2,3499,6430.21,4428.15
+ORD-10333,2025-04-27,West,Electronics,Wireless Earbuds,2,2499,4400.59,3655.13
+ORD-10303,2025-04-28,West,Beauty & Care,Face Serum,1,899,864.5,400.99
+ORD-10353,2025-04-28,West,Apparel,Denim Jacket,1,2999,2670.08,1529.26
+ORD-10356,2025-04-28,West,Home & Kitchen,Cookware Set,2,2799,5446.85,3550.47
+ORD-10357,2025-04-29,East,Beauty & Care,Hair Dryer,1,1999,1950.88,909.86
+ORD-10268,2025-04-30,North,Electronics,Wireless Earbuds,2,2499,4673.1,3797.76
+ORD-10275,2025-04-30,South,Electronics,Smartwatch,2,6999,13816.87,10338.57
+ORD-10308,2025-04-30,West,Electronics,Bluetooth Speaker,1,3299,2927.01,2508.5
+ORD-10345,2025-04-30,West,Electronics,Power Bank,1,1499,1492.03,1104.09
+ORD-10361,2025-04-30,North,Apparel,Denim Jacket,1,2999,2818.3,1561.42
+ORD-10436,2025-05-01,South,Beauty & Care,Perfume,1,1799,1746.45,789.63
+ORD-10440,2025-05-01,East,Apparel,Handloom Saree,2,4999,8830.0,5248.88
+ORD-10447,2025-05-01,East,Home & Kitchen,Steel Water Bottle,2,599,1197.26,733.74
+ORD-10451,2025-05-01,West,Electronics,Smartwatch,1,6999,6520.69,5056.47
+ORD-10368,2025-05-02,South,Electronics,Smartwatch,1,6999,6615.96,5101.47
+ORD-10381,2025-05-02,North,Electronics,Smartwatch,1,6999,6857.39,5098.27
+ORD-10384,2025-05-02,South,Electronics,Wireless Earbuds,1,2499,2264.58,1835.11
+ORD-10428,2025-05-02,North,Electronics,Wireless Earbuds,1,2499,2402.73,1831.26
+ORD-10433,2025-05-02,East,Beauty & Care,Hair Dryer,1,1999,1954.25,898.34
+ORD-10455,2025-05-02,West,Electronics,Wireless Earbuds,1,2499,2278.48,1801.43
+ORD-10377,2025-05-03,West,Apparel,Handloom Saree,2,4999,9184.34,5155.07
+ORD-10413,2025-05-03,North,Beauty & Care,Face Serum,2,899,1613.23,803.49
+ORD-10421,2025-05-03,East,Electronics,Bluetooth Speaker,1,3299,3163.95,2509.49
+ORD-10376,2025-05-04,East,Beauty & Care,Skincare Kit,2,2499,4986.13,2257.69
+ORD-10453,2025-05-04,East,Home & Kitchen,Mixer Grinder,1,3499,3344.99,2175.31
+ORD-10391,2025-05-05,South,Home & Kitchen,Air Fryer,1,5999,5811.63,3762.08
+ORD-10420,2025-05-05,West,Home & Kitchen,Steel Water Bottle,2,599,1187.86,746.63
+ORD-10426,2025-05-05,East,Electronics,Wireless Earbuds,2,2499,4923.34,3663.27
+ORD-10374,2025-05-06,West,Electronics,Bluetooth Speaker,1,3299,3025.41,2509.06
+ORD-10382,2025-05-06,South,Electronics,Power Bank,3,1499,4224.15,3327.69
+ORD-10405,2025-05-06,East,Electronics,Power Bank,1,1499,1338.98,1129.27
+ORD-10373,2025-05-07,South,Apparel,Handloom Saree,1,4999,4572.69,2577.72
+ORD-10427,2025-05-07,West,Electronics,Bluetooth Speaker,2,3299,6312.88,5006.41
+ORD-10466,2025-05-07,South,Home & Kitchen,Mixer Grinder,1,3499,3397.08,2151.69
+ORD-10364,2025-05-08,West,Beauty & Care,Face Serum,2,899,1797.59,814.7
+ORD-10393,2025-05-08,East,Home & Kitchen,Air Fryer,3,5999,16275.38,11325.41
+ORD-10394,2025-05-08,North,Beauty & Care,Hair Dryer,1,1999,1919.9,910.84
+ORD-10406,2025-05-09,South,Electronics,Bluetooth Speaker,1,3299,3234.16,2454.2
+ORD-10389,2025-05-10,South,Beauty & Care,Face Serum,1,899,864.1,407.2
+ORD-10380,2025-05-11,North,Electronics,Bluetooth Speaker,1,3299,2976.18,2488.91
+ORD-10390,2025-05-11,South,Home & Kitchen,Steel Water Bottle,1,599,573.65,366.91
+ORD-10401,2025-05-11,South,Electronics,Wireless Earbuds,2,2499,4499.0,3752.98
+ORD-10430,2025-05-11,South,Electronics,Power Bank,1,1499,1376.12,1119.52
+ORD-10398,2025-05-12,South,Home & Kitchen,Mixer Grinder,1,3499,3278.61,2116.42
+ORD-10415,2025-05-12,South,Electronics,Wireless Earbuds,2,2499,4777.95,3728.39
+ORD-10434,2025-05-12,North,Apparel,Running Shoes,1,3499,3375.71,1825.95
+ORD-10442,2025-05-12,East,Beauty & Care,Perfume,1,1799,1736.24,797.01
+ORD-10378,2025-05-13,North,Apparel,Running Shoes,1,3499,3392.96,1767.66
+ORD-10383,2025-05-13,East,Beauty & Care,Face Serum,1,899,806.04,407.87
+ORD-10386,2025-05-13,East,Electronics,Power Bank,3,1499,4052.49,3372.66
+ORD-10388,2025-05-13,West,Electronics,Power Bank,1,1499,1431.68,1086.26
+ORD-10417,2025-05-13,West,Home & Kitchen,Cookware Set,1,2799,2580.82,1740.66
+ORD-10429,2025-05-13,East,Beauty & Care,Face Serum,1,899,874.83,416.39
+ORD-10458,2025-05-13,West,Apparel,Running Shoes,1,3499,3255.11,1871.11
+ORD-10372,2025-05-15,North,Apparel,Handloom Saree,1,4999,4798.96,2614.87
+ORD-10375,2025-05-15,North,Electronics,Power Bank,1,1499,1419.41,1079.02
+ORD-10392,2025-05-15,North,Apparel,Running Shoes,3,3499,9690.83,5373.37
+ORD-10404,2025-05-15,South,Apparel,Cotton Kurta,1,1299,1182.81,663.04
+ORD-10424,2025-05-15,North,Electronics,Smartwatch,1,6999,6175.97,5038.7
+ORD-10462,2025-05-16,West,Home & Kitchen,Cookware Set,1,2799,2622.15,1750.72
+ORD-10365,2025-05-17,West,Electronics,Wireless Earbuds,3,2499,6995.5,5494.62
+ORD-10396,2025-05-17,North,Electronics,Power Bank,2,1499,2686.55,2218.94
+ORD-10407,2025-05-17,South,Home & Kitchen,Cookware Set,1,2799,2578.11,1699.03
+ORD-10438,2025-05-17,South,Apparel,Denim Jacket,2,2999,5894.13,3171.19
+ORD-10452,2025-05-17,East,Electronics,Bluetooth Speaker,1,3299,3282.04,2510.19
+ORD-10459,2025-05-17,South,Apparel,Handloom Saree,2,4999,9560.06,5117.57
+ORD-10367,2025-05-18,West,Beauty & Care,Perfume,1,1799,1788.7,825.34
+ORD-10387,2025-05-18,South,Electronics,Power Bank,1,1499,1421.2,1107.19
+ORD-10423,2025-05-18,South,Apparel,Cotton Kurta,1,1299,1170.44,691.6
+ORD-10464,2025-05-18,North,Electronics,Bluetooth Speaker,1,3299,3030.65,2460.14
+ORD-10395,2025-05-19,West,Home & Kitchen,Mixer Grinder,2,3499,6775.96,4445.3
+ORD-10443,2025-05-19,North,Electronics,Power Bank,1,1499,1497.98,1090.4
+ORD-10465,2025-05-19,East,Apparel,Running Shoes,2,3499,6878.51,3605.72
+ORD-10410,2025-05-20,West,Apparel,Cotton Kurta,1,1299,1191.64,660.52
+ORD-10371,2025-05-21,East,Apparel,Running Shoes,2,3499,6651.64,3582.36
+ORD-10461,2025-05-21,South,Electronics,Wireless Earbuds,1,2499,2407.29,1829.77
+ORD-10467,2025-05-21,East,Home & Kitchen,Cookware Set,1,2799,2739.17,1731.25
+ORD-10379,2025-05-22,West,Apparel,Running Shoes,3,3499,9899.22,5588.0
+ORD-10397,2025-05-22,North,Apparel,Cotton Kurta,3,1299,3670.27,2021.58
+ORD-10408,2025-05-22,South,Home & Kitchen,Air Fryer,1,5999,5410.34,3790.41
+ORD-10419,2025-05-22,South,Electronics,Smartwatch,1,6999,6331.6,5300.07
+ORD-10432,2025-05-22,West,Electronics,Bluetooth Speaker,1,3299,3136.09,2449.32
+ORD-10445,2025-05-22,West,Electronics,Wireless Earbuds,1,2499,2466.3,1811.71
+ORD-10449,2025-05-22,West,Home & Kitchen,Mixer Grinder,1,3499,3253.03,2187.88
+ORD-10460,2025-05-22,North,Beauty & Care,Hair Dryer,2,1999,3993.69,1834.24
+ORD-10369,2025-05-23,West,Electronics,Bluetooth Speaker,1,3299,3026.06,2388.02
+ORD-10414,2025-05-23,West,Home & Kitchen,Cookware Set,1,2799,2659.41,1697.8
+ORD-10450,2025-05-23,South,Apparel,Running Shoes,1,3499,3177.63,1851.37
+ORD-10456,2025-05-23,West,Electronics,Wireless Earbuds,1,2499,2307.86,1794.96
+ORD-10463,2025-05-23,East,Home & Kitchen,Steel Water Bottle,1,599,580.55,368.68
+ORD-10446,2025-05-24,East,Apparel,Handloom Saree,1,4999,4868.33,2654.28
+ORD-10448,2025-05-24,South,Apparel,Denim Jacket,1,2999,2967.19,1526.81
+ORD-10363,2025-05-25,South,Electronics,Wireless Earbuds,2,2499,4420.51,3658.25
+ORD-10416,2025-05-25,South,Apparel,Denim Jacket,3,2999,8652.96,4623.42
+ORD-10422,2025-05-25,North,Beauty & Care,Face Serum,1,899,829.25,403.77
+ORD-10435,2025-05-25,East,Home & Kitchen,Cookware Set,1,2799,2622.92,1751.56
+ORD-10403,2025-05-26,East,Home & Kitchen,Steel Water Bottle,1,599,534.28,372.47
+ORD-10431,2025-05-27,East,Electronics,Bluetooth Speaker,1,3299,2986.45,2445.58
+ORD-10444,2025-05-27,South,Apparel,Handloom Saree,2,4999,9118.91,5277.42
+ORD-10366,2025-05-28,West,Apparel,Handloom Saree,1,4999,4522.68,2626.48
+ORD-10400,2025-05-28,East,Electronics,Bluetooth Speaker,1,3299,3262.79,2380.87
+ORD-10457,2025-05-28,West,Electronics,Power Bank,1,1499,1443.29,1141.36
+ORD-10362,2025-05-29,South,Home & Kitchen,Cookware Set,1,2799,2719.63,1751.56
+ORD-10385,2025-05-29,East,Beauty & Care,Skincare Kit,1,2499,2215.7,1138.77
+ORD-10412,2025-05-29,West,Home & Kitchen,Air Fryer,1,5999,5442.26,3663.31
+ORD-10418,2025-05-29,North,Electronics,Bluetooth Speaker,2,3299,6425.84,4883.61
+ORD-10439,2025-05-29,West,Electronics,Smartwatch,2,6999,12676.26,10614.8
+ORD-10454,2025-05-29,South,Home & Kitchen,Steel Water Bottle,1,599,596.88,379.25
+ORD-10370,2025-05-30,East,Home & Kitchen,Steel Water Bottle,1,599,564.17,370.16
+ORD-10411,2025-05-30,South,Electronics,Smartwatch,2,6999,12874.86,10338.88
+ORD-10441,2025-05-30,North,Electronics,Power Bank,1,1499,1360.15,1101.01
+ORD-10399,2025-05-31,West,Apparel,Cotton Kurta,1,1299,1149.63,683.66
+ORD-10402,2025-05-31,South,Apparel,Cotton Kurta,1,1299,1201.27,685.1
+ORD-10409,2025-05-31,South,Home & Kitchen,Steel Water Bottle,2,599,1118.73,730.69
+ORD-10425,2025-05-31,South,Electronics,Bluetooth Speaker,1,3299,2980.99,2475.52
+ORD-10437,2025-05-31,East,Apparel,Cotton Kurta,1,1299,1229.67,662.58
+ORD-10472,2025-06-01,West,Apparel,Running Shoes,2,3499,6370.59,3651.23
+ORD-10490,2025-06-01,West,Apparel,Denim Jacket,2,2999,5756.08,3161.86
+ORD-10505,2025-06-01,North,Home & Kitchen,Mixer Grinder,1,3499,3322.7,2117.4
+ORD-10519,2025-06-01,West,Electronics,Bluetooth Speaker,2,3299,6171.87,5005.81
+ORD-10566,2025-06-01,West,Electronics,Wireless Earbuds,1,2499,2465.52,1802.51
+ORD-10488,2025-06-02,South,Electronics,Power Bank,2,1499,2730.73,2178.85
+ORD-10517,2025-06-02,East,Apparel,Denim Jacket,1,2999,2921.27,1579.2
+ORD-10541,2025-06-02,South,Home & Kitchen,Air Fryer,1,5999,5540.96,3825.65
+ORD-10568,2025-06-02,West,Electronics,Bluetooth Speaker,3,3299,9410.36,7365.82
+ORD-10503,2025-06-03,West,Electronics,Power Bank,2,1499,2816.88,2275.74
+ORD-10516,2025-06-03,West,Beauty & Care,Skincare Kit,1,2499,2286.67,1150.9
+ORD-10560,2025-06-03,North,Apparel,Handloom Saree,2,4999,8958.49,5148.65
+ORD-10531,2025-06-04,North,Home & Kitchen,Steel Water Bottle,1,599,562.27,360.6
+ORD-10504,2025-06-05,South,Electronics,Bluetooth Speaker,1,3299,3117.18,2380.98
+ORD-10511,2025-06-05,West,Beauty & Care,Skincare Kit,1,2499,2231.07,1106.92
+ORD-10552,2025-06-06,South,Electronics,Smartwatch,1,6999,6580.11,5150.75
+ORD-10557,2025-06-06,South,Apparel,Handloom Saree,2,4999,9914.06,5094.75
+ORD-10532,2025-06-07,West,Beauty & Care,Skincare Kit,1,2499,2336.31,1113.45
+ORD-10476,2025-06-08,South,Electronics,Bluetooth Speaker,1,3299,3143.59,2405.64
+ORD-10496,2025-06-08,West,Electronics,Wireless Earbuds,1,2499,2226.57,1799.36
+ORD-10500,2025-06-08,West,Apparel,Denim Jacket,1,2999,2775.87,1572.65
+ORD-10506,2025-06-08,North,Home & Kitchen,Mixer Grinder,1,3499,3219.0,2162.82
+ORD-10537,2025-06-08,West,Electronics,Smartwatch,1,6999,6875.95,5056.12
+ORD-10562,2025-06-08,North,Electronics,Bluetooth Speaker,1,3299,3240.8,2387.42
+ORD-10473,2025-06-09,North,Home & Kitchen,Air Fryer,1,5999,5671.21,3812.42
+ORD-10486,2025-06-09,South,Beauty & Care,Perfume,1,1799,1639.75,800.47
+ORD-10512,2025-06-09,West,Home & Kitchen,Air Fryer,1,5999,5688.28,3617.19
+ORD-10515,2025-06-09,North,Apparel,Denim Jacket,1,2999,2909.05,1527.07
+ORD-10533,2025-06-09,South,Electronics,Power Bank,1,1499,1371.67,1081.84
+ORD-10469,2025-06-10,West,Electronics,Bluetooth Speaker,1,3299,3165.59,2444.57
+ORD-10487,2025-06-10,North,Apparel,Running Shoes,1,3499,3255.56,1770.48
+ORD-10526,2025-06-10,West,Home & Kitchen,Mixer Grinder,2,3499,6816.97,4435.3
+ORD-10554,2025-06-10,West,Apparel,Cotton Kurta,1,1299,1286.14,676.67
+ORD-10529,2025-06-11,West,Apparel,Cotton Kurta,2,1299,2533.67,1365.78
+ORD-10558,2025-06-11,North,Beauty & Care,Face Serum,1,899,892.57,410.44
+ORD-10569,2025-06-11,East,Electronics,Power Bank,1,1499,1432.35,1098.62
+ORD-10475,2025-06-12,North,Beauty & Care,Hair Dryer,1,1999,1769.65,896.45
+ORD-10477,2025-06-12,South,Home & Kitchen,Mixer Grinder,1,3499,3486.98,2196.96
+ORD-10509,2025-06-12,North,Home & Kitchen,Steel Water Bottle,1,599,568.67,368.1
+ORD-10535,2025-06-12,West,Electronics,Smartwatch,1,6999,6285.86,5075.91
+ORD-10549,2025-06-12,South,Electronics,Bluetooth Speaker,1,3299,3287.71,2481.85
+ORD-10501,2025-06-13,East,Apparel,Cotton Kurta,1,1299,1171.79,668.72
+ORD-10561,2025-06-13,West,Beauty & Care,Face Serum,2,899,1726.33,812.88
+ORD-10468,2025-06-14,West,Beauty & Care,Face Serum,1,899,884.29,402.8
+ORD-10474,2025-06-14,East,Electronics,Power Bank,1,1499,1473.62,1089.41
+ORD-10479,2025-06-14,East,Home & Kitchen,Air Fryer,1,5999,5952.25,3764.22
+ORD-10491,2025-06-15,South,Home & Kitchen,Steel Water Bottle,2,599,1059.32,730.27
+ORD-10492,2025-06-15,South,Electronics,Smartwatch,1,6999,6540.94,5314.39
+ORD-10494,2025-06-16,East,Beauty & Care,Skincare Kit,2,2499,4734.74,2289.68
+ORD-10524,2025-06-16,East,Home & Kitchen,Steel Water Bottle,2,599,1104.44,727.71
+ORD-10551,2025-06-16,North,Home & Kitchen,Air Fryer,1,5999,5509.21,3784.83
+ORD-10471,2025-06-17,North,Home & Kitchen,Mixer Grinder,1,3499,3364.71,2152.06
+ORD-10478,2025-06-17,West,Electronics,Smartwatch,1,6999,6794.1,5141.78
+ORD-10485,2025-06-17,South,Electronics,Power Bank,2,1499,2690.59,2196.47
+ORD-10502,2025-06-17,East,Electronics,Bluetooth Speaker,2,3299,6594.93,5011.25
+ORD-10508,2025-06-17,North,Home & Kitchen,Air Fryer,1,5999,5611.27,3615.33
+ORD-10520,2025-06-17,North,Electronics,Power Bank,1,1499,1460.98,1085.84
+ORD-10539,2025-06-17,East,Home & Kitchen,Steel Water Bottle,2,599,1090.66,739.02
+ORD-10548,2025-06-17,East,Home & Kitchen,Mixer Grinder,2,3499,6210.01,4288.78
+ORD-10481,2025-06-18,North,Apparel,Denim Jacket,1,2999,2653.73,1576.31
+ORD-10507,2025-06-18,East,Electronics,Bluetooth Speaker,2,3299,6042.37,4756.38
+ORD-10545,2025-06-18,North,Home & Kitchen,Cookware Set,1,2799,2722.71,1686.01
+ORD-10547,2025-06-18,West,Home & Kitchen,Cookware Set,2,2799,5259.27,3376.7
+ORD-10559,2025-06-18,South,Home & Kitchen,Steel Water Bottle,1,599,540.47,379.66
+ORD-10484,2025-06-19,West,Electronics,Bluetooth Speaker,1,3299,3176.68,2429.24
+ORD-10555,2025-06-19,East,Beauty & Care,Face Serum,2,899,1591.16,824.96
+ORD-10536,2025-06-20,West,Beauty & Care,Skincare Kit,1,2499,2461.88,1144.17
+ORD-10564,2025-06-20,South,Beauty & Care,Skincare Kit,1,2499,2410.27,1138.3
+ORD-10470,2025-06-21,West,Home & Kitchen,Air Fryer,1,5999,5600.33,3632.75
+ORD-10510,2025-06-21,West,Apparel,Denim Jacket,1,2999,2671.52,1513.16
+ORD-10534,2025-06-21,West,Electronics,Power Bank,1,1499,1362.6,1090.38
+ORD-10483,2025-06-22,East,Electronics,Power Bank,2,1499,2841.29,2159.29
+ORD-10521,2025-06-22,North,Apparel,Denim Jacket,2,2999,5424.88,3198.47
+ORD-10530,2025-06-22,South,Apparel,Handloom Saree,1,4999,4802.2,2644.99
+ORD-10540,2025-06-22,East,Apparel,Handloom Saree,1,4999,4582.28,2632.12
+ORD-10495,2025-06-23,South,Electronics,Bluetooth Speaker,1,3299,2966.05,2481.91
+ORD-10518,2025-06-23,North,Apparel,Cotton Kurta,3,1299,3448.64,2040.82
+ORD-10546,2025-06-23,South,Beauty & Care,Face Serum,1,899,832.17,415.79
+ORD-10513,2025-06-24,West,Home & Kitchen,Mixer Grinder,1,3499,3493.98,2222.54
+ORD-10525,2025-06-24,East,Apparel,Handloom Saree,2,4999,9922.57,5325.23
+ORD-10542,2025-06-24,North,Beauty & Care,Face Serum,1,899,872.15,414.04
+ORD-10544,2025-06-24,North,Electronics,Smartwatch,1,6999,6198.32,5145.77
+ORD-10480,2025-06-25,East,Home & Kitchen,Steel Water Bottle,1,599,555.7,363.25
+ORD-10522,2025-06-25,South,Electronics,Wireless Earbuds,2,2499,4685.96,3697.93
+ORD-10538,2025-06-25,North,Home & Kitchen,Cookware Set,1,2799,2793.8,1759.8
+ORD-10556,2025-06-25,East,Electronics,Bluetooth Speaker,1,3299,2930.78,2448.37
+ORD-10567,2025-06-25,East,Apparel,Cotton Kurta,3,1299,3531.49,2021.3
+ORD-10498,2025-06-26,East,Apparel,Cotton Kurta,1,1299,1261.3,690.67
+ORD-10499,2025-06-26,West,Electronics,Smartwatch,1,6999,6619.99,5090.56
+ORD-10514,2025-06-26,South,Beauty & Care,Perfume,1,1799,1786.76,808.99
+ORD-10570,2025-06-26,East,Home & Kitchen,Mixer Grinder,2,3499,6333.74,4427.12
+ORD-10482,2025-06-27,North,Electronics,Power Bank,1,1499,1358.82,1081.12
+ORD-10563,2025-06-27,West,Apparel,Denim Jacket,2,2999,5925.17,3164.44
+ORD-10493,2025-06-28,East,Electronics,Smartwatch,1,6999,6696.03,5039.1
+ORD-10523,2025-06-28,North,Electronics,Wireless Earbuds,1,2499,2258.81,1863.15
+ORD-10527,2025-06-28,East,Apparel,Cotton Kurta,2,1299,2536.36,1371.28
+ORD-10553,2025-06-28,East,Apparel,Running Shoes,1,3499,3304.04,1837.1
+ORD-10543,2025-06-29,East,Apparel,Handloom Saree,1,4999,4481.3,2670.13
+ORD-10565,2025-06-29,North,Beauty & Care,Face Serum,1,899,846.04,407.16
+ORD-10489,2025-06-30,South,Electronics,Bluetooth Speaker,1,3299,3184.15,2388.72
+ORD-10497,2025-06-30,North,Apparel,Running Shoes,1,3499,3257.39,1859.67
+ORD-10528,2025-06-30,North,Electronics,Smartwatch,1,6999,6896.16,5202.57
+ORD-10550,2025-06-30,West,Beauty & Care,Perfume,2,1799,3371.21,1630.83
+ORD-10641,2025-07-01,North,Electronics,Bluetooth Speaker,3,3299,9186.78,7402.49
+ORD-10655,2025-07-01,North,Electronics,Wireless Earbuds,1,2499,2400.67,1882.5
+ORD-10630,2025-07-02,West,Electronics,Wireless Earbuds,2,2499,4943.93,3682.06
+ORD-10631,2025-07-02,East,Electronics,Wireless Earbuds,1,2499,2270.82,1831.35
+ORD-10573,2025-07-03,South,Home & Kitchen,Air Fryer,3,5999,16548.8,11483.68
+ORD-10581,2025-07-03,South,Electronics,Wireless Earbuds,1,2499,2464.29,1847.71
+ORD-10586,2025-07-03,West,Apparel,Cotton Kurta,1,1299,1281.7,676.87
+ORD-10601,2025-07-03,East,Home & Kitchen,Air Fryer,1,5999,5913.59,3827.32
+ORD-10616,2025-07-03,North,Beauty & Care,Hair Dryer,1,1999,1936.75,880.23
+ORD-10663,2025-07-03,West,Apparel,Denim Jacket,2,2999,5745.17,3055.97
+ORD-10579,2025-07-04,North,Home & Kitchen,Cookware Set,1,2799,2569.15,1720.24
+ORD-10595,2025-07-04,East,Apparel,Handloom Saree,1,4999,4410.05,2639.58
+ORD-10596,2025-07-04,East,Apparel,Cotton Kurta,2,1299,2337.0,1351.94
+ORD-10599,2025-07-04,East,Electronics,Smartwatch,2,6999,13681.45,10332.41
+ORD-10588,2025-07-05,South,Electronics,Smartwatch,1,6999,6246.48,5207.61
+ORD-10645,2025-07-05,North,Apparel,Cotton Kurta,2,1299,2360.57,1378.27
+ORD-10647,2025-07-05,West,Electronics,Wireless Earbuds,1,2499,2472.12,1904.57
+ORD-10666,2025-07-05,East,Electronics,Smartwatch,1,6999,6944.08,5325.3
+ORD-10607,2025-07-06,North,Apparel,Running Shoes,2,3499,6182.05,3613.26
+ORD-10619,2025-07-06,South,Apparel,Denim Jacket,1,2999,2781.19,1577.89
+ORD-10665,2025-07-06,South,Electronics,Wireless Earbuds,1,2499,2273.77,1813.04
+ORD-10574,2025-07-07,West,Apparel,Denim Jacket,3,2999,8867.86,4711.47
+ORD-10576,2025-07-07,North,Home & Kitchen,Steel Water Bottle,2,599,1161.06,754.94
+ORD-10587,2025-07-07,North,Beauty & Care,Hair Dryer,2,1999,3750.7,1814.15
+ORD-10603,2025-07-07,East,Apparel,Cotton Kurta,1,1299,1249.57,686.32
+ORD-10662,2025-07-07,East,Electronics,Bluetooth Speaker,1,3299,3018.79,2448.62
+ORD-10590,2025-07-08,South,Apparel,Cotton Kurta,1,1299,1244.74,690.15
+ORD-10627,2025-07-08,North,Apparel,Denim Jacket,2,2999,5827.16,3185.05
+ORD-10606,2025-07-09,South,Electronics,Power Bank,1,1499,1430.42,1095.51
+ORD-10608,2025-07-09,North,Home & Kitchen,Steel Water Bottle,2,599,1197.18,754.02
+ORD-10623,2025-07-09,East,Apparel,Denim Jacket,1,2999,2940.29,1518.05
+ORD-10646,2025-07-09,North,Apparel,Running Shoes,1,3499,3309.16,1807.09
+ORD-10664,2025-07-09,East,Apparel,Cotton Kurta,1,1299,1226.49,684.62
+ORD-10667,2025-07-09,West,Home & Kitchen,Air Fryer,1,5999,5579.59,3714.66
+ORD-10668,2025-07-09,East,Electronics,Wireless Earbuds,1,2499,2218.13,1799.59
+ORD-10622,2025-07-10,East,Electronics,Smartwatch,1,6999,6816.28,5229.49
+ORD-10650,2025-07-10,South,Electronics,Power Bank,1,1499,1322.27,1095.26
+ORD-10670,2025-07-10,South,Apparel,Denim Jacket,1,2999,2745.34,1514.25
+ORD-10602,2025-07-11,West,Home & Kitchen,Cookware Set,1,2799,2629.09,1743.32
+ORD-10571,2025-07-12,East,Home & Kitchen,Air Fryer,1,5999,5862.78,3667.62
+ORD-10617,2025-07-12,West,Home & Kitchen,Steel Water Bottle,1,599,531.93,360.56
+ORD-10625,2025-07-12,West,Beauty & Care,Hair Dryer,1,1999,1847.73,912.35
+ORD-10628,2025-07-12,East,Apparel,Handloom Saree,1,4999,4458.87,2580.36
+ORD-10652,2025-07-12,West,Apparel,Cotton Kurta,1,1299,1225.8,682.77
+ORD-10658,2025-07-12,West,Beauty & Care,Perfume,2,1799,3330.35,1618.55
+ORD-10620,2025-07-13,South,Home & Kitchen,Air Fryer,1,5999,5511.42,3653.78
+ORD-10657,2025-07-13,South,Electronics,Smartwatch,1,6999,6974.61,5192.48
+ORD-10584,2025-07-14,North,Electronics,Power Bank,2,1499,2696.15,2271.28
+ORD-10644,2025-07-14,South,Home & Kitchen,Mixer Grinder,2,3499,6184.92,4254.81
+ORD-10649,2025-07-14,South,Home & Kitchen,Mixer Grinder,3,3499,9576.12,6680.74
+ORD-10589,2025-07-15,West,Beauty & Care,Skincare Kit,1,2499,2389.96,1138.52
+ORD-10593,2025-07-15,East,Apparel,Cotton Kurta,2,1299,2348.63,1310.51
+ORD-10639,2025-07-15,North,Electronics,Bluetooth Speaker,1,3299,3180.14,2370.32
+ORD-10629,2025-07-16,West,Electronics,Wireless Earbuds,1,2499,2232.07,1855.4
+ORD-10642,2025-07-16,East,Home & Kitchen,Steel Water Bottle,1,599,563.9,381.37
+ORD-10600,2025-07-17,North,Apparel,Denim Jacket,3,2999,8578.83,4562.33
+ORD-10633,2025-07-17,East,Beauty & Care,Face Serum,1,899,797.16,405.07
+ORD-10594,2025-07-18,South,Electronics,Smartwatch,3,6999,20430.93,15112.88
+ORD-10610,2025-07-18,North,Apparel,Cotton Kurta,2,1299,2563.65,1374.84
+ORD-10611,2025-07-18,South,Electronics,Wireless Earbuds,1,2499,2387.14,1834.52
+ORD-10660,2025-07-18,North,Home & Kitchen,Steel Water Bottle,1,599,559.76,367.64
+ORD-10669,2025-07-18,West,Electronics,Bluetooth Speaker,1,3299,2977.7,2504.09
+ORD-10572,2025-07-19,North,Electronics,Bluetooth Speaker,1,3299,3061.53,2443.03
+ORD-10582,2025-07-19,West,Beauty & Care,Hair Dryer,2,1999,3579.8,1756.88
+ORD-10591,2025-07-20,North,Apparel,Handloom Saree,1,4999,4484.17,2663.28
+ORD-10621,2025-07-20,East,Apparel,Denim Jacket,1,2999,2765.35,1544.09
+ORD-10578,2025-07-21,East,Electronics,Bluetooth Speaker,1,3299,3244.99,2473.78
+ORD-10636,2025-07-21,North,Home & Kitchen,Air Fryer,1,5999,5464.36,3721.51
+ORD-10598,2025-07-22,North,Electronics,Wireless Earbuds,1,2499,2383.57,1844.5
+ORD-10605,2025-07-22,South,Apparel,Cotton Kurta,2,1299,2509.67,1312.91
+ORD-10583,2025-07-23,East,Electronics,Power Bank,1,1499,1322.94,1136.47
+ORD-10613,2025-07-23,North,Beauty & Care,Face Serum,1,899,872.58,413.91
+ORD-10614,2025-07-23,South,Electronics,Wireless Earbuds,1,2499,2330.47,1870.0
+ORD-10615,2025-07-23,North,Beauty & Care,Hair Dryer,1,1999,1820.8,874.06
+ORD-10577,2025-07-24,North,Home & Kitchen,Cookware Set,3,2799,8316.33,5275.65
+ORD-10592,2025-07-24,North,Home & Kitchen,Mixer Grinder,2,3499,6162.35,4355.96
+ORD-10638,2025-07-24,North,Home & Kitchen,Mixer Grinder,1,3499,3416.55,2227.38
+ORD-10580,2025-07-25,North,Electronics,Smartwatch,1,6999,6183.8,5245.51
+ORD-10604,2025-07-25,South,Home & Kitchen,Steel Water Bottle,2,599,1136.83,729.87
+ORD-10637,2025-07-25,North,Apparel,Cotton Kurta,2,1299,2296.28,1362.99
+ORD-10661,2025-07-25,West,Home & Kitchen,Steel Water Bottle,2,599,1153.88,750.62
+ORD-10634,2025-07-26,East,Beauty & Care,Perfume,1,1799,1684.26,831.22
+ORD-10635,2025-07-26,South,Apparel,Cotton Kurta,1,1299,1158.39,666.59
+ORD-10643,2025-07-26,North,Apparel,Denim Jacket,1,2999,2939.23,1531.59
+ORD-10648,2025-07-26,East,Home & Kitchen,Air Fryer,1,5999,5336.87,3790.66
+ORD-10651,2025-07-26,South,Apparel,Denim Jacket,1,2999,2829.63,1592.12
+ORD-10585,2025-07-27,East,Electronics,Wireless Earbuds,2,2499,4716.87,3593.69
+ORD-10597,2025-07-27,South,Home & Kitchen,Steel Water Bottle,1,599,588.32,372.63
+ORD-10640,2025-07-27,West,Beauty & Care,Face Serum,2,899,1643.77,832.18
+ORD-10654,2025-07-27,North,Apparel,Running Shoes,1,3499,3480.65,1793.0
+ORD-10653,2025-07-28,West,Beauty & Care,Perfume,1,1799,1637.81,803.82
+ORD-10575,2025-07-29,East,Home & Kitchen,Mixer Grinder,1,3499,3398.04,2114.25
+ORD-10659,2025-07-29,North,Electronics,Smartwatch,2,6999,12508.22,10364.66
+ORD-10609,2025-07-30,West,Apparel,Cotton Kurta,1,1299,1179.09,691.14
+ORD-10618,2025-07-30,North,Electronics,Wireless Earbuds,1,2499,2352.14,1891.18
+ORD-10624,2025-07-30,East,Apparel,Denim Jacket,1,2999,2735.69,1599.78
+ORD-10626,2025-07-30,South,Home & Kitchen,Air Fryer,2,5999,10796.99,7555.16
+ORD-10632,2025-07-30,West,Electronics,Smartwatch,1,6999,6672.41,5334.61
+ORD-10612,2025-07-31,East,Electronics,Power Bank,1,1499,1436.03,1111.82
+ORD-10656,2025-07-31,North,Home & Kitchen,Cookware Set,2,2799,5361.22,3404.17
+ORD-10672,2025-08-01,North,Home & Kitchen,Mixer Grinder,2,3499,6554.52,4321.96
+ORD-10719,2025-08-01,South,Apparel,Running Shoes,1,3499,3293.63,1818.21
+ORD-10773,2025-08-01,South,Electronics,Bluetooth Speaker,1,3299,3288.27,2377.45
+ORD-10775,2025-08-01,South,Electronics,Bluetooth Speaker,3,3299,9514.83,7417.46
+ORD-10743,2025-08-02,East,Beauty & Care,Perfume,1,1799,1658.9,821.07
+ORD-10765,2025-08-02,East,Apparel,Handloom Saree,1,4999,4680.85,2570.28
+ORD-10683,2025-08-03,East,Home & Kitchen,Cookware Set,2,2799,5559.98,3482.74
+ORD-10707,2025-08-03,West,Beauty & Care,Face Serum,1,899,793.67,395.59
+ORD-10764,2025-08-03,East,Beauty & Care,Perfume,3,1799,4944.91,2500.57
+ORD-10690,2025-08-04,North,Home & Kitchen,Mixer Grinder,1,3499,3160.43,2229.03
+ORD-10725,2025-08-04,East,Electronics,Smartwatch,1,6999,6481.17,5045.52
+ORD-10732,2025-08-04,West,Beauty & Care,Hair Dryer,2,1999,3674.21,1846.38
+ORD-10739,2025-08-04,North,Beauty & Care,Perfume,3,1799,4774.03,2363.94
+ORD-10753,2025-08-04,East,Home & Kitchen,Air Fryer,2,5999,10706.39,7339.07
+ORD-10777,2025-08-04,East,Home & Kitchen,Mixer Grinder,1,3499,3154.38,2212.63
+ORD-10699,2025-08-05,West,Apparel,Cotton Kurta,2,1299,2550.57,1381.67
+ORD-10716,2025-08-06,East,Electronics,Power Bank,2,1499,2927.01,2272.2
+ORD-10717,2025-08-06,West,Apparel,Denim Jacket,1,2999,2934.91,1534.42
+ORD-10740,2025-08-06,North,Electronics,Bluetooth Speaker,1,3299,2947.59,2391.76
+ORD-10748,2025-08-06,West,Apparel,Handloom Saree,1,4999,4747.09,2674.21
+ORD-10750,2025-08-06,West,Apparel,Running Shoes,2,3499,6378.5,3663.17
+ORD-10702,2025-08-07,East,Electronics,Wireless Earbuds,1,2499,2219.41,1876.01
+ORD-10721,2025-08-07,South,Home & Kitchen,Mixer Grinder,1,3499,3400.99,2136.2
+ORD-10760,2025-08-07,East,Electronics,Power Bank,1,1499,1461.42,1134.78
+ORD-10770,2025-08-07,West,Electronics,Bluetooth Speaker,1,3299,3027.37,2372.22
+ORD-10678,2025-08-08,West,Electronics,Wireless Earbuds,1,2499,2251.68,1863.62
+ORD-10695,2025-08-08,West,Beauty & Care,Hair Dryer,1,1999,1849.85,878.51
+ORD-10694,2025-08-09,South,Electronics,Wireless Earbuds,1,2499,2453.57,1884.64
+ORD-10697,2025-08-09,South,Beauty & Care,Face Serum,2,899,1745.1,824.3
+ORD-10755,2025-08-09,West,Home & Kitchen,Air Fryer,2,5999,10867.07,7507.64
+ORD-10762,2025-08-09,North,Electronics,Smartwatch,2,6999,13401.82,10568.8
+ORD-10763,2025-08-09,South,Electronics,Smartwatch,1,6999,6879.37,5093.44
+ORD-10766,2025-08-09,North,Apparel,Denim Jacket,1,2999,2829.86,1531.03
+ORD-10674,2025-08-10,North,Home & Kitchen,Cookware Set,1,2799,2706.42,1706.33
+ORD-10685,2025-08-10,West,Home & Kitchen,Mixer Grinder,1,3499,3483.68,2110.97
+ORD-10730,2025-08-10,South,Apparel,Running Shoes,1,3499,3310.85,1835.95
+ORD-10734,2025-08-10,South,Home & Kitchen,Cookware Set,1,2799,2467.15,1776.12
+ORD-10677,2025-08-11,West,Apparel,Running Shoes,1,3499,3207.76,1849.46
+ORD-10698,2025-08-11,West,Home & Kitchen,Cookware Set,2,2799,5015.98,3478.91
+ORD-10720,2025-08-11,South,Home & Kitchen,Air Fryer,2,5999,11363.53,7400.84
+ORD-10768,2025-08-11,North,Home & Kitchen,Cookware Set,1,2799,2630.22,1784.75
+ORD-10687,2025-08-12,East,Apparel,Denim Jacket,1,2999,2929.51,1578.93
+ORD-10704,2025-08-12,West,Beauty & Care,Skincare Kit,1,2499,2450.68,1140.68
+ORD-10709,2025-08-13,East,Apparel,Cotton Kurta,2,1299,2595.64,1345.57
+ORD-10747,2025-08-13,South,Apparel,Cotton Kurta,1,1299,1253.1,662.88
+ORD-10673,2025-08-14,East,Electronics,Smartwatch,1,6999,6361.47,5104.22
+ORD-10684,2025-08-14,West,Home & Kitchen,Air Fryer,1,5999,5819.52,3779.8
+ORD-10715,2025-08-14,West,Home & Kitchen,Air Fryer,1,5999,5465.67,3669.39
+ORD-10741,2025-08-14,North,Electronics,Bluetooth Speaker,3,3299,9137.67,7534.27
+ORD-10689,2025-08-15,West,Beauty & Care,Skincare Kit,3,2499,7140.79,3330.88
+ORD-10705,2025-08-15,North,Home & Kitchen,Air Fryer,3,5999,17772.41,10869.22
+ORD-10722,2025-08-15,West,Electronics,Power Bank,1,1499,1374.89,1118.24
+ORD-10726,2025-08-15,West,Home & Kitchen,Steel Water Bottle,2,599,1175.04,749.24
+ORD-10744,2025-08-15,North,Home & Kitchen,Air Fryer,1,5999,5915.79,3610.88
+ORD-10680,2025-08-16,North,Apparel,Running Shoes,1,3499,3108.53,1807.15
+ORD-10700,2025-08-16,North,Beauty & Care,Face Serum,2,899,1793.51,830.76
+ORD-10757,2025-08-16,West,Apparel,Running Shoes,2,3499,6495.2,3737.21
+ORD-10767,2025-08-16,North,Electronics,Wireless Earbuds,1,2499,2249.42,1808.99
+ORD-10724,2025-08-17,West,Home & Kitchen,Steel Water Bottle,1,599,564.39,370.75
+ORD-10731,2025-08-17,North,Electronics,Wireless Earbuds,2,2499,4662.62,3648.52
+ORD-10746,2025-08-17,West,Home & Kitchen,Mixer Grinder,2,3499,6289.77,4376.8
+ORD-10752,2025-08-17,West,Apparel,Denim Jacket,1,2999,2788.23,1540.21
+ORD-10759,2025-08-17,West,Home & Kitchen,Mixer Grinder,2,3499,6878.67,4276.21
+ORD-10776,2025-08-17,East,Electronics,Power Bank,1,1499,1480.15,1122.11
+ORD-10729,2025-08-19,North,Apparel,Denim Jacket,1,2999,2782.63,1543.26
+ORD-10756,2025-08-19,South,Apparel,Denim Jacket,3,2999,8994.74,4657.88
+ORD-10769,2025-08-19,West,Electronics,Wireless Earbuds,3,2499,7480.5,5428.06
+ORD-10686,2025-08-20,West,Beauty & Care,Perfume,2,1799,3302.68,1650.04
+ORD-10693,2025-08-20,South,Home & Kitchen,Air Fryer,1,5999,5286.62,3778.17
+ORD-10718,2025-08-20,South,Beauty & Care,Perfume,2,1799,3213.65,1615.44
+ORD-10749,2025-08-20,East,Electronics,Power Bank,3,1499,4071.2,3360.56
+ORD-10761,2025-08-20,South,Home & Kitchen,Steel Water Bottle,1,599,548.04,378.95
+ORD-10772,2025-08-20,West,Home & Kitchen,Mixer Grinder,2,3499,6720.78,4302.4
+ORD-10714,2025-08-21,West,Apparel,Denim Jacket,3,2999,8521.92,4578.42
+ORD-10738,2025-08-21,East,Electronics,Smartwatch,1,6999,6772.53,5155.09
+ORD-10754,2025-08-21,West,Apparel,Handloom Saree,2,4999,9106.1,5270.81
+ORD-10675,2025-08-22,North,Electronics,Power Bank,2,1499,2711.86,2193.38
+ORD-10679,2025-08-22,West,Home & Kitchen,Mixer Grinder,2,3499,6761.49,4435.06
+ORD-10692,2025-08-22,West,Electronics,Bluetooth Speaker,2,3299,6478.18,4936.02
+ORD-10774,2025-08-22,East,Electronics,Wireless Earbuds,1,2499,2234.55,1886.63
+ORD-10676,2025-08-23,East,Beauty & Care,Perfume,1,1799,1749.63,825.43
+ORD-10681,2025-08-23,West,Electronics,Smartwatch,2,6999,13893.96,10307.8
+ORD-10691,2025-08-23,South,Beauty & Care,Hair Dryer,1,1999,1882.14,916.51
+ORD-10706,2025-08-23,East,Home & Kitchen,Mixer Grinder,1,3499,3231.65,2229.08
+ORD-10727,2025-08-23,East,Beauty & Care,Face Serum,2,899,1685.11,809.53
+ORD-10742,2025-08-23,East,Electronics,Power Bank,1,1499,1494.43,1142.2
+ORD-10771,2025-08-23,West,Home & Kitchen,Cookware Set,1,2799,2724.43,1781.0
+ORD-10708,2025-08-24,South,Electronics,Bluetooth Speaker,2,3299,6088.59,4801.18
+ORD-10710,2025-08-24,South,Apparel,Cotton Kurta,1,1299,1190.16,668.55
+ORD-10728,2025-08-24,South,Beauty & Care,Skincare Kit,1,2499,2246.04,1134.83
+ORD-10735,2025-08-24,South,Apparel,Denim Jacket,1,2999,2666.37,1532.32
+ORD-10736,2025-08-24,West,Apparel,Denim Jacket,1,2999,2796.25,1524.11
+ORD-10682,2025-08-25,North,Home & Kitchen,Steel Water Bottle,2,599,1099.48,722.75
+ORD-10671,2025-08-26,East,Apparel,Handloom Saree,1,4999,4513.87,2631.88
+ORD-10733,2025-08-26,North,Electronics,Power Bank,1,1499,1473.29,1077.1
+ORD-10745,2025-08-26,North,Beauty & Care,Hair Dryer,1,1999,1794.49,875.16
+ORD-10696,2025-08-27,North,Electronics,Power Bank,2,1499,2842.21,2273.34
+ORD-10723,2025-08-27,North,Electronics,Smartwatch,1,6999,6407.84,5153.67
+ORD-10751,2025-08-27,South,Home & Kitchen,Steel Water Bottle,2,599,1196.38,742.41
+ORD-10712,2025-08-28,East,Home & Kitchen,Mixer Grinder,2,3499,6621.27,4406.32
+ORD-10758,2025-08-28,North,Beauty & Care,Face Serum,1,899,864.43,393.71
+ORD-10701,2025-08-29,North,Apparel,Denim Jacket,1,2999,2662.16,1523.77
+ORD-10703,2025-08-29,West,Beauty & Care,Skincare Kit,1,2499,2312.51,1133.9
+ORD-10713,2025-08-29,South,Home & Kitchen,Air Fryer,1,5999,5295.98,3719.92
+ORD-10737,2025-08-30,South,Beauty & Care,Face Serum,1,899,890.58,394.59
+ORD-10688,2025-08-31,West,Electronics,Smartwatch,1,6999,6236.13,5316.91
+ORD-10711,2025-08-31,West,Beauty & Care,Skincare Kit,1,2499,2399.57,1100.48
+ORD-10778,2025-08-31,East,Electronics,Wireless Earbuds,2,2499,4707.45,3659.35
+ORD-10821,2025-09-01,East,Home & Kitchen,Air Fryer,1,5999,5994.09,3812.03
+ORD-10831,2025-09-01,East,Home & Kitchen,Cookware Set,1,2799,2501.39,1700.12
+ORD-10854,2025-09-01,West,Electronics,Bluetooth Speaker,1,3299,2989.32,2432.09
+ORD-10875,2025-09-01,East,Electronics,Smartwatch,2,6999,12432.69,10629.67
+ORD-10892,2025-09-01,East,Electronics,Smartwatch,1,6999,6266.62,5275.56
+ORD-10780,2025-09-02,West,Beauty & Care,Perfume,2,1799,3175.77,1573.17
+ORD-10783,2025-09-02,North,Electronics,Wireless Earbuds,1,2499,2362.13,1795.46
+ORD-10790,2025-09-02,South,Beauty & Care,Perfume,2,1799,3289.25,1574.38
+ORD-10845,2025-09-02,North,Beauty & Care,Skincare Kit,3,2499,7094.91,3273.55
+ORD-10801,2025-09-03,North,Electronics,Smartwatch,1,6999,6257.38,5274.9
+ORD-10808,2025-09-03,North,Home & Kitchen,Mixer Grinder,2,3499,6753.84,4327.05
+ORD-10820,2025-09-03,East,Home & Kitchen,Cookware Set,1,2799,2636.44,1771.87
+ORD-10839,2025-09-03,West,Home & Kitchen,Steel Water Bottle,1,599,531.39,381.08
+ORD-10782,2025-09-04,East,Home & Kitchen,Mixer Grinder,1,3499,3125.47,2208.02
+ORD-10789,2025-09-04,North,Home & Kitchen,Air Fryer,1,5999,5398.59,3617.93
+ORD-10830,2025-09-04,West,Apparel,Running Shoes,1,3499,3480.2,1805.22
+ORD-10843,2025-09-04,West,Apparel,Denim Jacket,1,2999,2665.08,1571.1
+ORD-10857,2025-09-05,East,Home & Kitchen,Steel Water Bottle,1,599,556.73,371.59
+ORD-10879,2025-09-05,North,Home & Kitchen,Air Fryer,1,5999,5468.12,3814.07
+ORD-10896,2025-09-05,West,Home & Kitchen,Cookware Set,1,2799,2636.24,1702.89
+ORD-10786,2025-09-06,West,Beauty & Care,Face Serum,1,899,890.76,407.08
+ORD-10797,2025-09-06,East,Home & Kitchen,Mixer Grinder,1,3499,3356.24,2107.57
+ORD-10835,2025-09-06,South,Electronics,Power Bank,1,1499,1331.26,1087.6
+ORD-10893,2025-09-06,West,Electronics,Smartwatch,2,6999,13879.67,10295.87
+ORD-10899,2025-09-06,South,Electronics,Bluetooth Speaker,2,3299,5951.88,4895.96
+ORD-10792,2025-09-07,South,Home & Kitchen,Mixer Grinder,1,3499,3172.64,2156.15
+ORD-10795,2025-09-07,South,Electronics,Bluetooth Speaker,1,3299,3101.97,2439.57
+ORD-10803,2025-09-07,South,Electronics,Power Bank,1,1499,1489.62,1113.64
+ORD-10844,2025-09-07,North,Electronics,Bluetooth Speaker,1,3299,3193.89,2380.82
+ORD-10852,2025-09-07,South,Apparel,Handloom Saree,1,4999,4703.14,2644.24
+ORD-10858,2025-09-07,West,Electronics,Power Bank,1,1499,1352.03,1114.42
+ORD-10860,2025-09-07,East,Beauty & Care,Skincare Kit,2,2499,4740.07,2254.22
+ORD-10863,2025-09-07,East,Home & Kitchen,Air Fryer,1,5999,5925.3,3651.86
+ORD-10869,2025-09-07,West,Apparel,Handloom Saree,2,4999,9884.82,5299.04
+ORD-10895,2025-09-07,South,Apparel,Cotton Kurta,3,1299,3612.71,2048.95
+ORD-10784,2025-09-08,East,Electronics,Smartwatch,2,6999,12724.59,10559.87
+ORD-10793,2025-09-08,South,Home & Kitchen,Cookware Set,1,2799,2552.54,1753.15
+ORD-10798,2025-09-08,North,Home & Kitchen,Air Fryer,2,5999,10666.08,7573.44
+ORD-10814,2025-09-08,North,Electronics,Smartwatch,1,6999,6210.07,5233.54
+ORD-10819,2025-09-08,West,Home & Kitchen,Mixer Grinder,1,3499,3438.26,2222.65
+ORD-10841,2025-09-08,South,Beauty & Care,Perfume,3,1799,4764.49,2445.93
+ORD-10866,2025-09-08,North,Electronics,Bluetooth Speaker,1,3299,3097.22,2371.4
+ORD-10867,2025-09-08,West,Electronics,Wireless Earbuds,1,2499,2394.46,1852.98
+ORD-10877,2025-09-08,West,Electronics,Power Bank,3,1499,4164.09,3314.87
+ORD-10885,2025-09-08,East,Electronics,Wireless Earbuds,2,2499,4648.26,3643.46
+ORD-10890,2025-09-08,West,Electronics,Wireless Earbuds,2,2499,4572.93,3655.93
+ORD-10799,2025-09-09,West,Electronics,Bluetooth Speaker,2,3299,6096.59,4944.69
+ORD-10807,2025-09-09,West,Home & Kitchen,Steel Water Bottle,1,599,586.78,360.95
+ORD-10809,2025-09-09,South,Apparel,Denim Jacket,3,2999,8383.95,4744.42
+ORD-10816,2025-09-09,South,Home & Kitchen,Air Fryer,1,5999,5565.26,3740.64
+ORD-10825,2025-09-09,West,Apparel,Handloom Saree,1,4999,4878.81,2537.81
+ORD-10862,2025-09-09,South,Home & Kitchen,Steel Water Bottle,3,599,1615.35,1101.24
+ORD-10880,2025-09-09,West,Home & Kitchen,Cookware Set,1,2799,2520.66,1698.8
+ORD-10788,2025-09-10,West,Apparel,Cotton Kurta,3,1299,3543.64,1984.46
+ORD-10836,2025-09-10,North,Electronics,Smartwatch,2,6999,13424.63,10588.27
+ORD-10837,2025-09-10,North,Home & Kitchen,Mixer Grinder,2,3499,6251.68,4279.86
+ORD-10886,2025-09-10,North,Electronics,Wireless Earbuds,3,2499,7085.99,5599.82
+ORD-10813,2025-09-11,South,Electronics,Bluetooth Speaker,2,3299,6154.02,4859.44
+ORD-10822,2025-09-11,West,Beauty & Care,Face Serum,1,899,861.66,402.67
+ORD-10829,2025-09-11,South,Electronics,Bluetooth Speaker,1,3299,3250.55,2420.43
+ORD-10842,2025-09-11,West,Home & Kitchen,Steel Water Bottle,2,599,1083.43,760.52
+ORD-10888,2025-09-11,West,Beauty & Care,Skincare Kit,1,2499,2205.53,1121.61
+ORD-10889,2025-09-11,North,Electronics,Bluetooth Speaker,1,3299,2940.38,2443.66
+ORD-10815,2025-09-12,South,Electronics,Smartwatch,1,6999,6320.63,5264.01
+ORD-10850,2025-09-12,East,Home & Kitchen,Steel Water Bottle,2,599,1161.36,759.51
+ORD-10861,2025-09-12,North,Beauty & Care,Hair Dryer,1,1999,1984.49,881.84
+ORD-10787,2025-09-14,East,Electronics,Bluetooth Speaker,1,3299,2938.29,2463.06
+ORD-10827,2025-09-15,South,Electronics,Wireless Earbuds,1,2499,2200.56,1839.31
+ORD-10873,2025-09-15,North,Beauty & Care,Perfume,1,1799,1725.13,786.33
+ORD-10891,2025-09-15,North,Home & Kitchen,Cookware Set,1,2799,2544.08,1728.53
+ORD-10823,2025-09-16,North,Home & Kitchen,Steel Water Bottle,1,599,566.66,367.01
+ORD-10828,2025-09-16,West,Electronics,Bluetooth Speaker,3,3299,8910.34,7328.44
+ORD-10871,2025-09-16,South,Electronics,Bluetooth Speaker,1,3299,2906.64,2405.94
+ORD-10898,2025-09-16,South,Electronics,Smartwatch,2,6999,12767.85,10537.17
+ORD-10806,2025-09-17,West,Electronics,Bluetooth Speaker,2,3299,6363.39,4964.85
+ORD-10849,2025-09-17,East,Electronics,Wireless Earbuds,1,2499,2485.22,1834.64
+ORD-10851,2025-09-17,West,Home & Kitchen,Mixer Grinder,2,3499,6710.79,4314.3
+ORD-10894,2025-09-17,West,Apparel,Cotton Kurta,2,1299,2343.74,1362.47
+ORD-10900,2025-09-17,South,Electronics,Smartwatch,1,6999,6560.93,5292.63
+ORD-10794,2025-09-18,North,Electronics,Power Bank,1,1499,1347.13,1080.67
+ORD-10832,2025-09-18,East,Beauty & Care,Hair Dryer,1,1999,1998.63,883.23
+ORD-10884,2025-09-18,East,Home & Kitchen,Air Fryer,1,5999,5738.63,3789.7
+ORD-10802,2025-09-19,East,Apparel,Cotton Kurta,2,1299,2312.49,1335.24
+ORD-10804,2025-09-19,West,Electronics,Smartwatch,1,6999,6472.98,5182.52
+ORD-10868,2025-09-19,North,Electronics,Wireless Earbuds,2,2499,4846.9,3737.75
+ORD-10805,2025-09-20,North,Beauty & Care,Hair Dryer,1,1999,1764.49,895.76
+ORD-10810,2025-09-20,West,Apparel,Cotton Kurta,1,1299,1199.33,656.53
+ORD-10824,2025-09-20,West,Apparel,Handloom Saree,1,4999,4797.07,2593.54
+ORD-10846,2025-09-20,West,Apparel,Denim Jacket,3,2999,8631.27,4673.95
+ORD-10853,2025-09-21,West,Apparel,Denim Jacket,2,2999,5346.15,3077.03
+ORD-10855,2025-09-21,East,Beauty & Care,Hair Dryer,2,1999,3783.14,1810.06
+ORD-10785,2025-09-22,North,Apparel,Handloom Saree,1,4999,4684.88,2527.98
+ORD-10791,2025-09-22,West,Electronics,Smartwatch,1,6999,6721.5,5158.53
+ORD-10818,2025-09-22,North,Electronics,Smartwatch,1,6999,6317.37,5030.21
+ORD-10834,2025-09-22,East,Home & Kitchen,Air Fryer,1,5999,5970.63,3760.07
+ORD-10881,2025-09-22,East,Beauty & Care,Perfume,1,1799,1600.76,815.08
+ORD-10812,2025-09-23,West,Apparel,Denim Jacket,1,2999,2736.24,1558.28
+ORD-10826,2025-09-23,South,Apparel,Handloom Saree,2,4999,9170.97,5314.75
+ORD-10848,2025-09-23,West,Electronics,Smartwatch,2,6999,13714.52,10201.77
+ORD-10779,2025-09-24,East,Home & Kitchen,Air Fryer,2,5999,11970.96,7264.92
+ORD-10872,2025-09-24,West,Apparel,Denim Jacket,1,2999,2747.17,1579.38
+ORD-10887,2025-09-24,East,Home & Kitchen,Air Fryer,1,5999,5778.4,3738.93
+ORD-10897,2025-09-24,South,Beauty & Care,Hair Dryer,1,1999,1960.4,885.55
+ORD-10817,2025-09-25,West,Beauty & Care,Skincare Kit,1,2499,2202.44,1115.9
+ORD-10878,2025-09-25,West,Home & Kitchen,Mixer Grinder,1,3499,3428.7,2155.48
+ORD-10811,2025-09-26,South,Home & Kitchen,Cookware Set,1,2799,2576.28,1694.62
+ORD-10840,2025-09-26,North,Apparel,Cotton Kurta,2,1299,2445.92,1322.4
+ORD-10874,2025-09-26,West,Apparel,Denim Jacket,1,2999,2880.37,1539.54
+ORD-10882,2025-09-26,South,Beauty & Care,Hair Dryer,1,1999,1942.11,878.09
+ORD-10883,2025-09-26,West,Electronics,Bluetooth Speaker,2,3299,6448.05,4842.71
+ORD-10847,2025-09-27,West,Beauty & Care,Perfume,1,1799,1664.44,824.43
+ORD-10856,2025-09-27,West,Beauty & Care,Perfume,2,1799,3505.76,1636.41
+ORD-10800,2025-09-28,West,Electronics,Power Bank,1,1499,1335.57,1124.31
+ORD-10838,2025-09-28,North,Apparel,Denim Jacket,2,2999,5508.39,3049.02
+ORD-10865,2025-09-28,East,Home & Kitchen,Cookware Set,2,2799,5204.05,3523.73
+ORD-10870,2025-09-28,West,Apparel,Denim Jacket,1,2999,2727.33,1564.85
+ORD-10781,2025-09-29,East,Beauty & Care,Skincare Kit,2,2499,4728.87,2230.07
+ORD-10796,2025-09-29,North,Electronics,Power Bank,1,1499,1330.54,1115.2
+ORD-10876,2025-09-29,North,Apparel,Running Shoes,1,3499,3346.45,1845.68
+ORD-10833,2025-09-30,East,Home & Kitchen,Steel Water Bottle,1,599,577.76,363.91
+ORD-10859,2025-09-30,West,Electronics,Smartwatch,1,6999,6861.95,5029.08
+ORD-10864,2025-09-30,South,Electronics,Bluetooth Speaker,1,3299,2975.32,2368.05
+ORD-10918,2025-10-01,South,Apparel,Handloom Saree,2,4999,9501.14,5224.04
+ORD-10920,2025-10-01,North,Home & Kitchen,Steel Water Bottle,1,599,558.19,371.48
+ORD-11007,2025-10-01,West,Home & Kitchen,Mixer Grinder,1,3499,3487.2,2116.06
+ORD-10956,2025-10-02,West,Electronics,Power Bank,1,1499,1498.9,1124.66
+ORD-11002,2025-10-02,East,Electronics,Smartwatch,2,6999,13097.25,10340.02
+ORD-11032,2025-10-02,West,Apparel,Running Shoes,1,3499,3115.54,1872.4
+ORD-11049,2025-10-02,North,Apparel,Handloom Saree,2,4999,9629.2,5333.3
+ORD-10901,2025-10-03,South,Electronics,Smartwatch,2,6999,13948.13,10227.13
+ORD-10913,2025-10-03,North,Home & Kitchen,Air Fryer,1,5999,5978.7,3646.74
+ORD-10945,2025-10-03,West,Electronics,Power Bank,1,1499,1335.24,1083.88
+ORD-10957,2025-10-03,North,Beauty & Care,Perfume,2,1799,3190.55,1599.48
+ORD-10958,2025-10-03,West,Beauty & Care,Perfume,1,1799,1777.46,805.15
+ORD-11015,2025-10-03,North,Apparel,Cotton Kurta,1,1299,1177.0,691.42
+ORD-11016,2025-10-03,North,Home & Kitchen,Mixer Grinder,1,3499,3485.07,2198.88
+ORD-11028,2025-10-03,North,Apparel,Cotton Kurta,1,1299,1231.4,690.3
+ORD-10919,2025-10-04,West,Beauty & Care,Hair Dryer,3,1999,5636.96,2703.02
+ORD-10928,2025-10-04,North,Apparel,Running Shoes,1,3499,3417.28,1854.34
+ORD-10932,2025-10-04,East,Electronics,Power Bank,1,1499,1445.17,1114.61
+ORD-10960,2025-10-04,West,Apparel,Running Shoes,1,3499,3215.46,1811.62
+ORD-10998,2025-10-04,West,Home & Kitchen,Mixer Grinder,3,3499,9587.55,6346.09
+ORD-11003,2025-10-04,South,Electronics,Smartwatch,3,6999,18775.47,15267.58
+ORD-11040,2025-10-04,West,Electronics,Wireless Earbuds,1,2499,2336.13,1876.65
+ORD-11048,2025-10-04,West,Home & Kitchen,Mixer Grinder,1,3499,3116.91,2224.03
+ORD-10911,2025-10-05,South,Beauty & Care,Perfume,1,1799,1730.71,828.62
+ORD-11012,2025-10-05,North,Electronics,Bluetooth Speaker,3,3299,9558.73,7305.86
+ORD-11019,2025-10-05,East,Electronics,Bluetooth Speaker,1,3299,3012.24,2482.61
+ORD-11050,2025-10-05,North,Electronics,Smartwatch,2,6999,12952.21,10594.77
+ORD-10930,2025-10-06,East,Apparel,Running Shoes,1,3499,3286.14,1867.12
+ORD-10972,2025-10-06,East,Electronics,Wireless Earbuds,1,2499,2417.9,1857.87
+ORD-11000,2025-10-06,East,Electronics,Wireless Earbuds,1,2499,2267.65,1799.01
+ORD-11035,2025-10-06,East,Electronics,Power Bank,3,1499,4183.69,3343.8
+ORD-10933,2025-10-07,West,Apparel,Handloom Saree,1,4999,4891.29,2649.51
+ORD-10940,2025-10-07,West,Apparel,Denim Jacket,1,2999,2783.78,1529.52
+ORD-10903,2025-10-08,North,Beauty & Care,Skincare Kit,1,2499,2482.63,1118.02
+ORD-10926,2025-10-08,East,Electronics,Wireless Earbuds,2,2499,4818.79,3757.37
+ORD-10980,2025-10-08,East,Home & Kitchen,Mixer Grinder,1,3499,3368.73,2134.95
+ORD-11008,2025-10-08,West,Electronics,Wireless Earbuds,1,2499,2376.59,1834.5
+ORD-11033,2025-10-08,West,Electronics,Power Bank,1,1499,1397.55,1137.93
+ORD-11034,2025-10-08,East,Home & Kitchen,Cookware Set,2,2799,5000.7,3402.89
+ORD-11039,2025-10-08,East,Electronics,Power Bank,1,1499,1343.5,1097.55
+ORD-11051,2025-10-08,South,Electronics,Power Bank,2,1499,2639.92,2263.33
+ORD-10906,2025-10-09,West,Home & Kitchen,Steel Water Bottle,2,599,1076.43,744.53
+ORD-10909,2025-10-09,East,Home & Kitchen,Air Fryer,1,5999,5814.46,3818.27
+ORD-10973,2025-10-09,East,Home & Kitchen,Cookware Set,2,2799,5025.47,3386.72
+ORD-11025,2025-10-09,East,Apparel,Running Shoes,2,3499,6521.97,3544.84
+ORD-10923,2025-10-10,East,Home & Kitchen,Steel Water Bottle,1,599,570.49,361.41
+ORD-10944,2025-10-10,West,Electronics,Power Bank,2,1499,2715.28,2195.27
+ORD-10949,2025-10-10,West,Apparel,Running Shoes,1,3499,3215.37,1855.56
+ORD-10971,2025-10-10,West,Apparel,Denim Jacket,1,2999,2705.27,1597.64
+ORD-11026,2025-10-10,South,Electronics,Wireless Earbuds,1,2499,2297.12,1821.36
+ORD-11047,2025-10-10,North,Electronics,Smartwatch,1,6999,6192.92,5311.98
+ORD-10910,2025-10-11,North,Apparel,Handloom Saree,1,4999,4676.14,2639.98
+ORD-10931,2025-10-11,West,Apparel,Cotton Kurta,1,1299,1287.78,657.82
+ORD-10935,2025-10-11,North,Electronics,Smartwatch,1,6999,6858.33,5329.91
+ORD-10975,2025-10-11,East,Apparel,Running Shoes,3,3499,10442.2,5298.99
+ORD-11009,2025-10-11,South,Home & Kitchen,Mixer Grinder,3,3499,9597.51,6494.56
+ORD-11017,2025-10-11,East,Electronics,Wireless Earbuds,1,2499,2386.03,1864.59
+ORD-11043,2025-10-11,East,Electronics,Wireless Earbuds,2,2499,4813.99,3670.02
+ORD-10922,2025-10-12,North,Home & Kitchen,Cookware Set,1,2799,2622.51,1776.77
+ORD-10961,2025-10-12,West,Electronics,Power Bank,2,1499,2783.23,2248.72
+ORD-11006,2025-10-12,West,Electronics,Bluetooth Speaker,1,3299,3074.25,2450.19
+ORD-11023,2025-10-12,West,Home & Kitchen,Mixer Grinder,1,3499,3135.87,2219.54
+ORD-11030,2025-10-12,East,Electronics,Bluetooth Speaker,2,3299,5899.1,4927.36
+ORD-10943,2025-10-13,North,Apparel,Running Shoes,1,3499,3372.78,1778.78
+ORD-10948,2025-10-13,North,Beauty & Care,Skincare Kit,1,2499,2416.05,1096.5
+ORD-10984,2025-10-13,South,Electronics,Smartwatch,1,6999,6593.25,5070.06
+ORD-11021,2025-10-13,East,Electronics,Bluetooth Speaker,2,3299,6047.7,4985.89
+ORD-10914,2025-10-14,East,Electronics,Wireless Earbuds,1,2499,2322.69,1899.67
+ORD-10916,2025-10-14,North,Home & Kitchen,Air Fryer,1,5999,5511.65,3743.22
+ORD-10953,2025-10-14,East,Apparel,Cotton Kurta,3,1299,3532.84,2011.27
+ORD-10993,2025-10-14,South,Beauty & Care,Skincare Kit,1,2499,2275.03,1152.62
+ORD-11052,2025-10-14,North,Apparel,Running Shoes,2,3499,6934.36,3537.4
+ORD-10902,2025-10-15,South,Electronics,Power Bank,3,1499,4076.04,3321.06
+ORD-10904,2025-10-15,West,Electronics,Wireless Earbuds,1,2499,2399.07,1803.8
+ORD-10912,2025-10-15,West,Electronics,Smartwatch,1,6999,6956.52,5333.62
+ORD-10924,2025-10-15,South,Home & Kitchen,Steel Water Bottle,1,599,598.44,360.89
+ORD-10939,2025-10-15,West,Electronics,Wireless Earbuds,1,2499,2283.63,1879.4
+ORD-11029,2025-10-15,East,Apparel,Handloom Saree,1,4999,4725.62,2647.3
+ORD-11038,2025-10-15,North,Electronics,Power Bank,1,1499,1372.23,1087.67
+ORD-10915,2025-10-16,North,Electronics,Smartwatch,1,6999,6358.84,5118.61
+ORD-10951,2025-10-16,North,Beauty & Care,Skincare Kit,2,2499,4562.95,2253.99
+ORD-10968,2025-10-16,North,Electronics,Wireless Earbuds,2,2499,4776.32,3731.24
+ORD-10969,2025-10-16,West,Electronics,Smartwatch,1,6999,6806.83,5091.66
+ORD-10978,2025-10-16,West,Electronics,Wireless Earbuds,1,2499,2225.12,1896.37
+ORD-10979,2025-10-16,West,Electronics,Wireless Earbuds,2,2499,4872.81,3712.23
+ORD-10981,2025-10-16,East,Beauty & Care,Face Serum,1,899,805.22,408.94
+ORD-10983,2025-10-16,East,Beauty & Care,Perfume,1,1799,1601.58,802.23
+ORD-10990,2025-10-16,South,Home & Kitchen,Cookware Set,1,2799,2646.22,1685.94
+ORD-10995,2025-10-16,East,Electronics,Smartwatch,1,6999,6725.78,5107.67
+ORD-10996,2025-10-16,West,Home & Kitchen,Air Fryer,2,5999,11286.82,7655.85
+ORD-11013,2025-10-16,North,Beauty & Care,Skincare Kit,1,2499,2441.71,1135.73
+ORD-11055,2025-10-16,North,Apparel,Running Shoes,1,3499,3286.29,1864.86
+ORD-10950,2025-10-17,North,Beauty & Care,Skincare Kit,1,2499,2251.08,1107.95
+ORD-10954,2025-10-17,North,Electronics,Power Bank,1,1499,1338.44,1080.56
+ORD-10959,2025-10-17,East,Electronics,Wireless Earbuds,1,2499,2226.83,1810.74
+ORD-10982,2025-10-17,West,Electronics,Power Bank,1,1499,1438.76,1091.33
+ORD-10986,2025-10-17,East,Electronics,Bluetooth Speaker,1,3299,3096.44,2397.17
+ORD-10992,2025-10-17,West,Electronics,Wireless Earbuds,2,2499,4424.53,3615.62
+ORD-10999,2025-10-17,North,Home & Kitchen,Cookware Set,2,2799,5269.82,3473.39
+ORD-11044,2025-10-17,West,Apparel,Handloom Saree,2,4999,9205.83,5143.18
+ORD-10942,2025-10-19,North,Electronics,Power Bank,1,1499,1390.51,1089.37
+ORD-11005,2025-10-19,North,Apparel,Cotton Kurta,1,1299,1220.11,685.89
+ORD-11027,2025-10-19,North,Apparel,Running Shoes,2,3499,6203.94,3692.47
+ORD-11018,2025-10-20,East,Apparel,Handloom Saree,1,4999,4501.78,2569.24
+ORD-11031,2025-10-20,North,Apparel,Running Shoes,2,3499,6957.67,3715.86
+ORD-10907,2025-10-21,East,Electronics,Smartwatch,2,6999,13280.94,10532.07
+ORD-10955,2025-10-21,North,Electronics,Power Bank,3,1499,4314.15,3341.83
+ORD-10976,2025-10-21,North,Electronics,Smartwatch,1,6999,6446.53,5250.59
+ORD-10977,2025-10-21,West,Electronics,Wireless Earbuds,3,2499,6720.92,5502.94
+ORD-11046,2025-10-21,West,Electronics,Bluetooth Speaker,1,3299,2930.96,2495.17
+ORD-11053,2025-10-21,East,Beauty & Care,Skincare Kit,1,2499,2397.37,1113.17
+ORD-10941,2025-10-22,East,Electronics,Wireless Earbuds,1,2499,2224.15,1821.17
+ORD-10988,2025-10-22,East,Electronics,Smartwatch,2,6999,13533.09,10245.03
+ORD-11024,2025-10-22,West,Beauty & Care,Skincare Kit,1,2499,2240.32,1134.27
+ORD-11037,2025-10-22,West,Electronics,Bluetooth Speaker,2,3299,6351.85,4767.82
+ORD-10925,2025-10-23,North,Beauty & Care,Perfume,1,1799,1720.04,811.17
+ORD-10927,2025-10-23,South,Electronics,Smartwatch,1,6999,6479.3,5094.24
+ORD-10952,2025-10-23,West,Electronics,Smartwatch,1,6999,6995.3,5250.25
+ORD-10965,2025-10-23,West,Electronics,Bluetooth Speaker,1,3299,3029.38,2369.41
+ORD-10966,2025-10-24,West,Beauty & Care,Hair Dryer,1,1999,1928.07,888.68
+ORD-10974,2025-10-24,West,Apparel,Handloom Saree,2,4999,9924.06,5131.39
+ORD-10938,2025-10-25,East,Electronics,Smartwatch,2,6999,13449.05,10123.5
+ORD-10946,2025-10-25,East,Home & Kitchen,Steel Water Bottle,1,599,534.53,371.42
+ORD-10963,2025-10-25,North,Apparel,Running Shoes,1,3499,3379.24,1853.51
+ORD-10987,2025-10-25,North,Beauty & Care,Face Serum,1,899,895.35,397.86
+ORD-10997,2025-10-25,West,Beauty & Care,Face Serum,1,899,874.31,396.66
+ORD-11001,2025-10-25,West,Electronics,Power Bank,2,1499,2889.17,2249.12
+ORD-10964,2025-10-26,West,Home & Kitchen,Mixer Grinder,1,3499,3193.94,2135.04
+ORD-10970,2025-10-26,West,Apparel,Running Shoes,2,3499,6273.23,3695.31
+ORD-10985,2025-10-26,North,Electronics,Smartwatch,1,6999,6225.47,5172.62
+ORD-10989,2025-10-26,North,Electronics,Wireless Earbuds,1,2499,2479.04,1836.44
+ORD-11010,2025-10-26,South,Beauty & Care,Perfume,1,1799,1638.13,819.18
+ORD-11036,2025-10-26,East,Electronics,Wireless Earbuds,1,2499,2242.03,1860.6
+ORD-10934,2025-10-27,South,Beauty & Care,Perfume,1,1799,1583.34,827.39
+ORD-11054,2025-10-27,North,Electronics,Power Bank,1,1499,1320.73,1107.8
+ORD-10905,2025-10-28,West,Electronics,Wireless Earbuds,3,2499,7395.06,5422.82
+ORD-10917,2025-10-28,South,Electronics,Bluetooth Speaker,1,3299,3236.56,2493.0
+ORD-10936,2025-10-28,South,Beauty & Care,Perfume,1,1799,1730.67,818.51
+ORD-10937,2025-10-28,West,Apparel,Handloom Saree,1,4999,4724.73,2542.6
+ORD-10967,2025-10-28,North,Home & Kitchen,Steel Water Bottle,2,599,1195.94,737.35
+ORD-10994,2025-10-28,West,Beauty & Care,Hair Dryer,1,1999,1869.78,883.75
+ORD-11011,2025-10-28,West,Beauty & Care,Skincare Kit,1,2499,2438.5,1149.08
+ORD-11041,2025-10-28,North,Apparel,Cotton Kurta,1,1299,1166.81,668.52
+ORD-11045,2025-10-28,South,Electronics,Bluetooth Speaker,1,3299,3177.63,2427.15
+ORD-10921,2025-10-29,South,Electronics,Power Bank,3,1499,4366.68,3237.08
+ORD-11020,2025-10-29,East,Electronics,Power Bank,1,1499,1424.79,1105.54
+ORD-11042,2025-10-29,East,Electronics,Wireless Earbuds,2,2499,4875.39,3764.23
+ORD-10908,2025-10-30,South,Electronics,Power Bank,2,1499,2842.14,2195.37
+ORD-11004,2025-10-30,North,Electronics,Bluetooth Speaker,2,3299,6214.75,4900.77
+ORD-11014,2025-10-30,East,Apparel,Denim Jacket,1,2999,2790.61,1536.05
+ORD-11022,2025-10-30,South,Electronics,Bluetooth Speaker,1,3299,3267.83,2404.74
+ORD-10929,2025-10-31,South,Electronics,Power Bank,1,1499,1399.76,1132.17
+ORD-10947,2025-10-31,East,Home & Kitchen,Steel Water Bottle,1,599,590.39,378.86
+ORD-10962,2025-10-31,East,Home & Kitchen,Mixer Grinder,1,3499,3146.02,2203.56
+ORD-10991,2025-10-31,South,Electronics,Smartwatch,1,6999,6516.13,5326.65
+ORD-11087,2025-11-01,North,Electronics,Smartwatch,1,6999,6940.06,5231.98
+ORD-11101,2025-11-01,West,Electronics,Smartwatch,2,6999,12652.83,10236.73
+ORD-11143,2025-11-01,North,Beauty & Care,Perfume,2,1799,3578.03,1583.51
+ORD-11160,2025-11-01,North,Home & Kitchen,Air Fryer,1,5999,5619.88,3766.91
+ORD-11195,2025-11-01,East,Electronics,Wireless Earbuds,2,2499,4698.35,3808.82
+ORD-11074,2025-11-02,East,Home & Kitchen,Mixer Grinder,3,3499,9920.81,6647.57
+ORD-11100,2025-11-02,East,Electronics,Smartwatch,1,6999,6445.96,5331.07
+ORD-11156,2025-11-02,East,Home & Kitchen,Air Fryer,1,5999,5582.43,3720.96
+ORD-11170,2025-11-02,North,Electronics,Bluetooth Speaker,1,3299,3161.4,2441.32
+ORD-11225,2025-11-02,East,Apparel,Denim Jacket,3,2999,8445.1,4778.91
+ORD-11071,2025-11-03,East,Electronics,Bluetooth Speaker,2,3299,6082.07,4778.11
+ORD-11099,2025-11-03,South,Apparel,Denim Jacket,2,2999,5945.52,3205.68
+ORD-11103,2025-11-03,North,Electronics,Bluetooth Speaker,1,3299,3064.69,2451.07
+ORD-11109,2025-11-03,North,Apparel,Running Shoes,2,3499,6613.54,3689.25
+ORD-11165,2025-11-03,East,Electronics,Power Bank,1,1499,1387.12,1091.26
+ORD-11169,2025-11-03,West,Electronics,Wireless Earbuds,1,2499,2477.15,1878.38
+ORD-11091,2025-11-04,East,Apparel,Cotton Kurta,1,1299,1238.14,688.0
+ORD-11114,2025-11-04,South,Electronics,Power Bank,1,1499,1409.25,1113.34
+ORD-11136,2025-11-04,East,Electronics,Smartwatch,1,6999,6568.09,5328.68
+ORD-11145,2025-11-04,East,Electronics,Power Bank,1,1499,1459.34,1134.12
+ORD-11176,2025-11-04,South,Home & Kitchen,Air Fryer,2,5999,10869.33,7279.17
+ORD-11211,2025-11-04,North,Apparel,Handloom Saree,2,4999,9368.87,5334.06
+ORD-11058,2025-11-05,South,Beauty & Care,Perfume,1,1799,1609.82,802.05
+ORD-11088,2025-11-05,West,Electronics,Wireless Earbuds,1,2499,2494.27,1898.03
+ORD-11110,2025-11-06,North,Electronics,Smartwatch,1,6999,6869.07,5073.91
+ORD-11124,2025-11-06,North,Electronics,Power Bank,1,1499,1498.54,1122.11
+ORD-11142,2025-11-06,South,Electronics,Wireless Earbuds,1,2499,2214.22,1890.52
+ORD-11154,2025-11-06,North,Electronics,Smartwatch,2,6999,12335.47,10053.85
+ORD-11177,2025-11-06,South,Electronics,Power Bank,1,1499,1333.74,1122.84
+ORD-11199,2025-11-06,East,Electronics,Wireless Earbuds,1,2499,2417.62,1857.97
+ORD-11205,2025-11-06,East,Electronics,Bluetooth Speaker,1,3299,3040.47,2489.19
+ORD-11075,2025-11-07,West,Electronics,Power Bank,1,1499,1471.42,1095.68
+ORD-11107,2025-11-07,West,Home & Kitchen,Mixer Grinder,3,3499,9824.84,6647.21
+ORD-11168,2025-11-07,South,Electronics,Wireless Earbuds,1,2499,2199.77,1833.03
+ORD-11198,2025-11-07,South,Home & Kitchen,Mixer Grinder,1,3499,3281.24,2200.98
+ORD-11084,2025-11-08,South,Home & Kitchen,Air Fryer,3,5999,17039.81,11043.36
+ORD-11097,2025-11-08,West,Electronics,Wireless Earbuds,2,2499,4716.94,3727.13
+ORD-11102,2025-11-08,South,Apparel,Running Shoes,1,3499,3268.25,1867.11
+ORD-11105,2025-11-08,East,Apparel,Cotton Kurta,2,1299,2543.7,1360.62
+ORD-11155,2025-11-08,East,Electronics,Bluetooth Speaker,2,3299,5880.53,4834.57
+ORD-11192,2025-11-08,South,Electronics,Bluetooth Speaker,2,3299,6376.37,4912.12
+ORD-11059,2025-11-09,South,Home & Kitchen,Mixer Grinder,1,3499,3172.26,2107.34
+ORD-11127,2025-11-09,North,Home & Kitchen,Cookware Set,3,2799,8395.89,5299.83
+ORD-11184,2025-11-09,South,Home & Kitchen,Steel Water Bottle,1,599,575.69,368.77
+ORD-11069,2025-11-10,South,Beauty & Care,Hair Dryer,2,1999,3684.38,1747.77
+ORD-11086,2025-11-10,East,Home & Kitchen,Mixer Grinder,1,3499,3492.33,2112.79
+ORD-11164,2025-11-10,North,Electronics,Wireless Earbuds,1,2499,2206.94,1891.81
+ORD-11167,2025-11-10,North,Home & Kitchen,Steel Water Bottle,2,599,1121.65,743.54
+ORD-11216,2025-11-10,East,Home & Kitchen,Mixer Grinder,2,3499,6640.84,4436.69
+ORD-11063,2025-11-11,East,Beauty & Care,Perfume,1,1799,1715.06,814.52
+ORD-11077,2025-11-11,North,Beauty & Care,Perfume,3,1799,4767.04,2479.1
+ORD-11079,2025-11-11,East,Electronics,Smartwatch,1,6999,6527.99,5330.31
+ORD-11123,2025-11-11,East,Electronics,Wireless Earbuds,1,2499,2479.56,1840.5
+ORD-11132,2025-11-11,East,Home & Kitchen,Air Fryer,3,5999,17793.01,10973.95
+ORD-11151,2025-11-11,East,Home & Kitchen,Cookware Set,1,2799,2492.0,1725.01
+ORD-11135,2025-11-12,West,Electronics,Bluetooth Speaker,1,3299,3015.4,2502.51
+ORD-11152,2025-11-12,North,Electronics,Bluetooth Speaker,1,3299,2921.69,2416.73
+ORD-11163,2025-11-12,West,Apparel,Denim Jacket,1,2999,2940.28,1597.1
+ORD-11179,2025-11-12,West,Home & Kitchen,Steel Water Bottle,1,599,538.64,366.84
+ORD-11188,2025-11-12,West,Home & Kitchen,Cookware Set,1,2799,2758.62,1690.59
+ORD-11207,2025-11-12,North,Apparel,Handloom Saree,1,4999,4533.31,2612.56
+ORD-11213,2025-11-12,East,Beauty & Care,Face Serum,1,899,865.24,404.78
+ORD-11214,2025-11-12,South,Beauty & Care,Skincare Kit,2,2499,4412.96,2199.12
+ORD-11080,2025-11-13,South,Home & Kitchen,Steel Water Bottle,2,599,1121.95,727.5
+ORD-11115,2025-11-13,North,Electronics,Smartwatch,1,6999,6686.95,5216.63
+ORD-11218,2025-11-13,East,Electronics,Wireless Earbuds,3,2499,7279.76,5598.38
+ORD-11073,2025-11-14,South,Electronics,Bluetooth Speaker,2,3299,6336.54,4982.98
+ORD-11098,2025-11-14,East,Electronics,Smartwatch,1,6999,6160.72,5329.31
+ORD-11118,2025-11-14,West,Apparel,Handloom Saree,1,4999,4642.16,2539.58
+ORD-11126,2025-11-14,North,Beauty & Care,Skincare Kit,1,2499,2411.95,1123.83
+ORD-11061,2025-11-15,West,Apparel,Denim Jacket,1,2999,2742.03,1516.45
+ORD-11070,2025-11-15,East,Electronics,Bluetooth Speaker,1,3299,3121.56,2445.52
+ORD-11125,2025-11-15,South,Apparel,Cotton Kurta,2,1299,2353.71,1356.51
+ORD-11129,2025-11-15,West,Home & Kitchen,Cookware Set,1,2799,2488.29,1775.13
+ORD-11130,2025-11-15,West,Home & Kitchen,Cookware Set,1,2799,2576.76,1747.75
+ORD-11140,2025-11-15,North,Electronics,Smartwatch,2,6999,12571.62,10346.28
+ORD-11144,2025-11-15,West,Electronics,Bluetooth Speaker,2,3299,6549.71,5006.26
+ORD-11178,2025-11-15,West,Apparel,Denim Jacket,1,2999,2877.46,1579.11
+ORD-11183,2025-11-15,West,Home & Kitchen,Cookware Set,1,2799,2737.86,1770.26
+ORD-11209,2025-11-15,East,Electronics,Bluetooth Speaker,2,3299,6439.41,4980.49
+ORD-11226,2025-11-15,East,Electronics,Power Bank,1,1499,1461.81,1115.01
+ORD-11233,2025-11-15,North,Beauty & Care,Face Serum,3,899,2537.63,1216.54
+ORD-11081,2025-11-16,West,Apparel,Denim Jacket,1,2999,2673.93,1565.2
+ORD-11085,2025-11-16,East,Home & Kitchen,Mixer Grinder,2,3499,6997.34,4310.52
+ORD-11138,2025-11-16,East,Electronics,Wireless Earbuds,2,2499,4612.36,3768.24
+ORD-11236,2025-11-16,West,Apparel,Denim Jacket,1,2999,2711.83,1526.24
+ORD-11066,2025-11-17,West,Apparel,Cotton Kurta,3,1299,3576.1,1992.36
+ORD-11095,2025-11-17,North,Electronics,Wireless Earbuds,1,2499,2331.61,1880.95
+ORD-11112,2025-11-17,East,Electronics,Bluetooth Speaker,1,3299,3032.48,2389.54
+ORD-11146,2025-11-17,South,Electronics,Smartwatch,1,6999,6247.05,5165.68
+ORD-11149,2025-11-17,East,Electronics,Smartwatch,1,6999,6223.05,5144.65
+ORD-11190,2025-11-17,South,Electronics,Wireless Earbuds,2,2499,4980.16,3648.94
+ORD-11201,2025-11-17,North,Home & Kitchen,Cookware Set,2,2799,5597.75,3409.5
+ORD-11212,2025-11-17,West,Home & Kitchen,Air Fryer,1,5999,5930.09,3677.2
+ORD-11219,2025-11-17,East,Electronics,Bluetooth Speaker,1,3299,2989.0,2388.28
+ORD-11223,2025-11-17,West,Home & Kitchen,Mixer Grinder,1,3499,3438.89,2233.05
+ORD-11067,2025-11-18,East,Electronics,Bluetooth Speaker,1,3299,3005.25,2416.55
+ORD-11089,2025-11-18,West,Electronics,Bluetooth Speaker,3,3299,9134.3,7376.49
+ORD-11120,2025-11-18,West,Electronics,Smartwatch,2,6999,13582.15,10178.13
+ORD-11171,2025-11-18,North,Electronics,Wireless Earbuds,1,2499,2236.44,1894.17
+ORD-11186,2025-11-18,North,Electronics,Smartwatch,2,6999,12767.41,10566.25
+ORD-11197,2025-11-18,South,Beauty & Care,Hair Dryer,2,1999,3972.74,1822.49
+ORD-11200,2025-11-18,West,Electronics,Power Bank,1,1499,1357.01,1135.07
+ORD-11215,2025-11-18,North,Beauty & Care,Hair Dryer,1,1999,1861.02,880.43
+ORD-11224,2025-11-18,South,Electronics,Wireless Earbuds,1,2499,2488.99,1806.28
+ORD-11076,2025-11-19,South,Electronics,Wireless Earbuds,1,2499,2237.51,1842.92
+ORD-11134,2025-11-19,North,Apparel,Running Shoes,2,3499,6278.23,3748.09
+ORD-11158,2025-11-19,West,Apparel,Handloom Saree,3,4999,14242.95,7676.14
+ORD-11194,2025-11-19,East,Electronics,Bluetooth Speaker,2,3299,6247.08,4949.5
+ORD-11227,2025-11-19,East,Electronics,Power Bank,2,1499,2860.4,2246.71
+ORD-11060,2025-11-20,West,Electronics,Wireless Earbuds,1,2499,2401.17,1856.03
+ORD-11141,2025-11-20,East,Electronics,Power Bank,2,1499,2898.55,2219.71
+ORD-11147,2025-11-20,East,Electronics,Smartwatch,1,6999,6986.14,5027.53
+ORD-11174,2025-11-20,East,Home & Kitchen,Cookware Set,1,2799,2650.29,1782.64
+ORD-11208,2025-11-20,West,Apparel,Handloom Saree,1,4999,4688.11,2575.98
+ORD-11228,2025-11-20,West,Electronics,Wireless Earbuds,2,2499,4893.17,3757.02
+ORD-11093,2025-11-21,East,Beauty & Care,Skincare Kit,1,2499,2448.28,1136.23
+ORD-11106,2025-11-21,West,Home & Kitchen,Steel Water Bottle,1,599,537.8,379.51
+ORD-11128,2025-11-21,North,Apparel,Handloom Saree,1,4999,4697.56,2599.56
+ORD-11159,2025-11-21,West,Home & Kitchen,Air Fryer,1,5999,5694.77,3828.11
+ORD-11161,2025-11-21,West,Beauty & Care,Hair Dryer,1,1999,1955.98,897.78
+ORD-11166,2025-11-21,East,Apparel,Cotton Kurta,1,1299,1276.91,667.48
+ORD-11180,2025-11-21,North,Apparel,Cotton Kurta,1,1299,1152.38,690.68
+ORD-11111,2025-11-22,West,Electronics,Bluetooth Speaker,2,3299,6189.2,4974.63
+ORD-11113,2025-11-22,North,Apparel,Handloom Saree,1,4999,4447.26,2595.08
+ORD-11122,2025-11-22,South,Electronics,Wireless Earbuds,1,2499,2477.77,1795.76
+ORD-11189,2025-11-22,West,Electronics,Smartwatch,1,6999,6376.42,5093.18
+ORD-11232,2025-11-22,South,Electronics,Wireless Earbuds,1,2499,2239.31,1877.42
+ORD-11068,2025-11-23,North,Electronics,Bluetooth Speaker,1,3299,2931.97,2449.43
+ORD-11137,2025-11-23,North,Beauty & Care,Skincare Kit,1,2499,2323.37,1143.65
+ORD-11153,2025-11-23,South,Electronics,Power Bank,1,1499,1407.08,1090.25
+ORD-11181,2025-11-23,East,Electronics,Wireless Earbuds,1,2499,2498.36,1829.37
+ORD-11182,2025-11-23,West,Beauty & Care,Skincare Kit,1,2499,2355.6,1103.16
+ORD-11203,2025-11-23,South,Apparel,Denim Jacket,1,2999,2678.18,1556.02
+ORD-11204,2025-11-23,South,Home & Kitchen,Steel Water Bottle,2,599,1063.04,743.36
+ORD-11220,2025-11-23,West,Electronics,Power Bank,1,1499,1376.69,1141.25
+ORD-11104,2025-11-24,West,Electronics,Wireless Earbuds,1,2499,2213.73,1873.32
+ORD-11131,2025-11-24,South,Electronics,Wireless Earbuds,1,2499,2304.61,1829.22
+ORD-11150,2025-11-24,South,Electronics,Wireless Earbuds,1,2499,2351.62,1846.35
+ORD-11157,2025-11-24,East,Electronics,Smartwatch,1,6999,6781.03,5113.61
+ORD-11082,2025-11-25,North,Electronics,Smartwatch,1,6999,6266.88,5214.02
+ORD-11162,2025-11-25,East,Electronics,Wireless Earbuds,1,2499,2358.82,1818.56
+ORD-11191,2025-11-25,West,Electronics,Wireless Earbuds,1,2499,2349.54,1899.96
+ORD-11196,2025-11-25,East,Electronics,Smartwatch,1,6999,6779.6,5072.81
+ORD-11210,2025-11-25,East,Electronics,Bluetooth Speaker,1,3299,3098.38,2494.96
+ORD-11217,2025-11-25,East,Apparel,Running Shoes,1,3499,3429.09,1781.92
+ORD-11234,2025-11-25,North,Electronics,Smartwatch,1,6999,6740.57,5312.45
+ORD-11072,2025-11-26,West,Apparel,Handloom Saree,1,4999,4506.28,2633.08
+ORD-11108,2025-11-26,West,Home & Kitchen,Steel Water Bottle,2,599,1149.78,746.32
+ORD-11172,2025-11-26,North,Apparel,Denim Jacket,2,2999,5900.91,3146.16
+ORD-11185,2025-11-26,North,Beauty & Care,Face Serum,1,899,883.37,399.28
+ORD-11230,2025-11-26,South,Electronics,Power Bank,2,1499,2801.76,2204.57
+ORD-11062,2025-11-27,East,Beauty & Care,Hair Dryer,2,1999,3939.95,1837.27
+ORD-11092,2025-11-27,South,Electronics,Power Bank,2,1499,2906.66,2199.38
+ORD-11133,2025-11-27,North,Electronics,Power Bank,1,1499,1326.47,1115.43
+ORD-11139,2025-11-27,West,Electronics,Power Bank,2,1499,2966.4,2168.79
+ORD-11229,2025-11-27,South,Electronics,Power Bank,3,1499,4469.98,3295.47
+ORD-11231,2025-11-27,East,Home & Kitchen,Mixer Grinder,1,3499,3274.25,2116.97
+ORD-11237,2025-11-27,North,Electronics,Bluetooth Speaker,3,3299,8996.4,7286.4
+ORD-11057,2025-11-28,North,Home & Kitchen,Steel Water Bottle,1,599,565.89,371.08
+ORD-11065,2025-11-28,South,Electronics,Bluetooth Speaker,1,3299,3216.15,2371.41
+ORD-11119,2025-11-28,West,Electronics,Power Bank,1,1499,1414.5,1086.82
+ORD-11173,2025-11-28,West,Beauty & Care,Hair Dryer,2,1999,3682.04,1760.66
+ORD-11193,2025-11-28,West,Electronics,Smartwatch,1,6999,6670.19,5187.62
+ORD-11064,2025-11-29,South,Electronics,Bluetooth Speaker,1,3299,3200.65,2506.57
+ORD-11090,2025-11-29,North,Beauty & Care,Perfume,1,1799,1637.0,800.84
+ORD-11094,2025-11-29,North,Home & Kitchen,Cookware Set,2,2799,5240.8,3426.49
+ORD-11096,2025-11-29,North,Home & Kitchen,Air Fryer,1,5999,5881.87,3628.17
+ORD-11116,2025-11-29,East,Home & Kitchen,Air Fryer,1,5999,5887.7,3674.16
+ORD-11121,2025-11-29,East,Beauty & Care,Perfume,1,1799,1599.74,802.28
+ORD-11148,2025-11-29,North,Home & Kitchen,Air Fryer,1,5999,5945.31,3657.64
+ORD-11175,2025-11-29,North,Home & Kitchen,Air Fryer,1,5999,5821.28,3811.67
+ORD-11187,2025-11-29,East,Apparel,Denim Jacket,1,2999,2769.25,1519.9
+ORD-11202,2025-11-29,West,Home & Kitchen,Steel Water Bottle,1,599,594.33,363.3
+ORD-11206,2025-11-29,South,Beauty & Care,Hair Dryer,1,1999,1887.83,879.06
+ORD-11221,2025-11-29,North,Home & Kitchen,Steel Water Bottle,1,599,554.89,376.05
+ORD-11235,2025-11-29,West,Electronics,Power Bank,1,1499,1335.73,1111.87
+ORD-11056,2025-11-30,West,Electronics,Power Bank,1,1499,1399.64,1081.18
+ORD-11078,2025-11-30,East,Electronics,Power Bank,1,1499,1338.16,1106.01
+ORD-11083,2025-11-30,West,Home & Kitchen,Steel Water Bottle,1,599,589.29,371.29
+ORD-11117,2025-11-30,West,Apparel,Denim Jacket,1,2999,2841.94,1603.41
+ORD-11222,2025-11-30,South,Electronics,Bluetooth Speaker,2,3299,6327.06,4959.29
+ORD-11242,2025-12-01,North,Beauty & Care,Skincare Kit,2,2499,4464.57,2270.82
+ORD-11245,2025-12-01,South,Home & Kitchen,Cookware Set,2,2799,5269.5,3553.29
+ORD-11255,2025-12-01,East,Apparel,Cotton Kurta,2,1299,2369.44,1317.11
+ORD-11296,2025-12-01,East,Electronics,Bluetooth Speaker,1,3299,2903.78,2497.96
+ORD-11304,2025-12-01,North,Electronics,Power Bank,1,1499,1415.97,1137.71
+ORD-11324,2025-12-01,West,Apparel,Cotton Kurta,2,1299,2348.47,1360.45
+ORD-11337,2025-12-01,East,Home & Kitchen,Cookware Set,1,2799,2677.05,1779.67
+ORD-11340,2025-12-01,West,Electronics,Bluetooth Speaker,2,3299,5899.34,4801.89
+ORD-11383,2025-12-01,South,Home & Kitchen,Mixer Grinder,3,3499,9906.98,6464.31
+ORD-11282,2025-12-02,North,Apparel,Denim Jacket,1,2999,2934.24,1520.31
+ORD-11354,2025-12-02,East,Home & Kitchen,Steel Water Bottle,2,599,1087.29,735.45
+ORD-11373,2025-12-02,West,Electronics,Bluetooth Speaker,1,3299,3091.01,2378.35
+ORD-11388,2025-12-02,West,Electronics,Wireless Earbuds,1,2499,2329.09,1860.87
+ORD-11240,2025-12-03,South,Beauty & Care,Perfume,1,1799,1659.99,830.24
+ORD-11248,2025-12-03,South,Beauty & Care,Hair Dryer,1,1999,1952.46,879.52
+ORD-11252,2025-12-03,East,Electronics,Bluetooth Speaker,2,3299,6070.69,4743.14
+ORD-11270,2025-12-03,South,Electronics,Smartwatch,2,6999,13054.87,10157.93
+ORD-11319,2025-12-03,East,Electronics,Smartwatch,1,6999,6727.42,5149.67
+ORD-11325,2025-12-03,West,Home & Kitchen,Mixer Grinder,2,3499,6258.01,4437.14
+ORD-11346,2025-12-03,North,Home & Kitchen,Steel Water Bottle,1,599,536.5,366.6
+ORD-11358,2025-12-03,East,Home & Kitchen,Cookware Set,2,2799,5301.43,3556.94
+ORD-11360,2025-12-03,East,Electronics,Power Bank,1,1499,1492.24,1134.93
+ORD-11267,2025-12-04,North,Apparel,Running Shoes,1,3499,3081.12,1793.78
+ORD-11283,2025-12-04,East,Electronics,Bluetooth Speaker,2,3299,6403.34,4749.77
+ORD-11288,2025-12-04,South,Beauty & Care,Skincare Kit,1,2499,2434.26,1136.7
+ORD-11315,2025-12-04,South,Apparel,Cotton Kurta,1,1299,1222.57,687.45
+ORD-11344,2025-12-04,East,Home & Kitchen,Cookware Set,1,2799,2567.18,1771.63
+ORD-11345,2025-12-04,South,Electronics,Smartwatch,1,6999,6564.87,5091.69
+ORD-11366,2025-12-04,North,Electronics,Power Bank,1,1499,1380.84,1091.32
+ORD-11276,2025-12-05,South,Electronics,Power Bank,1,1499,1491.37,1097.69
+ORD-11311,2025-12-05,North,Beauty & Care,Hair Dryer,2,1999,3791.57,1826.4
+ORD-11316,2025-12-05,West,Apparel,Running Shoes,2,3499,6306.95,3720.47
+ORD-11327,2025-12-05,East,Beauty & Care,Face Serum,2,899,1722.09,822.52
+ORD-11368,2025-12-05,West,Beauty & Care,Skincare Kit,1,2499,2405.45,1154.39
+ORD-11369,2025-12-05,East,Electronics,Power Bank,2,1499,2754.24,2194.46
+ORD-11375,2025-12-05,North,Beauty & Care,Face Serum,1,899,838.15,404.15
+ORD-11243,2025-12-06,South,Apparel,Cotton Kurta,1,1299,1228.86,691.35
+ORD-11251,2025-12-06,West,Beauty & Care,Perfume,1,1799,1633.83,817.62
+ORD-11298,2025-12-06,North,Home & Kitchen,Air Fryer,1,5999,5845.62,3827.72
+ORD-11241,2025-12-07,North,Home & Kitchen,Air Fryer,2,5999,11024.72,7512.01
+ORD-11264,2025-12-07,North,Apparel,Denim Jacket,1,2999,2798.79,1603.43
+ORD-11302,2025-12-07,East,Apparel,Cotton Kurta,2,1299,2444.31,1372.34
+ORD-11342,2025-12-07,West,Electronics,Bluetooth Speaker,1,3299,3250.26,2374.26
+ORD-11347,2025-12-07,East,Apparel,Handloom Saree,1,4999,4667.97,2630.02
+ORD-11380,2025-12-07,East,Home & Kitchen,Cookware Set,2,2799,5190.24,3531.42
+ORD-11253,2025-12-08,East,Apparel,Running Shoes,2,3499,6584.58,3667.81
+ORD-11289,2025-12-08,West,Apparel,Handloom Saree,1,4999,4693.75,2567.43
+ORD-11308,2025-12-08,South,Home & Kitchen,Mixer Grinder,2,3499,6339.22,4385.28
+ORD-11263,2025-12-09,South,Home & Kitchen,Mixer Grinder,1,3499,3145.57,2148.52
+ORD-11271,2025-12-09,East,Electronics,Power Bank,1,1499,1340.1,1120.39
+ORD-11321,2025-12-09,North,Home & Kitchen,Air Fryer,1,5999,5667.55,3687.68
+ORD-11323,2025-12-09,East,Home & Kitchen,Steel Water Bottle,1,599,585.94,373.06
+ORD-11355,2025-12-09,North,Beauty & Care,Hair Dryer,1,1999,1807.42,881.96
+ORD-11239,2025-12-10,North,Home & Kitchen,Steel Water Bottle,1,599,552.17,377.78
+ORD-11290,2025-12-10,West,Apparel,Running Shoes,1,3499,3212.17,1848.98
+ORD-11367,2025-12-10,South,Apparel,Handloom Saree,1,4999,4781.05,2649.04
+ORD-11379,2025-12-10,West,Electronics,Bluetooth Speaker,1,3299,2940.23,2470.7
+ORD-11278,2025-12-11,East,Electronics,Smartwatch,1,6999,6918.53,5292.36
+ORD-11293,2025-12-11,East,Beauty & Care,Hair Dryer,1,1999,1760.78,883.39
+ORD-11294,2025-12-11,West,Beauty & Care,Skincare Kit,2,2499,4792.92,2212.06
+ORD-11301,2025-12-11,East,Apparel,Running Shoes,2,3499,6615.13,3704.12
+ORD-11343,2025-12-11,South,Electronics,Bluetooth Speaker,1,3299,3008.63,2483.9
+ORD-11348,2025-12-11,North,Electronics,Power Bank,1,1499,1458.34,1111.23
+ORD-11372,2025-12-11,South,Home & Kitchen,Steel Water Bottle,1,599,560.38,364.99
+ORD-11249,2025-12-12,East,Electronics,Wireless Earbuds,2,2499,4402.45,3615.07
+ORD-11389,2025-12-12,South,Apparel,Running Shoes,1,3499,3453.35,1827.36
+ORD-11292,2025-12-13,West,Apparel,Handloom Saree,1,4999,4855.54,2586.11
+ORD-11300,2025-12-13,West,Electronics,Wireless Earbuds,3,2499,6740.8,5428.12
+ORD-11310,2025-12-13,North,Electronics,Power Bank,1,1499,1339.46,1113.95
+ORD-11370,2025-12-13,West,Apparel,Cotton Kurta,2,1299,2453.84,1335.6
+ORD-11387,2025-12-13,West,Home & Kitchen,Steel Water Bottle,2,599,1108.24,750.5
+ORD-11314,2025-12-14,East,Electronics,Wireless Earbuds,1,2499,2359.31,1802.0
+ORD-11317,2025-12-14,South,Apparel,Denim Jacket,1,2999,2875.75,1512.71
+ORD-11336,2025-12-14,East,Apparel,Cotton Kurta,3,1299,3607.18,1982.08
+ORD-11349,2025-12-14,East,Beauty & Care,Face Serum,1,899,806.18,410.55
+ORD-11259,2025-12-15,West,Electronics,Power Bank,2,1499,2821.05,2225.95
+ORD-11266,2025-12-15,South,Home & Kitchen,Steel Water Bottle,1,599,594.08,368.52
+ORD-11287,2025-12-15,East,Apparel,Denim Jacket,1,2999,2849.07,1566.91
+ORD-11309,2025-12-15,East,Beauty & Care,Perfume,1,1799,1604.38,828.97
+ORD-11326,2025-12-15,South,Electronics,Bluetooth Speaker,1,3299,3235.85,2505.84
+ORD-11329,2025-12-15,East,Home & Kitchen,Mixer Grinder,2,3499,6965.08,4383.74
+ORD-11335,2025-12-15,North,Electronics,Power Bank,2,1499,2835.69,2169.41
+ORD-11371,2025-12-15,East,Home & Kitchen,Air Fryer,1,5999,5283.09,3791.89
+ORD-11374,2025-12-15,South,Home & Kitchen,Mixer Grinder,1,3499,3173.56,2126.56
+ORD-11238,2025-12-16,East,Beauty & Care,Skincare Kit,1,2499,2462.12,1120.17
+ORD-11262,2025-12-16,North,Beauty & Care,Hair Dryer,2,1999,3839.91,1788.33
+ORD-11291,2025-12-16,West,Beauty & Care,Skincare Kit,1,2499,2453.59,1137.67
+ORD-11334,2025-12-16,West,Home & Kitchen,Mixer Grinder,1,3499,3162.05,2207.03
+ORD-11341,2025-12-16,West,Apparel,Cotton Kurta,3,1299,3864.64,2015.0
+ORD-11244,2025-12-17,West,Beauty & Care,Perfume,1,1799,1743.66,792.58
+ORD-11250,2025-12-17,East,Electronics,Power Bank,1,1499,1339.17,1127.9
+ORD-11286,2025-12-17,West,Home & Kitchen,Cookware Set,1,2799,2534.89,1683.83
+ORD-11318,2025-12-17,East,Electronics,Wireless Earbuds,2,2499,4466.88,3654.07
+ORD-11333,2025-12-17,East,Electronics,Bluetooth Speaker,2,3299,5923.19,4991.56
+ORD-11338,2025-12-17,West,Home & Kitchen,Air Fryer,1,5999,5287.12,3686.3
+ORD-11359,2025-12-17,East,Home & Kitchen,Steel Water Bottle,1,599,528.44,372.59
+ORD-11272,2025-12-19,West,Beauty & Care,Perfume,2,1799,3535.22,1643.58
+ORD-11285,2025-12-19,East,Electronics,Smartwatch,2,6999,13627.36,10367.83
+ORD-11320,2025-12-19,North,Home & Kitchen,Cookware Set,2,2799,5331.15,3382.97
+ORD-11322,2025-12-19,East,Apparel,Handloom Saree,1,4999,4715.06,2580.55
+ORD-11328,2025-12-19,West,Electronics,Wireless Earbuds,1,2499,2405.25,1813.66
+ORD-11386,2025-12-19,North,Electronics,Power Bank,1,1499,1395.45,1096.86
+ORD-11279,2025-12-20,West,Beauty & Care,Hair Dryer,2,1999,3622.31,1851.73
+ORD-11281,2025-12-20,North,Electronics,Wireless Earbuds,2,2499,4931.86,3719.73
+ORD-11297,2025-12-20,East,Home & Kitchen,Air Fryer,2,5999,11470.19,7544.24
+ORD-11273,2025-12-22,West,Beauty & Care,Skincare Kit,1,2499,2286.9,1158.23
+ORD-11274,2025-12-22,South,Home & Kitchen,Cookware Set,2,2799,5436.33,3391.63
+ORD-11357,2025-12-22,West,Beauty & Care,Perfume,1,1799,1794.35,816.89
+ORD-11361,2025-12-22,West,Home & Kitchen,Cookware Set,2,2799,5357.01,3562.58
+ORD-11246,2025-12-23,East,Apparel,Running Shoes,2,3499,6379.91,3546.2
+ORD-11268,2025-12-23,North,Electronics,Smartwatch,1,6999,6820.14,5258.06
+ORD-11312,2025-12-23,North,Apparel,Denim Jacket,1,2999,2707.38,1521.22
+ORD-11364,2025-12-23,North,Home & Kitchen,Cookware Set,2,2799,5139.52,3429.12
+ORD-11376,2025-12-23,West,Home & Kitchen,Cookware Set,2,2799,5384.61,3381.37
+ORD-11247,2025-12-24,West,Apparel,Denim Jacket,2,2999,5286.32,3161.86
+ORD-11257,2025-12-24,West,Home & Kitchen,Cookware Set,1,2799,2619.71,1747.77
+ORD-11306,2025-12-24,South,Beauty & Care,Hair Dryer,1,1999,1859.2,925.48
+ORD-11352,2025-12-24,North,Electronics,Smartwatch,1,6999,6345.92,5048.37
+ORD-11356,2025-12-24,West,Apparel,Running Shoes,1,3499,3376.46,1835.75
+ORD-11363,2025-12-24,East,Beauty & Care,Skincare Kit,1,2499,2389.03,1112.47
+ORD-11378,2025-12-24,North,Electronics,Wireless Earbuds,1,2499,2384.6,1796.32
+ORD-11275,2025-12-25,West,Beauty & Care,Face Serum,1,899,869.35,401.06
+ORD-11295,2025-12-25,West,Apparel,Running Shoes,2,3499,6334.13,3686.2
+ORD-11303,2025-12-25,South,Home & Kitchen,Mixer Grinder,2,3499,6254.22,4241.32
+ORD-11365,2025-12-25,East,Beauty & Care,Hair Dryer,1,1999,1850.66,914.15
+ORD-11382,2025-12-25,West,Home & Kitchen,Air Fryer,1,5999,5856.59,3824.46
+ORD-11392,2025-12-25,North,Home & Kitchen,Steel Water Bottle,3,599,1777.24,1092.58
+ORD-11265,2025-12-26,East,Home & Kitchen,Air Fryer,1,5999,5872.37,3615.11
+ORD-11305,2025-12-26,West,Electronics,Wireless Earbuds,1,2499,2334.97,1811.95
+ORD-11307,2025-12-26,South,Home & Kitchen,Steel Water Bottle,1,599,562.79,364.87
+ORD-11339,2025-12-26,South,Home & Kitchen,Mixer Grinder,1,3499,3434.19,2209.81
+ORD-11350,2025-12-26,North,Electronics,Wireless Earbuds,3,2499,7118.82,5579.63
+ORD-11362,2025-12-26,East,Apparel,Handloom Saree,2,4999,9181.65,5330.22
+ORD-11385,2025-12-26,North,Electronics,Bluetooth Speaker,1,3299,3217.51,2417.73
+ORD-11391,2025-12-26,North,Electronics,Smartwatch,1,6999,6977.79,5268.64
+ORD-11254,2025-12-27,North,Beauty & Care,Skincare Kit,3,2499,6833.01,3317.97
+ORD-11258,2025-12-27,East,Beauty & Care,Hair Dryer,2,1999,3983.95,1823.95
+ORD-11381,2025-12-27,North,Beauty & Care,Skincare Kit,1,2499,2441.18,1100.97
+ORD-11269,2025-12-28,North,Electronics,Wireless Earbuds,1,2499,2224.76,1820.89
+ORD-11277,2025-12-28,West,Home & Kitchen,Steel Water Bottle,1,599,540.38,362.75
+ORD-11299,2025-12-28,East,Electronics,Smartwatch,2,6999,13534.29,10179.67
+ORD-11332,2025-12-28,West,Apparel,Handloom Saree,1,4999,4935.61,2553.54
+ORD-11260,2025-12-29,South,Electronics,Power Bank,1,1499,1447.09,1133.23
+ORD-11261,2025-12-29,East,Electronics,Bluetooth Speaker,2,3299,6349.87,4872.46
+ORD-11353,2025-12-29,East,Electronics,Power Bank,1,1499,1366.78,1093.44
+ORD-11390,2025-12-29,North,Apparel,Cotton Kurta,1,1299,1161.5,689.86
+ORD-11256,2025-12-30,North,Home & Kitchen,Steel Water Bottle,2,599,1197.27,727.4
+ORD-11280,2025-12-30,North,Electronics,Power Bank,2,1499,2934.31,2219.66
+ORD-11330,2025-12-30,North,Beauty & Care,Skincare Kit,1,2499,2370.06,1143.56
+ORD-11331,2025-12-30,West,Beauty & Care,Hair Dryer,1,1999,1929.36,917.35
+ORD-11351,2025-12-30,East,Beauty & Care,Hair Dryer,2,1999,3548.8,1844.8
+ORD-11377,2025-12-30,West,Apparel,Denim Jacket,1,2999,2646.65,1539.01
+ORD-11384,2025-12-30,West,Home & Kitchen,Cookware Set,1,2799,2796.69,1715.33
+ORD-11284,2025-12-31,North,Home & Kitchen,Mixer Grinder,1,3499,3282.59,2156.34
+ORD-11313,2025-12-31,South,Apparel,Running Shoes,3,3499,9620.63,5425.92
+ORD-11463,2026-01-01,West,Beauty & Care,Perfume,2,1799,3596.13,1587.66
+ORD-11469,2026-01-01,West,Apparel,Handloom Saree,2,4999,9849.53,5070.11
+ORD-11470,2026-01-01,East,Electronics,Bluetooth Speaker,2,3299,6126.75,4801.89
+ORD-11482,2026-01-01,South,Home & Kitchen,Cookware Set,2,2799,5284.84,3571.34
+ORD-11503,2026-01-01,West,Electronics,Bluetooth Speaker,2,3299,6450.59,4969.31
+ORD-11500,2026-01-02,East,Apparel,Running Shoes,1,3499,3079.37,1862.68
+ORD-11425,2026-01-03,West,Electronics,Bluetooth Speaker,1,3299,3112.24,2405.15
+ORD-11464,2026-01-03,West,Electronics,Power Bank,2,1499,2834.6,2242.93
+ORD-11428,2026-01-04,South,Apparel,Handloom Saree,3,4999,14277.32,7823.54
+ORD-11429,2026-01-04,East,Beauty & Care,Skincare Kit,1,2499,2238.91,1094.22
+ORD-11435,2026-01-04,East,Apparel,Denim Jacket,1,2999,2663.39,1563.61
+ORD-11458,2026-01-04,West,Beauty & Care,Face Serum,1,899,804.23,414.78
+ORD-11432,2026-01-05,North,Electronics,Bluetooth Speaker,1,3299,3020.34,2468.72
+ORD-11454,2026-01-05,South,Beauty & Care,Perfume,3,1799,5116.83,2362.11
+ORD-11459,2026-01-05,West,Beauty & Care,Skincare Kit,2,2499,4826.75,2237.74
+ORD-11462,2026-01-05,East,Apparel,Running Shoes,1,3499,3189.05,1864.36
+ORD-11465,2026-01-05,North,Home & Kitchen,Air Fryer,1,5999,5537.29,3631.89
+ORD-11506,2026-01-05,North,Electronics,Power Bank,1,1499,1391.98,1126.98
+ORD-11426,2026-01-06,East,Apparel,Cotton Kurta,1,1299,1169.11,674.0
+ORD-11436,2026-01-06,West,Electronics,Power Bank,3,1499,4353.46,3313.46
+ORD-11449,2026-01-06,East,Home & Kitchen,Mixer Grinder,1,3499,3309.72,2184.44
+ORD-11473,2026-01-06,North,Home & Kitchen,Mixer Grinder,1,3499,3376.33,2128.1
+ORD-11474,2026-01-06,East,Home & Kitchen,Air Fryer,1,5999,5681.93,3689.12
+ORD-11404,2026-01-07,South,Apparel,Handloom Saree,2,4999,9810.6,5192.79
+ORD-11395,2026-01-08,West,Electronics,Power Bank,1,1499,1399.5,1138.53
+ORD-11412,2026-01-08,East,Home & Kitchen,Mixer Grinder,2,3499,6767.24,4377.62
+ORD-11441,2026-01-08,South,Beauty & Care,Hair Dryer,2,1999,3779.98,1749.86
+ORD-11501,2026-01-08,East,Home & Kitchen,Steel Water Bottle,1,599,580.58,366.88
+ORD-11417,2026-01-09,South,Electronics,Power Bank,2,1499,2905.96,2186.94
+ORD-11439,2026-01-09,East,Apparel,Running Shoes,1,3499,3207.63,1867.2
+ORD-11455,2026-01-09,East,Apparel,Handloom Saree,2,4999,8863.34,5060.27
+ORD-11480,2026-01-09,South,Apparel,Handloom Saree,1,4999,4438.36,2647.62
+ORD-11483,2026-01-09,East,Electronics,Power Bank,2,1499,2692.11,2229.21
+ORD-11433,2026-01-10,West,Home & Kitchen,Cookware Set,2,2799,5005.58,3433.68
+ORD-11494,2026-01-10,East,Home & Kitchen,Mixer Grinder,2,3499,6695.87,4377.38
+ORD-11423,2026-01-11,North,Apparel,Cotton Kurta,1,1299,1285.62,657.48
+ORD-11400,2026-01-12,East,Home & Kitchen,Mixer Grinder,1,3499,3381.75,2182.63
+ORD-11457,2026-01-12,East,Electronics,Wireless Earbuds,1,2499,2473.74,1813.14
+ORD-11486,2026-01-12,East,Beauty & Care,Hair Dryer,1,1999,1908.86,886.47
+ORD-11487,2026-01-12,South,Electronics,Power Bank,2,1499,2810.85,2161.15
+ORD-11489,2026-01-12,East,Electronics,Wireless Earbuds,1,2499,2296.78,1798.41
+ORD-11498,2026-01-12,East,Home & Kitchen,Mixer Grinder,1,3499,3184.35,2183.43
+ORD-11466,2026-01-13,South,Home & Kitchen,Steel Water Bottle,2,599,1192.95,763.52
+ORD-11468,2026-01-13,South,Electronics,Bluetooth Speaker,1,3299,3137.88,2427.64
+ORD-11408,2026-01-14,East,Electronics,Bluetooth Speaker,2,3299,6353.04,4783.04
+ORD-11496,2026-01-14,West,Electronics,Wireless Earbuds,3,2499,7412.25,5604.81
+ORD-11420,2026-01-15,South,Home & Kitchen,Air Fryer,1,5999,5665.35,3738.77
+ORD-11444,2026-01-15,North,Beauty & Care,Face Serum,2,899,1660.2,821.45
+ORD-11490,2026-01-15,West,Home & Kitchen,Steel Water Bottle,1,599,593.58,375.67
+ORD-11497,2026-01-15,East,Home & Kitchen,Cookware Set,2,2799,5484.34,3490.47
+ORD-11499,2026-01-15,West,Electronics,Power Bank,1,1499,1321.47,1131.58
+ORD-11393,2026-01-16,West,Electronics,Bluetooth Speaker,1,3299,3049.45,2482.63
+ORD-11447,2026-01-16,West,Home & Kitchen,Mixer Grinder,1,3499,3270.68,2122.65
+ORD-11485,2026-01-16,East,Electronics,Power Bank,1,1499,1369.74,1100.24
+ORD-11398,2026-01-17,South,Electronics,Power Bank,2,1499,2913.11,2168.52
+ORD-11446,2026-01-17,North,Apparel,Handloom Saree,1,4999,4654.46,2623.2
+ORD-11453,2026-01-17,East,Apparel,Running Shoes,1,3499,3111.31,1799.6
+ORD-11479,2026-01-17,West,Home & Kitchen,Cookware Set,1,2799,2628.44,1727.11
+ORD-11401,2026-01-18,North,Beauty & Care,Perfume,1,1799,1589.96,826.2
+ORD-11422,2026-01-18,South,Beauty & Care,Perfume,1,1799,1617.44,826.79
+ORD-11424,2026-01-18,East,Beauty & Care,Skincare Kit,1,2499,2239.99,1102.58
+ORD-11475,2026-01-18,East,Apparel,Denim Jacket,2,2999,5346.62,3129.06
+ORD-11416,2026-01-19,West,Home & Kitchen,Steel Water Bottle,2,599,1154.21,743.84
+ORD-11421,2026-01-19,South,Beauty & Care,Face Serum,1,899,845.58,405.61
+ORD-11440,2026-01-19,South,Home & Kitchen,Steel Water Bottle,1,599,591.25,376.36
+ORD-11492,2026-01-19,East,Electronics,Power Bank,2,1499,2770.08,2278.79
+ORD-11493,2026-01-19,North,Home & Kitchen,Mixer Grinder,3,3499,10110.92,6634.76
+ORD-11443,2026-01-20,West,Home & Kitchen,Air Fryer,1,5999,5988.61,3814.43
+ORD-11451,2026-01-20,West,Beauty & Care,Skincare Kit,2,2499,4991.46,2307.15
+ORD-11394,2026-01-21,West,Home & Kitchen,Air Fryer,1,5999,5923.86,3724.93
+ORD-11409,2026-01-21,South,Apparel,Cotton Kurta,2,1299,2297.03,1386.31
+ORD-11448,2026-01-21,North,Home & Kitchen,Cookware Set,1,2799,2777.43,1694.48
+ORD-11461,2026-01-21,North,Beauty & Care,Hair Dryer,2,1999,3559.59,1824.58
+ORD-11472,2026-01-21,West,Beauty & Care,Hair Dryer,1,1999,1900.44,882.33
+ORD-11488,2026-01-21,West,Electronics,Bluetooth Speaker,1,3299,3156.02,2373.95
+ORD-11396,2026-01-22,West,Home & Kitchen,Steel Water Bottle,2,599,1076.35,729.6
+ORD-11413,2026-01-22,East,Electronics,Smartwatch,1,6999,6316.62,5224.77
+ORD-11430,2026-01-22,West,Electronics,Smartwatch,3,6999,18903.97,15266.98
+ORD-11437,2026-01-22,South,Beauty & Care,Hair Dryer,1,1999,1764.73,908.44
+ORD-11438,2026-01-22,North,Electronics,Smartwatch,2,6999,12528.37,10635.74
+ORD-11491,2026-01-22,West,Electronics,Power Bank,1,1499,1450.45,1120.84
+ORD-11495,2026-01-22,West,Home & Kitchen,Mixer Grinder,1,3499,3495.57,2204.83
+ORD-11505,2026-01-22,West,Electronics,Wireless Earbuds,1,2499,2340.49,1814.55
+ORD-11399,2026-01-23,North,Apparel,Handloom Saree,1,4999,4985.69,2639.62
+ORD-11481,2026-01-24,West,Apparel,Handloom Saree,1,4999,4417.55,2556.88
+ORD-11397,2026-01-25,North,Electronics,Wireless Earbuds,1,2499,2391.71,1827.02
+ORD-11484,2026-01-25,South,Home & Kitchen,Steel Water Bottle,1,599,558.83,378.73
+ORD-11406,2026-01-26,West,Beauty & Care,Perfume,1,1799,1599.35,800.64
+ORD-11419,2026-01-26,East,Electronics,Wireless Earbuds,1,2499,2404.72,1845.92
+ORD-11456,2026-01-26,East,Home & Kitchen,Cookware Set,1,2799,2587.0,1760.14
+ORD-11460,2026-01-26,North,Apparel,Denim Jacket,3,2999,8181.32,4731.66
+ORD-11478,2026-01-26,West,Electronics,Power Bank,2,1499,2964.49,2214.08
+ORD-11403,2026-01-27,West,Home & Kitchen,Steel Water Bottle,1,599,556.47,364.15
+ORD-11410,2026-01-27,West,Home & Kitchen,Cookware Set,1,2799,2629.93,1724.73
+ORD-11427,2026-01-27,North,Electronics,Bluetooth Speaker,2,3299,6561.57,4777.14
+ORD-11442,2026-01-27,East,Electronics,Power Bank,1,1499,1381.54,1101.77
+ORD-11502,2026-01-27,South,Beauty & Care,Face Serum,2,899,1676.19,796.12
+ORD-11504,2026-01-27,South,Apparel,Cotton Kurta,1,1299,1237.27,672.46
+ORD-11405,2026-01-28,East,Electronics,Bluetooth Speaker,2,3299,6046.25,4828.91
+ORD-11407,2026-01-28,West,Apparel,Denim Jacket,1,2999,2818.37,1522.52
+ORD-11411,2026-01-28,North,Apparel,Handloom Saree,1,4999,4606.01,2573.93
+ORD-11414,2026-01-28,East,Beauty & Care,Skincare Kit,1,2499,2297.58,1151.04
+ORD-11434,2026-01-28,North,Beauty & Care,Skincare Kit,1,2499,2333.49,1152.23
+ORD-11445,2026-01-28,East,Apparel,Denim Jacket,3,2999,8636.81,4739.96
+ORD-11467,2026-01-28,North,Home & Kitchen,Steel Water Bottle,1,599,550.72,371.91
+ORD-11450,2026-01-29,South,Apparel,Handloom Saree,1,4999,4545.33,2573.61
+ORD-11452,2026-01-29,North,Beauty & Care,Skincare Kit,1,2499,2346.94,1119.34
+ORD-11471,2026-01-29,North,Electronics,Smartwatch,1,6999,6168.74,5113.17
+ORD-11476,2026-01-29,South,Electronics,Smartwatch,1,6999,6209.58,5085.99
+ORD-11418,2026-01-30,South,Electronics,Wireless Earbuds,3,2499,6821.88,5671.05
+ORD-11477,2026-01-30,West,Beauty & Care,Hair Dryer,1,1999,1924.66,903.22
+ORD-11402,2026-01-31,North,Apparel,Handloom Saree,1,4999,4943.26,2522.86
+ORD-11415,2026-01-31,West,Beauty & Care,Hair Dryer,1,1999,1807.39,897.4
+ORD-11431,2026-01-31,West,Beauty & Care,Face Serum,1,899,830.52,399.48
+ORD-11538,2026-02-01,West,Home & Kitchen,Mixer Grinder,1,3499,3178.75,2199.6
+ORD-11557,2026-02-01,South,Electronics,Power Bank,1,1499,1489.1,1100.74
+ORD-11573,2026-02-01,West,Beauty & Care,Skincare Kit,1,2499,2462.13,1115.68
+ORD-11574,2026-02-01,East,Apparel,Cotton Kurta,1,1299,1173.1,668.43
+ORD-11590,2026-02-01,South,Apparel,Cotton Kurta,1,1299,1238.04,666.78
+ORD-11596,2026-02-01,East,Electronics,Smartwatch,1,6999,6190.87,5180.02
+ORD-11523,2026-02-02,South,Beauty & Care,Hair Dryer,3,1999,5354.27,2702.22
+ORD-11589,2026-02-02,South,Electronics,Bluetooth Speaker,1,3299,3061.3,2378.57
+ORD-11587,2026-02-03,North,Electronics,Bluetooth Speaker,2,3299,6577.8,4829.41
+ORD-11514,2026-02-04,West,Electronics,Wireless Earbuds,2,2499,4848.95,3739.27
+ORD-11551,2026-02-04,West,Home & Kitchen,Cookware Set,1,2799,2654.82,1714.07
+ORD-11553,2026-02-04,South,Apparel,Denim Jacket,3,2999,7960.51,4729.22
+ORD-11588,2026-02-04,East,Electronics,Bluetooth Speaker,1,3299,3148.68,2499.01
+ORD-11544,2026-02-05,North,Electronics,Smartwatch,1,6999,6539.96,5087.6
+ORD-11578,2026-02-05,North,Electronics,Smartwatch,2,6999,12867.89,10425.21
+ORD-11594,2026-02-05,West,Electronics,Bluetooth Speaker,1,3299,3270.3,2393.28
+ORD-11604,2026-02-05,North,Electronics,Bluetooth Speaker,1,3299,3089.2,2495.82
+ORD-11610,2026-02-05,West,Apparel,Handloom Saree,1,4999,4617.18,2672.51
+ORD-11545,2026-02-06,West,Electronics,Power Bank,1,1499,1385.32,1093.7
+ORD-11609,2026-02-06,North,Electronics,Wireless Earbuds,1,2499,2352.91,1829.22
+ORD-11611,2026-02-06,East,Home & Kitchen,Cookware Set,1,2799,2756.87,1764.74
+ORD-11535,2026-02-07,South,Electronics,Wireless Earbuds,1,2499,2475.65,1867.97
+ORD-11537,2026-02-07,West,Apparel,Running Shoes,2,3499,6992.54,3605.01
+ORD-11539,2026-02-07,West,Home & Kitchen,Mixer Grinder,2,3499,6375.55,4333.16
+ORD-11558,2026-02-07,North,Home & Kitchen,Steel Water Bottle,1,599,528.93,376.34
+ORD-11572,2026-02-07,West,Apparel,Running Shoes,1,3499,3155.92,1793.64
+ORD-11509,2026-02-08,South,Electronics,Smartwatch,1,6999,6299.55,5053.13
+ORD-11517,2026-02-08,South,Electronics,Power Bank,1,1499,1370.19,1131.21
+ORD-11530,2026-02-08,North,Home & Kitchen,Air Fryer,1,5999,5914.29,3777.8
+ORD-11531,2026-02-08,West,Electronics,Bluetooth Speaker,1,3299,3202.71,2371.32
+ORD-11546,2026-02-08,West,Electronics,Power Bank,1,1499,1476.2,1086.24
+ORD-11559,2026-02-08,North,Apparel,Denim Jacket,1,2999,2826.59,1584.96
+ORD-11585,2026-02-08,South,Electronics,Wireless Earbuds,2,2499,4481.54,3673.56
+ORD-11616,2026-02-08,South,Home & Kitchen,Air Fryer,2,5999,11637.99,7362.72
+ORD-11548,2026-02-09,West,Home & Kitchen,Steel Water Bottle,1,599,573.01,365.05
+ORD-11599,2026-02-09,East,Electronics,Bluetooth Speaker,1,3299,2905.11,2403.09
+ORD-11607,2026-02-09,West,Beauty & Care,Skincare Kit,1,2499,2436.26,1099.18
+ORD-11613,2026-02-09,West,Apparel,Cotton Kurta,1,1299,1241.32,677.34
+ORD-11515,2026-02-10,East,Home & Kitchen,Steel Water Bottle,2,599,1194.97,752.48
+ORD-11570,2026-02-10,West,Apparel,Handloom Saree,1,4999,4469.85,2650.66
+ORD-11571,2026-02-10,North,Beauty & Care,Hair Dryer,2,1999,3768.15,1818.08
+ORD-11527,2026-02-11,West,Electronics,Power Bank,3,1499,4420.97,3309.43
+ORD-11564,2026-02-11,North,Electronics,Bluetooth Speaker,1,3299,3196.29,2384.57
+ORD-11598,2026-02-11,West,Home & Kitchen,Cookware Set,1,2799,2695.2,1745.48
+ORD-11510,2026-02-12,East,Home & Kitchen,Steel Water Bottle,1,599,586.07,376.55
+ORD-11540,2026-02-12,South,Electronics,Wireless Earbuds,1,2499,2287.63,1897.47
+ORD-11552,2026-02-12,West,Electronics,Power Bank,1,1499,1449.33,1137.0
+ORD-11603,2026-02-12,East,Beauty & Care,Face Serum,1,899,866.97,407.44
+ORD-11520,2026-02-13,North,Apparel,Denim Jacket,1,2999,2783.66,1518.8
+ORD-11524,2026-02-13,East,Apparel,Running Shoes,1,3499,3219.34,1843.55
+ORD-11600,2026-02-13,East,Home & Kitchen,Air Fryer,1,5999,5661.81,3658.89
+ORD-11601,2026-02-13,South,Electronics,Power Bank,1,1499,1326.82,1086.96
+ORD-11605,2026-02-13,East,Electronics,Wireless Earbuds,2,2499,4878.3,3797.95
+ORD-11532,2026-02-14,West,Home & Kitchen,Mixer Grinder,2,3499,6312.23,4340.45
+ORD-11568,2026-02-14,South,Apparel,Denim Jacket,1,2999,2923.73,1544.76
+ORD-11586,2026-02-14,East,Home & Kitchen,Steel Water Bottle,1,599,594.03,361.37
+ORD-11511,2026-02-15,East,Electronics,Smartwatch,1,6999,6655.09,5098.66
+ORD-11525,2026-02-15,East,Apparel,Handloom Saree,1,4999,4667.24,2631.85
+ORD-11566,2026-02-15,South,Beauty & Care,Face Serum,1,899,889.4,408.84
+ORD-11576,2026-02-15,West,Home & Kitchen,Mixer Grinder,2,3499,6299.4,4267.55
+ORD-11554,2026-02-16,South,Home & Kitchen,Air Fryer,1,5999,5890.42,3767.87
+ORD-11556,2026-02-16,South,Home & Kitchen,Steel Water Bottle,1,599,558.35,363.81
+ORD-11562,2026-02-16,West,Home & Kitchen,Cookware Set,2,2799,5307.45,3425.82
+ORD-11575,2026-02-16,West,Home & Kitchen,Mixer Grinder,1,3499,3147.78,2109.73
+ORD-11581,2026-02-16,West,Electronics,Bluetooth Speaker,1,3299,3050.35,2429.03
+ORD-11612,2026-02-16,East,Apparel,Denim Jacket,2,2999,5358.31,3037.11
+ORD-11513,2026-02-17,South,Electronics,Power Bank,2,1499,2873.98,2262.1
+ORD-11542,2026-02-17,East,Home & Kitchen,Mixer Grinder,1,3499,3247.09,2201.22
+ORD-11549,2026-02-17,South,Beauty & Care,Perfume,1,1799,1746.88,798.25
+ORD-11606,2026-02-17,West,Beauty & Care,Perfume,1,1799,1788.95,832.36
+ORD-11614,2026-02-17,East,Home & Kitchen,Cookware Set,1,2799,2604.01,1714.69
+ORD-11519,2026-02-18,East,Beauty & Care,Hair Dryer,1,1999,1864.71,912.52
+ORD-11526,2026-02-18,East,Apparel,Handloom Saree,1,4999,4731.66,2609.91
+ORD-11580,2026-02-18,North,Electronics,Wireless Earbuds,1,2499,2268.87,1804.86
+ORD-11583,2026-02-18,North,Home & Kitchen,Mixer Grinder,1,3499,3107.98,2108.59
+ORD-11602,2026-02-18,East,Electronics,Wireless Earbuds,1,2499,2452.73,1878.5
+ORD-11561,2026-02-19,North,Electronics,Smartwatch,1,6999,6819.96,5224.45
+ORD-11597,2026-02-19,East,Home & Kitchen,Air Fryer,2,5999,11371.82,7373.11
+ORD-11560,2026-02-20,East,Beauty & Care,Skincare Kit,1,2499,2377.4,1136.46
+ORD-11582,2026-02-20,East,Home & Kitchen,Steel Water Bottle,1,599,574.57,374.76
+ORD-11521,2026-02-21,West,Home & Kitchen,Cookware Set,1,2799,2644.08,1776.62
+ORD-11563,2026-02-21,East,Electronics,Bluetooth Speaker,1,3299,3263.55,2370.27
+ORD-11591,2026-02-21,North,Home & Kitchen,Cookware Set,1,2799,2608.93,1718.52
+ORD-11534,2026-02-22,East,Home & Kitchen,Mixer Grinder,1,3499,3350.89,2135.08
+ORD-11536,2026-02-22,North,Electronics,Smartwatch,1,6999,6741.05,5260.11
+ORD-11579,2026-02-22,West,Beauty & Care,Skincare Kit,1,2499,2418.14,1136.71
+ORD-11592,2026-02-22,North,Electronics,Wireless Earbuds,1,2499,2343.78,1848.4
+ORD-11507,2026-02-23,North,Apparel,Handloom Saree,1,4999,4597.36,2524.14
+ORD-11512,2026-02-23,East,Electronics,Wireless Earbuds,1,2499,2373.89,1802.82
+ORD-11518,2026-02-23,West,Electronics,Bluetooth Speaker,1,3299,3287.72,2415.22
+ORD-11577,2026-02-23,South,Beauty & Care,Perfume,1,1799,1583.96,804.1
+ORD-11508,2026-02-24,West,Electronics,Wireless Earbuds,2,2499,4465.39,3803.66
+ORD-11528,2026-02-24,North,Home & Kitchen,Cookware Set,1,2799,2704.98,1786.52
+ORD-11522,2026-02-25,East,Beauty & Care,Skincare Kit,1,2499,2350.51,1125.74
+ORD-11533,2026-02-25,South,Electronics,Smartwatch,1,6999,6233.26,5115.53
+ORD-11543,2026-02-25,East,Home & Kitchen,Air Fryer,1,5999,5579.51,3638.92
+ORD-11567,2026-02-25,West,Apparel,Running Shoes,3,3499,10375.62,5384.55
+ORD-11595,2026-02-25,North,Electronics,Power Bank,1,1499,1498.14,1128.43
+ORD-11608,2026-02-25,West,Apparel,Running Shoes,3,3499,10492.08,5365.55
+ORD-11516,2026-02-26,West,Beauty & Care,Skincare Kit,1,2499,2251.23,1144.48
+ORD-11550,2026-02-26,East,Electronics,Wireless Earbuds,1,2499,2388.92,1812.95
+ORD-11584,2026-02-26,East,Home & Kitchen,Air Fryer,1,5999,5488.23,3612.8
+ORD-11615,2026-02-26,North,Apparel,Handloom Saree,2,4999,9957.69,5055.42
+ORD-11529,2026-02-27,North,Home & Kitchen,Cookware Set,1,2799,2658.22,1727.09
+ORD-11541,2026-02-27,East,Home & Kitchen,Mixer Grinder,1,3499,3446.65,2211.61
+ORD-11547,2026-02-27,North,Electronics,Power Bank,1,1499,1485.49,1122.73
+ORD-11569,2026-02-27,East,Home & Kitchen,Cookware Set,1,2799,2756.95,1710.53
+ORD-11593,2026-02-27,South,Apparel,Denim Jacket,1,2999,2817.04,1603.88
+ORD-11555,2026-02-28,South,Home & Kitchen,Cookware Set,1,2799,2722.26,1695.34
+ORD-11565,2026-02-28,North,Apparel,Cotton Kurta,1,1299,1217.16,658.01
+ORD-11650,2026-03-01,West,Apparel,Running Shoes,1,3499,3124.94,1833.03
+ORD-11739,2026-03-01,West,Electronics,Power Bank,1,1499,1447.3,1076.24
+ORD-11648,2026-03-02,East,Apparel,Handloom Saree,1,4999,4910.99,2550.51
+ORD-11661,2026-03-02,East,Electronics,Bluetooth Speaker,1,3299,3217.2,2478.66
+ORD-11690,2026-03-02,South,Home & Kitchen,Steel Water Bottle,1,599,557.07,368.68
+ORD-11734,2026-03-02,East,Home & Kitchen,Air Fryer,3,5999,17078.91,11152.15
+ORD-11630,2026-03-03,North,Home & Kitchen,Cookware Set,2,2799,5197.99,3446.32
+ORD-11656,2026-03-03,South,Apparel,Running Shoes,1,3499,3325.23,1830.81
+ORD-11662,2026-03-03,West,Apparel,Denim Jacket,1,2999,2730.57,1544.86
+ORD-11668,2026-03-03,West,Beauty & Care,Hair Dryer,2,1999,3826.42,1848.38
+ORD-11712,2026-03-03,North,Apparel,Denim Jacket,1,2999,2849.14,1592.97
+ORD-11639,2026-03-04,North,Home & Kitchen,Steel Water Bottle,2,599,1140.57,726.65
+ORD-11654,2026-03-04,West,Home & Kitchen,Air Fryer,1,5999,5601.61,3608.83
+ORD-11733,2026-03-04,South,Home & Kitchen,Cookware Set,2,2799,5108.66,3418.47
+ORD-11621,2026-03-05,South,Electronics,Bluetooth Speaker,2,3299,6069.08,4742.92
+ORD-11624,2026-03-05,South,Home & Kitchen,Mixer Grinder,1,3499,3222.46,2188.88
+ORD-11628,2026-03-05,North,Home & Kitchen,Steel Water Bottle,1,599,555.73,365.26
+ORD-11664,2026-03-05,North,Electronics,Power Bank,1,1499,1442.85,1103.59
+ORD-11677,2026-03-05,East,Home & Kitchen,Mixer Grinder,1,3499,3432.09,2181.08
+ORD-11708,2026-03-05,East,Electronics,Power Bank,1,1499,1331.64,1114.77
+ORD-11711,2026-03-05,West,Electronics,Smartwatch,1,6999,6766.41,5281.24
+ORD-11735,2026-03-05,East,Home & Kitchen,Cookware Set,2,2799,5063.75,3422.99
+ORD-11736,2026-03-05,West,Electronics,Bluetooth Speaker,1,3299,3186.19,2401.11
+ORD-11626,2026-03-06,North,Apparel,Handloom Saree,1,4999,4677.74,2566.21
+ORD-11641,2026-03-06,West,Electronics,Bluetooth Speaker,1,3299,3224.28,2467.37
+ORD-11667,2026-03-06,East,Electronics,Wireless Earbuds,1,2499,2239.79,1849.24
+ORD-11678,2026-03-06,East,Apparel,Handloom Saree,1,4999,4404.84,2604.23
+ORD-11730,2026-03-06,East,Apparel,Running Shoes,2,3499,6261.46,3738.58
+ORD-11732,2026-03-06,West,Beauty & Care,Perfume,1,1799,1772.89,798.06
+ORD-11695,2026-03-07,North,Electronics,Wireless Earbuds,2,2499,4778.51,3710.18
+ORD-11720,2026-03-07,East,Electronics,Wireless Earbuds,1,2499,2426.85,1802.53
+ORD-11729,2026-03-07,South,Home & Kitchen,Steel Water Bottle,1,599,531.48,381.12
+ORD-11634,2026-03-08,West,Apparel,Handloom Saree,1,4999,4867.48,2672.56
+ORD-11672,2026-03-08,West,Home & Kitchen,Mixer Grinder,1,3499,3399.83,2158.31
+ORD-11696,2026-03-08,South,Apparel,Running Shoes,3,3499,9290.35,5394.12
+ORD-11716,2026-03-08,South,Beauty & Care,Hair Dryer,1,1999,1886.61,881.28
+ORD-11718,2026-03-08,East,Electronics,Bluetooth Speaker,1,3299,2981.29,2377.51
+ORD-11725,2026-03-08,West,Home & Kitchen,Steel Water Bottle,1,599,570.24,379.11
+ORD-11683,2026-03-09,South,Apparel,Denim Jacket,2,2999,5859.17,3051.93
+ORD-11699,2026-03-09,North,Beauty & Care,Hair Dryer,2,1999,3630.77,1806.06
+ORD-11710,2026-03-09,West,Home & Kitchen,Mixer Grinder,3,3499,9660.84,6557.63
+ORD-11738,2026-03-09,East,Apparel,Cotton Kurta,2,1299,2452.33,1347.56
+ORD-11619,2026-03-10,East,Home & Kitchen,Cookware Set,2,2799,5273.67,3384.82
+ORD-11638,2026-03-10,West,Electronics,Smartwatch,1,6999,6584.71,5054.38
+ORD-11649,2026-03-10,East,Electronics,Smartwatch,1,6999,6645.28,5227.88
+ORD-11663,2026-03-10,East,Beauty & Care,Hair Dryer,1,1999,1978.47,916.77
+ORD-11669,2026-03-10,South,Electronics,Smartwatch,2,6999,13478.38,10644.48
+ORD-11701,2026-03-10,East,Apparel,Running Shoes,2,3499,6507.45,3718.38
+ORD-11717,2026-03-10,North,Apparel,Cotton Kurta,1,1299,1297.54,672.68
+ORD-11635,2026-03-11,West,Electronics,Power Bank,1,1499,1363.25,1080.34
+ORD-11676,2026-03-11,North,Electronics,Wireless Earbuds,1,2499,2338.65,1827.91
+ORD-11697,2026-03-11,West,Apparel,Denim Jacket,1,2999,2890.32,1584.0
+ORD-11631,2026-03-12,South,Home & Kitchen,Cookware Set,1,2799,2790.99,1778.51
+ORD-11643,2026-03-12,West,Apparel,Denim Jacket,3,2999,8770.95,4772.84
+ORD-11647,2026-03-12,West,Beauty & Care,Skincare Kit,1,2499,2207.41,1095.19
+ORD-11652,2026-03-12,South,Apparel,Cotton Kurta,3,1299,3642.28,2032.46
+ORD-11658,2026-03-12,East,Electronics,Wireless Earbuds,1,2499,2472.69,1804.61
+ORD-11671,2026-03-12,West,Beauty & Care,Face Serum,1,899,878.81,398.62
+ORD-11674,2026-03-12,East,Beauty & Care,Skincare Kit,2,2499,4996.91,2265.24
+ORD-11702,2026-03-12,East,Electronics,Smartwatch,1,6999,6296.88,5102.18
+ORD-11709,2026-03-12,East,Home & Kitchen,Steel Water Bottle,3,599,1700.95,1091.39
+ORD-11742,2026-03-12,North,Apparel,Cotton Kurta,3,1299,3775.74,2083.46
+ORD-11632,2026-03-13,North,Home & Kitchen,Cookware Set,3,2799,7854.44,5240.84
+ORD-11642,2026-03-13,West,Beauty & Care,Skincare Kit,2,2499,4783.17,2185.84
+ORD-11682,2026-03-13,East,Electronics,Wireless Earbuds,3,2499,6848.76,5698.12
+ORD-11687,2026-03-13,East,Apparel,Cotton Kurta,1,1299,1254.86,689.54
+ORD-11657,2026-03-14,North,Beauty & Care,Hair Dryer,2,1999,3844.66,1758.95
+ORD-11689,2026-03-14,East,Electronics,Power Bank,2,1499,2786.32,2177.66
+ORD-11705,2026-03-14,North,Electronics,Wireless Earbuds,2,2499,4602.69,3690.64
+ORD-11618,2026-03-15,North,Electronics,Wireless Earbuds,1,2499,2494.66,1870.91
+ORD-11675,2026-03-15,North,Electronics,Bluetooth Speaker,1,3299,3033.86,2399.86
+ORD-11722,2026-03-15,North,Electronics,Smartwatch,1,6999,6199.86,5125.21
+ORD-11623,2026-03-17,East,Apparel,Denim Jacket,1,2999,2849.48,1603.16
+ORD-11645,2026-03-17,North,Electronics,Power Bank,1,1499,1363.23,1127.28
+ORD-11665,2026-03-17,East,Home & Kitchen,Mixer Grinder,1,3499,3236.53,2132.2
+ORD-11684,2026-03-17,South,Apparel,Running Shoes,1,3499,3301.53,1823.86
+ORD-11704,2026-03-18,East,Home & Kitchen,Mixer Grinder,1,3499,3390.01,2109.43
+ORD-11723,2026-03-18,North,Electronics,Wireless Earbuds,1,2499,2493.39,1854.51
+ORD-11714,2026-03-19,West,Apparel,Denim Jacket,1,2999,2640.59,1570.32
+ORD-11627,2026-03-20,North,Electronics,Wireless Earbuds,2,2499,4549.65,3676.03
+ORD-11629,2026-03-20,North,Home & Kitchen,Mixer Grinder,1,3499,3279.16,2126.85
+ORD-11646,2026-03-20,East,Home & Kitchen,Cookware Set,3,2799,7528.73,5141.52
+ORD-11653,2026-03-20,South,Home & Kitchen,Steel Water Bottle,1,599,580.84,367.43
+ORD-11670,2026-03-20,West,Home & Kitchen,Steel Water Bottle,2,599,1073.44,753.31
+ORD-11685,2026-03-20,North,Electronics,Power Bank,3,1499,4025.31,3260.71
+ORD-11636,2026-03-21,West,Beauty & Care,Hair Dryer,1,1999,1761.2,901.54
+ORD-11660,2026-03-21,East,Home & Kitchen,Steel Water Bottle,1,599,567.04,375.38
+ORD-11688,2026-03-21,East,Electronics,Power Bank,1,1499,1366.87,1081.47
+ORD-11719,2026-03-21,West,Apparel,Cotton Kurta,1,1299,1198.88,685.84
+ORD-11633,2026-03-22,East,Home & Kitchen,Air Fryer,1,5999,5687.06,3625.39
+ORD-11644,2026-03-22,South,Home & Kitchen,Air Fryer,1,5999,5368.58,3828.69
+ORD-11673,2026-03-22,East,Home & Kitchen,Mixer Grinder,2,3499,6827.79,4460.04
+ORD-11713,2026-03-22,North,Electronics,Power Bank,2,1499,2841.95,2273.41
+ORD-11680,2026-03-23,West,Home & Kitchen,Air Fryer,2,5999,11545.4,7250.35
+ORD-11707,2026-03-23,West,Apparel,Denim Jacket,3,2999,8899.99,4549.31
+ORD-11726,2026-03-23,West,Beauty & Care,Hair Dryer,1,1999,1984.33,911.31
+ORD-11620,2026-03-24,West,Apparel,Handloom Saree,2,4999,9576.97,5337.23
+ORD-11686,2026-03-24,South,Beauty & Care,Face Serum,1,899,860.86,413.98
+ORD-11691,2026-03-24,West,Beauty & Care,Hair Dryer,2,1999,3953.96,1837.7
+ORD-11741,2026-03-24,South,Electronics,Power Bank,1,1499,1447.26,1084.95
+ORD-11625,2026-03-25,North,Electronics,Power Bank,3,1499,4299.4,3402.48
+ORD-11666,2026-03-25,East,Home & Kitchen,Mixer Grinder,1,3499,3281.96,2232.47
+ORD-11692,2026-03-25,North,Electronics,Wireless Earbuds,3,2499,6759.46,5680.42
+ORD-11715,2026-03-25,North,Home & Kitchen,Air Fryer,1,5999,5363.72,3634.37
+ORD-11617,2026-03-26,North,Home & Kitchen,Cookware Set,2,2799,5166.49,3455.11
+ORD-11637,2026-03-26,South,Home & Kitchen,Cookware Set,2,2799,5102.13,3389.48
+ORD-11681,2026-03-26,West,Apparel,Handloom Saree,2,4999,9424.5,5244.42
+ORD-11731,2026-03-26,North,Apparel,Cotton Kurta,1,1299,1221.29,688.98
+ORD-11728,2026-03-27,East,Electronics,Power Bank,3,1499,4378.6,3233.75
+ORD-11622,2026-03-28,South,Electronics,Power Bank,1,1499,1336.15,1096.82
+ORD-11659,2026-03-28,North,Electronics,Wireless Earbuds,2,2499,4761.98,3712.78
+ORD-11694,2026-03-29,North,Electronics,Power Bank,2,1499,2746.15,2240.29
+ORD-11724,2026-03-29,East,Apparel,Running Shoes,1,3499,3291.97,1792.61
+ORD-11727,2026-03-29,North,Beauty & Care,Hair Dryer,1,1999,1884.17,884.72
+ORD-11740,2026-03-29,East,Electronics,Bluetooth Speaker,2,3299,6114.97,4763.25
+ORD-11640,2026-03-30,West,Home & Kitchen,Steel Water Bottle,2,599,1107.21,736.09
+ORD-11651,2026-03-30,West,Apparel,Denim Jacket,1,2999,2825.29,1513.18
+ORD-11655,2026-03-30,East,Electronics,Smartwatch,1,6999,6721.49,5035.16
+ORD-11679,2026-03-30,South,Home & Kitchen,Air Fryer,1,5999,5435.69,3644.32
+ORD-11693,2026-03-30,South,Beauty & Care,Perfume,1,1799,1667.59,813.28
+ORD-11698,2026-03-30,East,Electronics,Bluetooth Speaker,1,3299,2994.87,2500.96
+ORD-11700,2026-03-30,West,Beauty & Care,Face Serum,1,899,866.12,393.09
+ORD-11703,2026-03-30,North,Apparel,Denim Jacket,1,2999,2689.46,1590.23
+ORD-11706,2026-03-31,East,Beauty & Care,Skincare Kit,3,2499,7173.9,3278.87
+ORD-11721,2026-03-31,East,Home & Kitchen,Cookware Set,1,2799,2795.3,1708.94
+ORD-11737,2026-03-31,South,Electronics,Power Bank,2,1499,2955.97,2224.82
+ORD-11746,2026-04-01,North,Home & Kitchen,Steel Water Bottle,3,599,1766.82,1113.73
+ORD-11771,2026-04-01,West,Apparel,Handloom Saree,1,4999,4880.95,2632.28
+ORD-11799,2026-04-01,North,Electronics,Bluetooth Speaker,1,3299,3174.8,2380.34
+ORD-11839,2026-04-01,East,Electronics,Power Bank,2,1499,2902.99,2186.62
+ORD-11845,2026-04-01,South,Beauty & Care,Hair Dryer,1,1999,1977.87,907.06
+ORD-11851,2026-04-01,North,Home & Kitchen,Mixer Grinder,2,3499,6992.86,4345.03
+ORD-11761,2026-04-03,East,Electronics,Bluetooth Speaker,2,3299,6097.32,4821.25
+ORD-11763,2026-04-03,East,Electronics,Smartwatch,2,6999,13885.53,10216.89
+ORD-11788,2026-04-03,East,Apparel,Denim Jacket,1,2999,2991.76,1586.66
+ORD-11750,2026-04-04,East,Electronics,Power Bank,1,1499,1414.24,1113.65
+ORD-11863,2026-04-04,West,Electronics,Wireless Earbuds,2,2499,4723.81,3808.52
+ORD-11804,2026-04-05,East,Home & Kitchen,Cookware Set,2,2799,4987.84,3549.62
+ORD-11833,2026-04-05,North,Electronics,Bluetooth Speaker,1,3299,2984.24,2461.36
+ORD-11759,2026-04-06,West,Electronics,Smartwatch,1,6999,6486.3,5332.74
+ORD-11765,2026-04-06,South,Apparel,Denim Jacket,1,2999,2988.27,1538.32
+ORD-11782,2026-04-06,East,Beauty & Care,Hair Dryer,1,1999,1764.76,912.71
+ORD-11794,2026-04-06,South,Electronics,Wireless Earbuds,1,2499,2327.4,1816.2
+ORD-11822,2026-04-06,South,Apparel,Denim Jacket,3,2999,8115.82,4725.71
+ORD-11865,2026-04-06,West,Electronics,Power Bank,1,1499,1364.47,1084.96
+ORD-11754,2026-04-07,East,Beauty & Care,Perfume,1,1799,1736.74,830.34
+ORD-11775,2026-04-07,South,Electronics,Power Bank,1,1499,1365.75,1082.58
+ORD-11781,2026-04-07,North,Home & Kitchen,Mixer Grinder,3,3499,9552.64,6575.7
+ORD-11792,2026-04-07,South,Electronics,Bluetooth Speaker,1,3299,3235.24,2418.41
+ORD-11793,2026-04-07,South,Electronics,Bluetooth Speaker,1,3299,2981.16,2441.38
+ORD-11818,2026-04-07,East,Electronics,Wireless Earbuds,1,2499,2405.18,1828.67
+ORD-11861,2026-04-07,North,Apparel,Handloom Saree,1,4999,4776.45,2538.99
+ORD-11753,2026-04-08,East,Home & Kitchen,Cookware Set,1,2799,2584.41,1764.45
+ORD-11762,2026-04-08,West,Electronics,Bluetooth Speaker,2,3299,6474.77,4808.74
+ORD-11798,2026-04-08,East,Apparel,Handloom Saree,1,4999,4913.9,2648.2
+ORD-11776,2026-04-09,North,Electronics,Power Bank,1,1499,1386.83,1085.54
+ORD-11830,2026-04-09,West,Home & Kitchen,Steel Water Bottle,1,599,564.67,371.27
+ORD-11787,2026-04-10,North,Electronics,Wireless Earbuds,1,2499,2363.52,1887.94
+ORD-11809,2026-04-10,North,Electronics,Power Bank,2,1499,2957.27,2256.33
+ORD-11838,2026-04-10,East,Electronics,Wireless Earbuds,1,2499,2356.63,1808.27
+ORD-11859,2026-04-10,North,Beauty & Care,Perfume,1,1799,1678.31,803.66
+ORD-11869,2026-04-10,West,Beauty & Care,Perfume,1,1799,1633.82,790.27
+ORD-11756,2026-04-11,West,Apparel,Denim Jacket,1,2999,2717.75,1545.26
+ORD-11819,2026-04-11,West,Electronics,Bluetooth Speaker,1,3299,3218.6,2403.19
+ORD-11820,2026-04-11,East,Apparel,Running Shoes,1,3499,3487.35,1864.73
+ORD-11758,2026-04-12,North,Apparel,Running Shoes,1,3499,3327.91,1822.14
+ORD-11805,2026-04-12,East,Home & Kitchen,Mixer Grinder,1,3499,3112.16,2210.59
+ORD-11807,2026-04-12,West,Home & Kitchen,Cookware Set,2,2799,4959.0,3555.7
+ORD-11812,2026-04-12,West,Beauty & Care,Perfume,1,1799,1755.75,797.18
+ORD-11827,2026-04-12,West,Electronics,Smartwatch,1,6999,6188.02,5184.86
+ORD-11837,2026-04-12,West,Home & Kitchen,Mixer Grinder,3,3499,9614.22,6575.7
+ORD-11866,2026-04-12,East,Apparel,Running Shoes,1,3499,3084.47,1795.98
+ORD-11772,2026-04-13,South,Electronics,Smartwatch,1,6999,6924.97,5091.92
+ORD-11777,2026-04-13,North,Electronics,Smartwatch,1,6999,6869.28,5334.58
+ORD-11780,2026-04-13,West,Apparel,Running Shoes,2,3499,6925.56,3632.03
+ORD-11800,2026-04-13,North,Home & Kitchen,Mixer Grinder,1,3499,3446.97,2192.37
+ORD-11825,2026-04-13,South,Home & Kitchen,Cookware Set,1,2799,2619.63,1729.94
+ORD-11850,2026-04-13,North,Electronics,Wireless Earbuds,2,2499,4523.98,3776.09
+ORD-11858,2026-04-13,North,Apparel,Denim Jacket,2,2999,5699.43,3138.22
+ORD-11743,2026-04-14,South,Beauty & Care,Skincare Kit,2,2499,4931.19,2240.4
+ORD-11815,2026-04-14,West,Electronics,Wireless Earbuds,1,2499,2205.44,1887.47
+ORD-11745,2026-04-15,South,Home & Kitchen,Steel Water Bottle,2,599,1100.01,725.78
+ORD-11749,2026-04-15,South,Electronics,Bluetooth Speaker,2,3299,6508.7,4815.71
+ORD-11755,2026-04-15,North,Beauty & Care,Perfume,1,1799,1777.97,787.0
+ORD-11760,2026-04-15,North,Electronics,Power Bank,1,1499,1452.43,1127.9
+ORD-11769,2026-04-15,South,Home & Kitchen,Cookware Set,1,2799,2694.66,1755.36
+ORD-11811,2026-04-15,West,Home & Kitchen,Cookware Set,2,2799,5338.43,3412.16
+ORD-11831,2026-04-15,South,Electronics,Wireless Earbuds,3,2499,7445.11,5615.1
+ORD-11846,2026-04-15,West,Electronics,Smartwatch,1,6999,6981.74,5170.29
+ORD-11789,2026-04-16,East,Home & Kitchen,Steel Water Bottle,1,599,537.9,362.28
+ORD-11797,2026-04-16,South,Apparel,Cotton Kurta,1,1299,1180.66,668.15
+ORD-11853,2026-04-16,West,Home & Kitchen,Air Fryer,1,5999,5299.94,3680.13
+ORD-11748,2026-04-17,North,Electronics,Smartwatch,1,6999,6706.57,5041.31
+ORD-11796,2026-04-17,West,Electronics,Smartwatch,2,6999,13544.53,10571.25
+ORD-11816,2026-04-17,North,Apparel,Denim Jacket,1,2999,2785.63,1512.96
+ORD-11824,2026-04-17,South,Electronics,Power Bank,1,1499,1472.15,1086.65
+ORD-11826,2026-04-17,West,Home & Kitchen,Air Fryer,1,5999,5418.79,3679.33
+ORD-11829,2026-04-17,South,Apparel,Cotton Kurta,1,1299,1194.44,672.61
+ORD-11854,2026-04-17,West,Home & Kitchen,Steel Water Bottle,1,599,570.07,365.82
+ORD-11864,2026-04-17,North,Apparel,Handloom Saree,1,4999,4535.55,2677.19
+ORD-11744,2026-04-18,East,Apparel,Denim Jacket,1,2999,2731.23,1551.39
+ORD-11747,2026-04-18,South,Beauty & Care,Hair Dryer,1,1999,1790.69,913.53
+ORD-11764,2026-04-18,East,Beauty & Care,Hair Dryer,1,1999,1764.3,922.39
+ORD-11790,2026-04-18,South,Home & Kitchen,Cookware Set,1,2799,2582.28,1690.82
+ORD-11791,2026-04-18,West,Electronics,Bluetooth Speaker,3,3299,9714.06,7449.41
+ORD-11836,2026-04-18,North,Apparel,Denim Jacket,2,2999,5501.76,3045.49
+ORD-11842,2026-04-18,West,Apparel,Running Shoes,1,3499,3145.99,1773.21
+ORD-11768,2026-04-19,South,Electronics,Power Bank,1,1499,1410.37,1137.02
+ORD-11779,2026-04-19,North,Apparel,Cotton Kurta,2,1299,2293.87,1386.23
+ORD-11802,2026-04-19,West,Home & Kitchen,Steel Water Bottle,1,599,593.55,371.31
+ORD-11808,2026-04-19,South,Apparel,Denim Jacket,1,2999,2867.22,1521.28
+ORD-11852,2026-04-19,North,Apparel,Handloom Saree,1,4999,4680.5,2612.86
+ORD-11867,2026-04-19,South,Beauty & Care,Perfume,1,1799,1677.14,785.67
+ORD-11784,2026-04-20,South,Electronics,Smartwatch,2,6999,13823.78,10410.04
+ORD-11785,2026-04-20,West,Home & Kitchen,Cookware Set,1,2799,2473.29,1773.91
+ORD-11814,2026-04-20,South,Home & Kitchen,Cookware Set,2,2799,5594.47,3472.5
+ORD-11832,2026-04-20,North,Home & Kitchen,Air Fryer,1,5999,5511.59,3633.89
+ORD-11840,2026-04-20,East,Home & Kitchen,Air Fryer,3,5999,16993.88,11386.67
+ORD-11751,2026-04-21,South,Home & Kitchen,Air Fryer,2,5999,11969.94,7358.74
+ORD-11828,2026-04-21,West,Electronics,Smartwatch,1,6999,6454.16,5252.34
+ORD-11848,2026-04-21,East,Apparel,Handloom Saree,1,4999,4937.08,2608.63
+ORD-11860,2026-04-21,South,Beauty & Care,Perfume,1,1799,1723.37,811.08
+ORD-11774,2026-04-22,North,Apparel,Handloom Saree,1,4999,4536.62,2565.11
+ORD-11813,2026-04-22,South,Apparel,Handloom Saree,1,4999,4934.31,2570.75
+ORD-11835,2026-04-22,North,Electronics,Power Bank,1,1499,1482.58,1127.64
+ORD-11843,2026-04-22,East,Beauty & Care,Perfume,1,1799,1600.26,799.93
+ORD-11870,2026-04-22,East,Electronics,Wireless Earbuds,2,2499,4876.42,3659.89
+ORD-11821,2026-04-23,West,Beauty & Care,Face Serum,1,899,875.97,413.9
+ORD-11849,2026-04-23,North,Apparel,Running Shoes,2,3499,6382.43,3644.87
+ORD-11857,2026-04-23,North,Beauty & Care,Face Serum,1,899,872.0,403.43
+ORD-11868,2026-04-24,East,Apparel,Denim Jacket,3,2999,8060.92,4709.33
+ORD-11757,2026-04-25,East,Electronics,Wireless Earbuds,1,2499,2291.73,1815.9
+ORD-11783,2026-04-25,East,Beauty & Care,Hair Dryer,2,1999,3768.98,1778.04
+ORD-11803,2026-04-25,North,Electronics,Power Bank,2,1499,2714.27,2173.37
+ORD-11817,2026-04-25,West,Electronics,Bluetooth Speaker,1,3299,2991.81,2469.1
+ORD-11834,2026-04-25,South,Beauty & Care,Skincare Kit,1,2499,2277.52,1128.76
+ORD-11752,2026-04-26,North,Home & Kitchen,Cookware Set,1,2799,2479.97,1698.7
+ORD-11856,2026-04-26,South,Home & Kitchen,Air Fryer,1,5999,5875.42,3708.28
+ORD-11766,2026-04-27,South,Home & Kitchen,Mixer Grinder,3,3499,9681.21,6501.11
+ORD-11773,2026-04-27,West,Home & Kitchen,Air Fryer,1,5999,5528.82,3659.66
+ORD-11786,2026-04-27,South,Beauty & Care,Face Serum,1,899,893.62,396.65
+ORD-11806,2026-04-27,North,Apparel,Handloom Saree,2,4999,9593.25,5112.96
+ORD-11770,2026-04-28,South,Home & Kitchen,Steel Water Bottle,1,599,575.72,372.51
+ORD-11810,2026-04-28,East,Electronics,Power Bank,2,1499,2893.82,2203.76
+ORD-11778,2026-04-29,East,Electronics,Bluetooth Speaker,1,3299,3004.86,2411.09
+ORD-11801,2026-04-29,West,Home & Kitchen,Steel Water Bottle,2,599,1060.16,746.2
+ORD-11823,2026-04-29,North,Electronics,Power Bank,2,1499,2916.39,2186.73
+ORD-11841,2026-04-29,East,Electronics,Power Bank,2,1499,2923.59,2203.18
+ORD-11844,2026-04-29,East,Electronics,Smartwatch,1,6999,6267.14,5334.27
+ORD-11862,2026-04-29,North,Beauty & Care,Perfume,1,1799,1754.61,791.56
+ORD-11767,2026-04-30,South,Electronics,Power Bank,1,1499,1360.91,1110.11
+ORD-11795,2026-04-30,West,Electronics,Power Bank,1,1499,1476.53,1141.26
+ORD-11847,2026-04-30,East,Electronics,Smartwatch,1,6999,6486.1,5047.36
+ORD-11855,2026-04-30,North,Electronics,Power Bank,1,1499,1455.36,1086.23
+ORD-11886,2026-05-01,East,Electronics,Bluetooth Speaker,2,3299,6382.14,4977.28
+ORD-11895,2026-05-01,West,Home & Kitchen,Air Fryer,1,5999,5611.73,3817.08
+ORD-11932,2026-05-01,North,Electronics,Smartwatch,1,6999,6995.1,5068.25
+ORD-11982,2026-05-01,South,Home & Kitchen,Air Fryer,1,5999,5802.58,3728.98
+ORD-11885,2026-05-02,West,Home & Kitchen,Cookware Set,3,2799,8192.98,5228.39
+ORD-11890,2026-05-02,South,Electronics,Smartwatch,2,6999,12577.9,10200.44
+ORD-11899,2026-05-02,West,Home & Kitchen,Mixer Grinder,2,3499,6383.63,4328.97
+ORD-11916,2026-05-02,East,Electronics,Smartwatch,3,6999,20672.99,15526.9
+ORD-11924,2026-05-02,North,Home & Kitchen,Air Fryer,1,5999,5832.96,3767.43
+ORD-11925,2026-05-02,South,Apparel,Running Shoes,2,3499,6428.54,3599.29
+ORD-11949,2026-05-02,West,Beauty & Care,Skincare Kit,2,2499,4475.64,2236.2
+ORD-11969,2026-05-02,West,Electronics,Bluetooth Speaker,1,3299,3281.32,2497.06
+ORD-11972,2026-05-02,West,Electronics,Wireless Earbuds,3,2499,7109.81,5441.39
+ORD-11974,2026-05-02,West,Home & Kitchen,Steel Water Bottle,1,599,574.09,372.92
+ORD-11984,2026-05-02,East,Beauty & Care,Hair Dryer,2,1999,3860.45,1764.7
+ORD-11905,2026-05-03,East,Home & Kitchen,Mixer Grinder,2,3499,6840.54,4411.04
+ORD-11911,2026-05-03,North,Home & Kitchen,Steel Water Bottle,1,599,542.48,376.08
+ORD-11996,2026-05-03,West,Electronics,Smartwatch,3,6999,19714.55,15166.98
+ORD-11879,2026-05-04,West,Apparel,Running Shoes,2,3499,6190.05,3683.61
+ORD-11887,2026-05-04,East,Beauty & Care,Perfume,1,1799,1687.85,801.57
+ORD-11901,2026-05-04,North,Beauty & Care,Face Serum,1,899,880.66,409.76
+ORD-11951,2026-05-04,West,Electronics,Power Bank,2,1499,2938.94,2240.99
+ORD-11961,2026-05-04,South,Beauty & Care,Perfume,1,1799,1763.25,814.38
+ORD-11871,2026-05-05,East,Electronics,Wireless Earbuds,2,2499,4585.43,3608.51
+ORD-11917,2026-05-05,West,Home & Kitchen,Steel Water Bottle,1,599,554.31,366.37
+ORD-11980,2026-05-05,South,Beauty & Care,Face Serum,1,899,797.17,398.12
+ORD-11918,2026-05-06,West,Electronics,Bluetooth Speaker,1,3299,3200.2,2441.65
+ORD-11936,2026-05-06,South,Home & Kitchen,Mixer Grinder,2,3499,6732.05,4224.01
+ORD-11953,2026-05-06,East,Beauty & Care,Skincare Kit,1,2499,2350.08,1093.35
+ORD-12005,2026-05-06,North,Electronics,Smartwatch,1,6999,6287.25,5093.27
+ORD-11874,2026-05-07,South,Electronics,Power Bank,1,1499,1447.13,1106.71
+ORD-11876,2026-05-07,East,Electronics,Wireless Earbuds,3,2499,7150.58,5598.46
+ORD-11877,2026-05-07,South,Beauty & Care,Hair Dryer,3,1999,5288.1,2750.01
+ORD-11922,2026-05-07,West,Apparel,Handloom Saree,1,4999,4409.81,2538.85
+ORD-11941,2026-05-07,West,Beauty & Care,Skincare Kit,2,2499,4527.5,2306.49
+ORD-11906,2026-05-08,South,Apparel,Handloom Saree,1,4999,4958.82,2587.97
+ORD-11952,2026-05-08,West,Home & Kitchen,Air Fryer,1,5999,5743.0,3650.36
+ORD-11977,2026-05-08,South,Electronics,Smartwatch,1,6999,6354.65,5144.91
+ORD-12001,2026-05-08,West,Beauty & Care,Face Serum,1,899,875.88,415.0
+ORD-12002,2026-05-08,West,Home & Kitchen,Steel Water Bottle,1,599,528.97,365.65
+ORD-11903,2026-05-09,South,Home & Kitchen,Mixer Grinder,1,3499,3174.69,2161.7
+ORD-11954,2026-05-09,East,Home & Kitchen,Steel Water Bottle,1,599,571.72,377.06
+ORD-11978,2026-05-09,North,Home & Kitchen,Steel Water Bottle,1,599,582.22,374.46
+ORD-11878,2026-05-10,North,Beauty & Care,Perfume,1,1799,1764.63,826.27
+ORD-11950,2026-05-10,West,Home & Kitchen,Steel Water Bottle,1,599,596.87,368.85
+ORD-11970,2026-05-10,East,Apparel,Denim Jacket,1,2999,2707.64,1564.59
+ORD-11975,2026-05-10,West,Home & Kitchen,Mixer Grinder,1,3499,3299.38,2155.75
+ORD-11986,2026-05-10,South,Apparel,Cotton Kurta,1,1299,1244.42,657.48
+ORD-11999,2026-05-10,East,Electronics,Wireless Earbuds,2,2499,4433.91,3679.18
+ORD-11891,2026-05-11,North,Home & Kitchen,Mixer Grinder,1,3499,3309.97,2145.8
+ORD-11900,2026-05-11,North,Beauty & Care,Skincare Kit,1,2499,2346.04,1113.44
+ORD-11904,2026-05-11,South,Apparel,Denim Jacket,2,2999,5511.06,3133.96
+ORD-11910,2026-05-11,North,Apparel,Handloom Saree,1,4999,4409.41,2617.31
+ORD-11930,2026-05-11,East,Electronics,Wireless Earbuds,1,2499,2213.29,1838.95
+ORD-11945,2026-05-11,West,Apparel,Cotton Kurta,1,1299,1239.73,683.3
+ORD-11955,2026-05-11,North,Apparel,Denim Jacket,1,2999,2979.59,1527.5
+ORD-12000,2026-05-11,South,Electronics,Bluetooth Speaker,1,3299,2969.89,2402.74
+ORD-12006,2026-05-11,North,Home & Kitchen,Air Fryer,1,5999,5756.88,3723.4
+ORD-11919,2026-05-12,North,Beauty & Care,Face Serum,1,899,859.47,410.52
+ORD-12007,2026-05-12,South,Beauty & Care,Face Serum,1,899,891.81,396.65
+ORD-11875,2026-05-13,West,Home & Kitchen,Cookware Set,1,2799,2729.68,1692.78
+ORD-11933,2026-05-13,North,Beauty & Care,Face Serum,2,899,1675.38,832.13
+ORD-11946,2026-05-13,East,Apparel,Handloom Saree,1,4999,4839.31,2573.3
+ORD-11987,2026-05-13,North,Electronics,Power Bank,1,1499,1495.97,1078.05
+ORD-11988,2026-05-13,East,Electronics,Wireless Earbuds,1,2499,2441.82,1874.95
+ORD-11893,2026-05-14,East,Electronics,Power Bank,2,1499,2763.57,2193.25
+ORD-11897,2026-05-14,East,Apparel,Running Shoes,1,3499,3133.34,1849.5
+ORD-11913,2026-05-14,West,Apparel,Denim Jacket,1,2999,2978.66,1603.15
+ORD-11944,2026-05-14,North,Apparel,Handloom Saree,1,4999,4797.2,2612.65
+ORD-11979,2026-05-14,South,Apparel,Denim Jacket,1,2999,2773.55,1530.49
+ORD-11935,2026-05-15,North,Electronics,Power Bank,1,1499,1349.25,1122.49
+ORD-11995,2026-05-15,North,Apparel,Running Shoes,1,3499,3436.35,1864.02
+ORD-11888,2026-05-16,South,Beauty & Care,Face Serum,2,899,1787.51,809.03
+ORD-11943,2026-05-16,South,Electronics,Wireless Earbuds,1,2499,2294.14,1805.5
+ORD-11962,2026-05-16,East,Apparel,Denim Jacket,1,2999,2696.07,1534.03
+ORD-11872,2026-05-17,North,Beauty & Care,Perfume,1,1799,1798.88,819.42
+ORD-11873,2026-05-17,West,Apparel,Cotton Kurta,1,1299,1257.07,673.8
+ORD-11926,2026-05-17,North,Electronics,Wireless Earbuds,1,2499,2424.66,1832.3
+ORD-11928,2026-05-17,South,Apparel,Denim Jacket,1,2999,2949.06,1517.66
+ORD-11960,2026-05-17,East,Home & Kitchen,Air Fryer,1,5999,5622.46,3645.11
+ORD-11998,2026-05-17,North,Electronics,Power Bank,1,1499,1376.12,1106.64
+ORD-11881,2026-05-18,West,Home & Kitchen,Cookware Set,1,2799,2574.82,1732.15
+ORD-11883,2026-05-18,West,Electronics,Wireless Earbuds,2,2499,4774.89,3606.95
+ORD-11971,2026-05-18,North,Apparel,Running Shoes,1,3499,3249.08,1859.85
+ORD-11994,2026-05-18,East,Electronics,Power Bank,1,1499,1401.67,1115.55
+ORD-11939,2026-05-19,East,Electronics,Smartwatch,1,6999,6167.05,5203.0
+ORD-11940,2026-05-19,South,Apparel,Denim Jacket,1,2999,2891.71,1594.3
+ORD-11914,2026-05-20,West,Electronics,Wireless Earbuds,1,2499,2441.74,1896.1
+ORD-11929,2026-05-20,North,Apparel,Cotton Kurta,1,1299,1243.71,680.59
+ORD-11942,2026-05-20,North,Electronics,Smartwatch,1,6999,6936.62,5081.65
+ORD-11957,2026-05-20,East,Beauty & Care,Hair Dryer,2,1999,3864.34,1840.62
+ORD-11959,2026-05-20,West,Home & Kitchen,Air Fryer,2,5999,11573.34,7394.72
+ORD-11964,2026-05-20,South,Beauty & Care,Hair Dryer,1,1999,1876.32,911.96
+ORD-11967,2026-05-20,North,Apparel,Handloom Saree,1,4999,4561.76,2542.86
+ORD-11985,2026-05-20,East,Home & Kitchen,Cookware Set,1,2799,2597.81,1754.93
+ORD-11991,2026-05-20,West,Apparel,Denim Jacket,1,2999,2773.61,1588.54
+ORD-11923,2026-05-21,West,Electronics,Wireless Earbuds,1,2499,2397.79,1821.19
+ORD-11931,2026-05-21,South,Beauty & Care,Perfume,1,1799,1719.63,792.24
+ORD-11983,2026-05-21,North,Home & Kitchen,Mixer Grinder,1,3499,3482.75,2179.41
+ORD-11892,2026-05-22,South,Home & Kitchen,Steel Water Bottle,1,599,584.83,381.65
+ORD-11915,2026-05-22,West,Beauty & Care,Perfume,1,1799,1699.0,825.03
+ORD-11963,2026-05-22,East,Home & Kitchen,Mixer Grinder,1,3499,3109.44,2213.12
+ORD-11973,2026-05-22,West,Electronics,Bluetooth Speaker,2,3299,6334.1,4865.28
+ORD-11990,2026-05-22,South,Electronics,Wireless Earbuds,1,2499,2438.65,1898.98
+ORD-11992,2026-05-22,East,Apparel,Running Shoes,1,3499,3410.01,1830.68
+ORD-11997,2026-05-22,West,Electronics,Bluetooth Speaker,1,3299,3009.74,2413.02
+ORD-11902,2026-05-23,East,Home & Kitchen,Air Fryer,1,5999,5829.28,3779.06
+ORD-11907,2026-05-23,West,Home & Kitchen,Mixer Grinder,1,3499,3407.58,2146.4
+ORD-11927,2026-05-23,North,Apparel,Denim Jacket,1,2999,2910.45,1533.23
+ORD-11934,2026-05-23,West,Apparel,Cotton Kurta,2,1299,2390.69,1370.13
+ORD-11947,2026-05-23,West,Home & Kitchen,Cookware Set,2,2799,5094.02,3466.29
+ORD-11965,2026-05-23,North,Home & Kitchen,Air Fryer,1,5999,5567.15,3657.48
+ORD-11989,2026-05-23,South,Apparel,Cotton Kurta,1,1299,1208.34,677.41
+ORD-11993,2026-05-23,North,Home & Kitchen,Mixer Grinder,2,3499,6601.33,4338.85
+ORD-12004,2026-05-23,North,Home & Kitchen,Cookware Set,2,2799,5278.04,3468.66
+ORD-11912,2026-05-24,South,Electronics,Smartwatch,2,6999,13908.79,10666.02
+ORD-11909,2026-05-25,South,Home & Kitchen,Air Fryer,1,5999,5585.25,3651.9
+ORD-11898,2026-05-26,East,Beauty & Care,Perfume,1,1799,1662.47,824.87
+ORD-11937,2026-05-26,North,Home & Kitchen,Cookware Set,1,2799,2558.72,1753.48
+ORD-11948,2026-05-26,East,Apparel,Denim Jacket,1,2999,2746.64,1545.77
+ORD-11968,2026-05-26,North,Apparel,Handloom Saree,1,4999,4853.56,2639.11
+ORD-11958,2026-05-27,North,Home & Kitchen,Mixer Grinder,1,3499,3185.96,2184.34
+ORD-11884,2026-05-28,West,Beauty & Care,Skincare Kit,1,2499,2343.72,1113.07
+ORD-11894,2026-05-28,East,Electronics,Power Bank,1,1499,1447.11,1138.47
+ORD-11896,2026-05-28,West,Electronics,Wireless Earbuds,2,2499,4683.28,3642.84
+ORD-11908,2026-05-28,East,Home & Kitchen,Cookware Set,1,2799,2754.35,1750.75
+ORD-11920,2026-05-28,North,Home & Kitchen,Steel Water Bottle,1,599,536.13,374.19
+ORD-11921,2026-05-28,South,Home & Kitchen,Air Fryer,1,5999,5455.83,3673.93
+ORD-11981,2026-05-28,East,Electronics,Power Bank,1,1499,1328.16,1095.63
+ORD-11976,2026-05-29,South,Electronics,Wireless Earbuds,1,2499,2444.13,1812.25
+ORD-11880,2026-05-30,East,Beauty & Care,Face Serum,1,899,848.82,399.68
+ORD-11882,2026-05-30,East,Beauty & Care,Skincare Kit,2,2499,4840.47,2303.56
+ORD-11938,2026-05-30,East,Apparel,Denim Jacket,1,2999,2710.05,1566.16
+ORD-11966,2026-05-30,South,Electronics,Smartwatch,1,6999,6779.08,5232.21
+ORD-12003,2026-05-30,East,Apparel,Running Shoes,2,3499,6347.04,3683.15
+ORD-11889,2026-05-31,West,Beauty & Care,Skincare Kit,1,2499,2328.94,1091.96
+ORD-11956,2026-05-31,South,Home & Kitchen,Mixer Grinder,3,3499,9287.83,6547.26
+ORD-12008,2026-05-31,South,Home & Kitchen,Cookware Set,1,2799,2730.21,1745.47
+ORD-12058,2026-06-01,East,Electronics,Bluetooth Speaker,1,3299,3267.66,2402.6
+ORD-12107,2026-06-01,West,Beauty & Care,Perfume,2,1799,3255.5,1581.46
+ORD-12119,2026-06-01,South,Electronics,Wireless Earbuds,1,2499,2243.51,1825.77
+ORD-12136,2026-06-01,North,Electronics,Power Bank,2,1499,2900.45,2253.81
+ORD-12137,2026-06-01,West,Home & Kitchen,Air Fryer,1,5999,5719.59,3733.72
+ORD-12020,2026-06-02,North,Electronics,Bluetooth Speaker,2,3299,6253.22,4807.16
+ORD-12046,2026-06-02,West,Electronics,Bluetooth Speaker,2,3299,6006.25,4859.47
+ORD-12053,2026-06-02,West,Home & Kitchen,Air Fryer,2,5999,10930.62,7255.5
+ORD-12080,2026-06-02,South,Beauty & Care,Face Serum,1,899,897.07,394.21
+ORD-12104,2026-06-02,East,Electronics,Wireless Earbuds,1,2499,2428.77,1849.15
+ORD-12069,2026-06-03,North,Beauty & Care,Face Serum,3,899,2684.11,1241.54
+ORD-12070,2026-06-03,East,Electronics,Power Bank,1,1499,1409.98,1082.13
+ORD-12072,2026-06-03,South,Electronics,Smartwatch,1,6999,6536.18,5156.62
+ORD-12073,2026-06-03,East,Home & Kitchen,Steel Water Bottle,1,599,568.44,375.54
+ORD-12101,2026-06-03,East,Apparel,Handloom Saree,1,4999,4919.92,2554.25
+ORD-12126,2026-06-03,East,Electronics,Wireless Earbuds,1,2499,2266.01,1823.17
+ORD-12127,2026-06-03,East,Beauty & Care,Perfume,2,1799,3327.92,1623.45
+ORD-12026,2026-06-04,South,Beauty & Care,Skincare Kit,1,2499,2296.31,1127.04
+ORD-12012,2026-06-05,West,Apparel,Denim Jacket,3,2999,8856.89,4545.73
+ORD-12056,2026-06-05,West,Beauty & Care,Skincare Kit,1,2499,2294.74,1091.59
+ORD-12033,2026-06-06,West,Home & Kitchen,Cookware Set,2,2799,5537.55,3562.75
+ORD-12090,2026-06-06,West,Electronics,Power Bank,2,1499,2946.32,2168.77
+ORD-12141,2026-06-06,South,Apparel,Handloom Saree,1,4999,4891.53,2565.05
+ORD-12016,2026-06-07,West,Home & Kitchen,Cookware Set,1,2799,2687.31,1710.07
+ORD-12019,2026-06-07,East,Electronics,Power Bank,1,1499,1325.15,1126.7
+ORD-12051,2026-06-07,West,Apparel,Handloom Saree,1,4999,4523.56,2569.98
+ORD-12062,2026-06-07,East,Home & Kitchen,Air Fryer,1,5999,5304.82,3658.23
+ORD-12083,2026-06-07,North,Home & Kitchen,Air Fryer,2,5999,11925.85,7251.79
+ORD-12098,2026-06-07,East,Apparel,Running Shoes,3,3499,9366.04,5431.86
+ORD-12028,2026-06-08,East,Apparel,Cotton Kurta,1,1299,1291.96,682.21
+ORD-12036,2026-06-08,North,Electronics,Smartwatch,1,6999,6869.95,5333.51
+ORD-12048,2026-06-08,East,Electronics,Bluetooth Speaker,1,3299,3193.55,2376.11
+ORD-12092,2026-06-08,East,Apparel,Handloom Saree,1,4999,4964.81,2656.67
+ORD-12023,2026-06-09,East,Electronics,Wireless Earbuds,1,2499,2322.42,1797.2
+ORD-12076,2026-06-09,West,Electronics,Power Bank,3,1499,4418.94,3311.65
+ORD-12128,2026-06-09,North,Home & Kitchen,Mixer Grinder,1,3499,3437.92,2122.71
+ORD-12133,2026-06-09,North,Electronics,Wireless Earbuds,1,2499,2297.05,1844.23
+ORD-12027,2026-06-10,East,Electronics,Smartwatch,1,6999,6602.13,5072.71
+ORD-12035,2026-06-10,North,Beauty & Care,Hair Dryer,1,1999,1932.0,924.27
+ORD-12065,2026-06-10,East,Electronics,Smartwatch,2,6999,12521.71,10119.37
+ORD-12082,2026-06-10,South,Apparel,Handloom Saree,2,4999,9144.0,5113.63
+ORD-12124,2026-06-10,East,Electronics,Bluetooth Speaker,2,3299,5820.56,4972.39
+ORD-12009,2026-06-11,North,Beauty & Care,Skincare Kit,2,2499,4485.68,2202.61
+ORD-12014,2026-06-11,North,Electronics,Wireless Earbuds,1,2499,2387.87,1878.86
+ORD-12029,2026-06-11,North,Electronics,Wireless Earbuds,1,2499,2442.18,1881.11
+ORD-12052,2026-06-11,North,Beauty & Care,Skincare Kit,1,2499,2218.91,1150.0
+ORD-12093,2026-06-11,West,Electronics,Bluetooth Speaker,2,3299,5958.13,4784.3
+ORD-12118,2026-06-11,West,Electronics,Smartwatch,1,6999,6950.94,5118.33
+ORD-12030,2026-06-12,South,Home & Kitchen,Mixer Grinder,2,3499,6701.85,4368.94
+ORD-12038,2026-06-12,South,Apparel,Handloom Saree,1,4999,4797.92,2539.14
+ORD-12060,2026-06-12,West,Beauty & Care,Skincare Kit,2,2499,4472.59,2268.5
+ORD-12099,2026-06-12,West,Electronics,Bluetooth Speaker,1,3299,3210.51,2403.64
+ORD-12103,2026-06-12,East,Beauty & Care,Hair Dryer,1,1999,1932.87,890.3
+ORD-12131,2026-06-12,East,Electronics,Wireless Earbuds,1,2499,2339.86,1865.68
+ORD-12017,2026-06-13,West,Apparel,Handloom Saree,2,4999,9500.57,5051.23
+ORD-12050,2026-06-13,North,Apparel,Cotton Kurta,1,1299,1236.88,663.77
+ORD-12077,2026-06-13,East,Home & Kitchen,Steel Water Bottle,1,599,598.08,380.77
+ORD-12084,2026-06-13,West,Beauty & Care,Perfume,2,1799,3524.28,1615.3
+ORD-12021,2026-06-14,East,Electronics,Power Bank,1,1499,1458.35,1085.32
+ORD-12047,2026-06-14,West,Home & Kitchen,Cookware Set,2,2799,5206.77,3481.87
+ORD-12067,2026-06-14,East,Electronics,Smartwatch,1,6999,6417.74,5310.68
+ORD-12106,2026-06-14,North,Home & Kitchen,Steel Water Bottle,1,599,559.88,382.37
+ORD-12122,2026-06-14,South,Home & Kitchen,Steel Water Bottle,1,599,532.18,380.75
+ORD-12134,2026-06-14,East,Electronics,Power Bank,1,1499,1321.51,1128.77
+ORD-12135,2026-06-14,East,Home & Kitchen,Cookware Set,1,2799,2664.24,1757.78
+ORD-12034,2026-06-15,East,Electronics,Smartwatch,1,6999,6748.25,5039.64
+ORD-12054,2026-06-15,South,Beauty & Care,Skincare Kit,1,2499,2275.88,1156.94
+ORD-12081,2026-06-15,South,Beauty & Care,Skincare Kit,1,2499,2257.91,1116.7
+ORD-12130,2026-06-15,South,Apparel,Denim Jacket,1,2999,2739.49,1551.6
+ORD-12140,2026-06-15,North,Electronics,Wireless Earbuds,2,2499,4815.84,3784.35
+ORD-12032,2026-06-16,East,Apparel,Handloom Saree,3,4999,13720.21,7816.9
+ORD-12085,2026-06-16,North,Electronics,Power Bank,3,1499,4103.43,3418.3
+ORD-12086,2026-06-16,North,Apparel,Cotton Kurta,2,1299,2311.36,1333.18
+ORD-12105,2026-06-16,South,Electronics,Smartwatch,2,6999,12838.38,10428.88
+ORD-12022,2026-06-17,North,Home & Kitchen,Mixer Grinder,1,3499,3245.32,2224.89
+ORD-12025,2026-06-17,North,Electronics,Smartwatch,1,6999,6837.98,5067.32
+ORD-12055,2026-06-17,East,Home & Kitchen,Mixer Grinder,2,3499,6828.93,4362.24
+ORD-12078,2026-06-17,South,Apparel,Running Shoes,1,3499,3195.49,1833.45
+ORD-12138,2026-06-17,West,Electronics,Smartwatch,2,6999,13757.63,10451.63
+ORD-12015,2026-06-18,East,Electronics,Wireless Earbuds,1,2499,2226.61,1862.23
+ORD-12018,2026-06-18,South,Home & Kitchen,Mixer Grinder,1,3499,3142.51,2166.97
+ORD-12043,2026-06-18,North,Electronics,Power Bank,2,1499,2658.7,2173.99
+ORD-12045,2026-06-18,North,Electronics,Power Bank,1,1499,1378.19,1092.04
+ORD-12108,2026-06-18,North,Electronics,Smartwatch,1,6999,6355.47,5173.5
+ORD-12116,2026-06-18,East,Apparel,Handloom Saree,1,4999,4804.18,2598.98
+ORD-12123,2026-06-18,East,Electronics,Power Bank,3,1499,4091.06,3423.45
+ORD-12129,2026-06-18,South,Apparel,Handloom Saree,2,4999,9287.38,5305.87
+ORD-12066,2026-06-19,South,Home & Kitchen,Steel Water Bottle,1,599,577.87,368.98
+ORD-12011,2026-06-20,West,Home & Kitchen,Mixer Grinder,1,3499,3156.71,2179.31
+ORD-12039,2026-06-20,South,Beauty & Care,Face Serum,1,899,844.49,402.24
+ORD-12097,2026-06-20,North,Home & Kitchen,Steel Water Bottle,1,599,529.72,382.0
+ORD-12120,2026-06-20,West,Home & Kitchen,Cookware Set,2,2799,5401.73,3474.26
+ORD-12024,2026-06-21,East,Electronics,Wireless Earbuds,1,2499,2291.26,1866.73
+ORD-12040,2026-06-21,East,Electronics,Bluetooth Speaker,1,3299,3220.93,2412.29
+ORD-12042,2026-06-21,North,Electronics,Bluetooth Speaker,2,3299,5965.0,4993.23
+ORD-12049,2026-06-21,East,Electronics,Power Bank,3,1499,3974.92,3367.5
+ORD-12087,2026-06-21,North,Electronics,Smartwatch,1,6999,6860.11,5167.04
+ORD-12031,2026-06-22,East,Home & Kitchen,Cookware Set,1,2799,2491.71,1692.9
+ORD-12089,2026-06-22,West,Beauty & Care,Perfume,1,1799,1644.92,823.71
+ORD-12057,2026-06-23,East,Home & Kitchen,Steel Water Bottle,1,599,528.15,361.38
+ORD-12068,2026-06-23,South,Home & Kitchen,Air Fryer,3,5999,16990.06,11298.06
+ORD-12071,2026-06-23,West,Electronics,Bluetooth Speaker,1,3299,3154.24,2470.26
+ORD-12079,2026-06-23,North,Home & Kitchen,Steel Water Bottle,1,599,585.94,361.82
+ORD-12121,2026-06-23,North,Electronics,Power Bank,2,1499,2880.08,2222.48
+ORD-12037,2026-06-24,East,Apparel,Handloom Saree,1,4999,4635.12,2673.15
+ORD-12100,2026-06-24,North,Beauty & Care,Hair Dryer,1,1999,1862.12,922.64
+ORD-12109,2026-06-24,West,Beauty & Care,Face Serum,2,899,1678.84,832.9
+ORD-12061,2026-06-25,West,Beauty & Care,Hair Dryer,1,1999,1882.64,883.27
+ORD-12117,2026-06-25,West,Electronics,Power Bank,1,1499,1484.44,1081.03
+ORD-12094,2026-06-26,East,Home & Kitchen,Steel Water Bottle,1,599,580.25,361.55
+ORD-12113,2026-06-26,West,Electronics,Wireless Earbuds,1,2499,2213.13,1848.9
+ORD-12132,2026-06-26,North,Beauty & Care,Skincare Kit,2,2499,4453.98,2281.71
+ORD-12041,2026-06-27,North,Beauty & Care,Face Serum,2,899,1631.76,787.01
+ORD-12064,2026-06-27,South,Apparel,Running Shoes,1,3499,3373.41,1785.54
+ORD-12096,2026-06-27,East,Home & Kitchen,Cookware Set,2,2799,4934.87,3552.91
+ORD-12102,2026-06-27,West,Electronics,Power Bank,1,1499,1406.51,1111.7
+ORD-12125,2026-06-27,West,Apparel,Denim Jacket,1,2999,2880.06,1535.48
+ORD-12139,2026-06-27,North,Apparel,Cotton Kurta,1,1299,1220.48,669.3
+ORD-12010,2026-06-28,North,Beauty & Care,Face Serum,1,899,810.86,406.86
+ORD-12013,2026-06-28,East,Beauty & Care,Hair Dryer,3,1999,5969.87,2680.08
+ORD-12074,2026-06-28,West,Electronics,Bluetooth Speaker,1,3299,2983.22,2373.62
+ORD-12088,2026-06-28,North,Apparel,Running Shoes,1,3499,3297.85,1807.37
+ORD-12112,2026-06-28,West,Apparel,Cotton Kurta,1,1299,1237.64,692.88
+ORD-12115,2026-06-28,South,Electronics,Smartwatch,3,6999,20916.26,15142.43
+ORD-12044,2026-06-29,West,Home & Kitchen,Mixer Grinder,1,3499,3451.12,2113.62
+ORD-12063,2026-06-29,South,Home & Kitchen,Cookware Set,3,2799,8290.37,5243.96
+ORD-12075,2026-06-29,East,Apparel,Cotton Kurta,2,1299,2583.69,1357.76
+ORD-12095,2026-06-29,West,Electronics,Wireless Earbuds,1,2499,2235.17,1870.48
+ORD-12110,2026-06-29,North,Electronics,Power Bank,3,1499,4415.15,3283.2
+ORD-12111,2026-06-29,West,Electronics,Power Bank,1,1499,1364.07,1082.68
+ORD-12059,2026-06-30,North,Electronics,Bluetooth Speaker,1,3299,3270.5,2494.77
+ORD-12091,2026-06-30,West,Electronics,Bluetooth Speaker,3,3299,8746.59,7406.55
+ORD-12114,2026-06-30,East,Apparel,Running Shoes,1,3499,3280.58,1831.36
+ORD-12156,2026-07-01,South,Electronics,Smartwatch,1,6999,6552.06,5244.33
+ORD-12195,2026-07-01,South,Beauty & Care,Face Serum,1,899,812.63,406.33
+ORD-12204,2026-07-01,East,Electronics,Power Bank,1,1499,1421.82,1086.28
+ORD-12225,2026-07-01,North,Home & Kitchen,Steel Water Bottle,1,599,540.32,371.12
+ORD-12245,2026-07-01,South,Electronics,Power Bank,1,1499,1384.95,1093.99
+ORD-12163,2026-07-02,East,Home & Kitchen,Air Fryer,1,5999,5491.2,3608.72
+ORD-12178,2026-07-02,South,Electronics,Wireless Earbuds,1,2499,2295.83,1859.77
+ORD-12184,2026-07-02,West,Apparel,Denim Jacket,1,2999,2647.63,1564.35
+ORD-12251,2026-07-02,South,Electronics,Wireless Earbuds,2,2499,4687.95,3672.84
+ORD-12158,2026-07-03,North,Beauty & Care,Hair Dryer,2,1999,3524.9,1776.59
+ORD-12159,2026-07-03,East,Electronics,Power Bank,1,1499,1337.43,1118.21
+ORD-12203,2026-07-03,North,Electronics,Power Bank,1,1499,1385.78,1105.28
+ORD-12232,2026-07-03,West,Beauty & Care,Hair Dryer,1,1999,1992.98,882.44
+ORD-12157,2026-07-04,West,Electronics,Bluetooth Speaker,1,3299,3102.89,2490.62
+ORD-12162,2026-07-04,South,Apparel,Cotton Kurta,1,1299,1293.67,695.06
+ORD-12189,2026-07-04,East,Electronics,Smartwatch,1,6999,6928.98,5246.8
+ORD-12198,2026-07-04,East,Electronics,Smartwatch,1,6999,6168.23,5210.71
+ORD-12264,2026-07-04,West,Electronics,Power Bank,2,1499,2906.78,2192.81
+ORD-12266,2026-07-04,North,Home & Kitchen,Mixer Grinder,1,3499,3188.05,2115.98
+ORD-12207,2026-07-05,West,Home & Kitchen,Mixer Grinder,1,3499,3410.71,2167.17
+ORD-12218,2026-07-05,East,Electronics,Smartwatch,1,6999,6557.58,5110.43
+ORD-12233,2026-07-05,South,Electronics,Smartwatch,2,6999,13080.99,10298.82
+ORD-12244,2026-07-05,North,Home & Kitchen,Steel Water Bottle,2,599,1103.19,726.86
+ORD-12143,2026-07-06,East,Home & Kitchen,Air Fryer,1,5999,5690.97,3697.51
+ORD-12145,2026-07-06,West,Apparel,Cotton Kurta,2,1299,2486.09,1379.18
+ORD-12153,2026-07-06,North,Apparel,Denim Jacket,1,2999,2914.58,1592.2
+ORD-12179,2026-07-06,North,Electronics,Bluetooth Speaker,2,3299,6544.47,4807.9
+ORD-12188,2026-07-06,South,Beauty & Care,Perfume,1,1799,1731.27,826.84
+ORD-12235,2026-07-06,West,Beauty & Care,Skincare Kit,1,2499,2296.21,1138.34
+ORD-12259,2026-07-06,West,Electronics,Power Bank,2,1499,2898.82,2280.53
+ORD-12185,2026-07-07,South,Apparel,Denim Jacket,1,2999,2720.11,1555.13
+ORD-12212,2026-07-07,South,Electronics,Smartwatch,1,6999,6588.48,5197.53
+ORD-12243,2026-07-07,North,Beauty & Care,Hair Dryer,1,1999,1983.82,887.85
+ORD-12187,2026-07-08,North,Electronics,Wireless Earbuds,1,2499,2417.61,1816.54
+ORD-12210,2026-07-08,West,Home & Kitchen,Steel Water Bottle,1,599,558.8,382.01
+ORD-12211,2026-07-08,North,Electronics,Smartwatch,1,6999,6900.63,5256.96
+ORD-12214,2026-07-08,South,Electronics,Wireless Earbuds,1,2499,2325.75,1798.15
+ORD-12234,2026-07-08,East,Electronics,Wireless Earbuds,1,2499,2466.81,1833.65
+ORD-12246,2026-07-08,West,Home & Kitchen,Cookware Set,1,2799,2710.04,1751.98
+ORD-12152,2026-07-09,East,Electronics,Bluetooth Speaker,2,3299,6320.1,5028.07
+ORD-12231,2026-07-09,South,Beauty & Care,Perfume,1,1799,1787.4,802.81
+ORD-12213,2026-07-10,West,Apparel,Handloom Saree,1,4999,4752.17,2614.05
+ORD-12265,2026-07-10,East,Electronics,Smartwatch,2,6999,12531.4,10168.88
+ORD-12147,2026-07-11,South,Electronics,Wireless Earbuds,1,2499,2340.37,1825.27
+ORD-12167,2026-07-11,South,Apparel,Handloom Saree,1,4999,4742.53,2646.74
+ORD-12174,2026-07-11,West,Apparel,Running Shoes,3,3499,10052.08,5466.98
+ORD-12197,2026-07-11,West,Home & Kitchen,Cookware Set,2,2799,5460.93,3518.29
+ORD-12217,2026-07-11,East,Beauty & Care,Hair Dryer,1,1999,1812.38,893.36
+ORD-12223,2026-07-11,East,Apparel,Cotton Kurta,1,1299,1264.36,675.41
+ORD-12237,2026-07-11,West,Apparel,Cotton Kurta,1,1299,1213.62,689.89
+ORD-12171,2026-07-12,South,Electronics,Smartwatch,1,6999,6218.77,5053.58
+ORD-12186,2026-07-12,North,Beauty & Care,Skincare Kit,1,2499,2205.35,1155.9
+ORD-12255,2026-07-12,South,Home & Kitchen,Steel Water Bottle,1,599,530.45,375.07
+ORD-12166,2026-07-13,East,Electronics,Bluetooth Speaker,2,3299,6002.17,4999.98
+ORD-12176,2026-07-13,East,Electronics,Wireless Earbuds,1,2499,2318.33,1860.35
+ORD-12190,2026-07-14,West,Apparel,Denim Jacket,1,2999,2669.63,1571.49
+ORD-12201,2026-07-14,East,Electronics,Bluetooth Speaker,1,3299,3215.34,2504.73
+ORD-12224,2026-07-14,North,Beauty & Care,Perfume,1,1799,1774.44,805.15
+ORD-12170,2026-07-15,West,Electronics,Bluetooth Speaker,1,3299,2907.71,2381.25
+ORD-12238,2026-07-15,South,Beauty & Care,Hair Dryer,2,1999,3929.37,1790.44
+ORD-12150,2026-07-16,West,Apparel,Handloom Saree,1,4999,4830.53,2545.96
+ORD-12177,2026-07-16,East,Apparel,Cotton Kurta,1,1299,1144.03,661.56
+ORD-12191,2026-07-16,North,Electronics,Bluetooth Speaker,1,3299,2951.21,2489.4
+ORD-12209,2026-07-16,East,Apparel,Denim Jacket,1,2999,2830.24,1545.46
+ORD-12144,2026-07-17,West,Home & Kitchen,Air Fryer,1,5999,5394.94,3819.7
+ORD-12155,2026-07-17,North,Electronics,Smartwatch,2,6999,12647.75,10585.29
+ORD-12181,2026-07-17,South,Home & Kitchen,Air Fryer,1,5999,5833.36,3636.22
+ORD-12202,2026-07-17,East,Home & Kitchen,Cookware Set,1,2799,2587.94,1775.36
+ORD-12247,2026-07-17,West,Home & Kitchen,Steel Water Bottle,2,599,1106.85,760.13
+ORD-12248,2026-07-17,North,Electronics,Smartwatch,2,6999,13579.2,10650.77
+ORD-12151,2026-07-18,South,Apparel,Cotton Kurta,2,1299,2409.87,1374.15
+ORD-12173,2026-07-18,West,Electronics,Bluetooth Speaker,2,3299,6156.91,5028.03
+ORD-12200,2026-07-18,West,Apparel,Handloom Saree,1,4999,4885.48,2551.16
+ORD-12206,2026-07-19,East,Electronics,Smartwatch,1,6999,6473.52,5160.07
+ORD-12252,2026-07-19,West,Beauty & Care,Hair Dryer,1,1999,1836.16,907.44
+ORD-12149,2026-07-20,West,Home & Kitchen,Mixer Grinder,2,3499,6934.19,4212.6
+ORD-12169,2026-07-20,North,Electronics,Smartwatch,1,6999,6885.5,5259.8
+ORD-12236,2026-07-20,West,Electronics,Smartwatch,1,6999,6726.8,5236.85
+ORD-12239,2026-07-20,West,Beauty & Care,Hair Dryer,1,1999,1832.64,921.15
+ORD-12253,2026-07-20,North,Home & Kitchen,Air Fryer,3,5999,17588.41,10897.25
+ORD-12154,2026-07-21,West,Electronics,Bluetooth Speaker,1,3299,3042.5,2482.09
+ORD-12168,2026-07-21,South,Electronics,Wireless Earbuds,2,2499,4738.94,3720.63
+ORD-12193,2026-07-21,South,Beauty & Care,Hair Dryer,1,1999,1900.5,891.7
+ORD-12208,2026-07-21,West,Electronics,Smartwatch,1,6999,6209.84,5071.73
+ORD-12221,2026-07-21,North,Beauty & Care,Perfume,1,1799,1681.3,802.48
+ORD-12226,2026-07-21,West,Electronics,Smartwatch,1,6999,6459.89,5104.97
+ORD-12254,2026-07-21,West,Electronics,Wireless Earbuds,1,2499,2246.78,1830.53
+ORD-12257,2026-07-21,North,Home & Kitchen,Cookware Set,2,2799,5166.8,3422.47
+ORD-12215,2026-07-22,West,Home & Kitchen,Air Fryer,3,5999,16040.67,11413.9
+ORD-12229,2026-07-22,East,Apparel,Denim Jacket,1,2999,2707.7,1584.98
+ORD-12196,2026-07-23,East,Apparel,Denim Jacket,1,2999,2797.95,1531.03
+ORD-12228,2026-07-23,East,Electronics,Power Bank,1,1499,1490.11,1123.64
+ORD-12261,2026-07-23,South,Apparel,Running Shoes,1,3499,3442.66,1813.48
+ORD-12142,2026-07-24,West,Beauty & Care,Hair Dryer,1,1999,1886.75,915.37
+ORD-12160,2026-07-24,West,Apparel,Denim Jacket,1,2999,2724.95,1572.09
+ORD-12175,2026-07-24,West,Home & Kitchen,Air Fryer,1,5999,5501.21,3704.69
+ORD-12183,2026-07-24,West,Home & Kitchen,Mixer Grinder,1,3499,3204.26,2128.94
+ORD-12194,2026-07-24,South,Apparel,Cotton Kurta,1,1299,1159.42,655.52
+ORD-12216,2026-07-24,East,Apparel,Cotton Kurta,1,1299,1243.71,684.6
+ORD-12230,2026-07-24,West,Home & Kitchen,Steel Water Bottle,1,599,565.26,369.55
+ORD-12240,2026-07-24,North,Electronics,Bluetooth Speaker,2,3299,6545.94,4953.75
+ORD-12262,2026-07-24,West,Apparel,Handloom Saree,1,4999,4751.32,2528.85
+ORD-12165,2026-07-25,South,Apparel,Cotton Kurta,1,1299,1242.9,658.16
+ORD-12172,2026-07-25,South,Apparel,Cotton Kurta,1,1299,1298.33,661.73
+ORD-12148,2026-07-26,West,Electronics,Bluetooth Speaker,1,3299,3294.85,2426.91
+ORD-12192,2026-07-26,East,Electronics,Bluetooth Speaker,2,3299,6328.59,4852.11
+ORD-12199,2026-07-26,East,Beauty & Care,Perfume,1,1799,1666.92,821.4
+ORD-12242,2026-07-26,West,Apparel,Handloom Saree,1,4999,4488.99,2659.25
+ORD-12268,2026-07-26,South,Apparel,Cotton Kurta,1,1299,1291.95,671.96
+ORD-12249,2026-07-27,North,Beauty & Care,Skincare Kit,2,2499,4793.35,2312.8
+ORD-12250,2026-07-27,West,Home & Kitchen,Cookware Set,3,2799,7458.75,5316.02
+ORD-12258,2026-07-27,South,Apparel,Handloom Saree,3,4999,14157.81,7716.05
+ORD-12260,2026-07-27,North,Electronics,Bluetooth Speaker,1,3299,3215.93,2494.74
+ORD-12161,2026-07-28,North,Apparel,Running Shoes,1,3499,3247.12,1871.25
+ORD-12180,2026-07-28,West,Home & Kitchen,Cookware Set,2,2799,4984.24,3413.93
+ORD-12182,2026-07-28,North,Electronics,Smartwatch,2,6999,12377.09,10488.09
+ORD-12205,2026-07-28,North,Electronics,Bluetooth Speaker,3,3299,9087.55,7442.55
+ORD-12241,2026-07-28,West,Apparel,Running Shoes,2,3499,6235.18,3570.01
+ORD-12267,2026-07-28,North,Home & Kitchen,Steel Water Bottle,3,599,1663.91,1105.01
+ORD-12146,2026-07-29,West,Home & Kitchen,Air Fryer,1,5999,5793.47,3784.19
+ORD-12164,2026-07-29,North,Beauty & Care,Perfume,2,1799,3370.1,1647.82
+ORD-12219,2026-07-29,East,Apparel,Cotton Kurta,2,1299,2597.78,1320.91
+ORD-12220,2026-07-30,West,Apparel,Denim Jacket,2,2999,5310.44,3103.61
+ORD-12263,2026-07-30,West,Apparel,Denim Jacket,1,2999,2849.73,1548.2
+ORD-12269,2026-07-30,North,Electronics,Bluetooth Speaker,2,3299,6356.57,4762.06
+ORD-12270,2026-07-30,East,Electronics,Wireless Earbuds,2,2499,4854.01,3642.85
+ORD-12222,2026-07-31,North,Apparel,Handloom Saree,1,4999,4561.58,2561.6
+ORD-12227,2026-07-31,East,Electronics,Bluetooth Speaker,1,3299,3181.1,2486.25
+ORD-12256,2026-07-31,North,Electronics,Smartwatch,1,6999,6516.66,5061.6
+ORD-12363,2026-08-01,South,Apparel,Cotton Kurta,1,1299,1219.68,691.33
+ORD-12371,2026-08-01,West,Apparel,Handloom Saree,1,4999,4800.15,2615.06
+ORD-12375,2026-08-01,East,Electronics,Power Bank,1,1499,1471.31,1130.24
+ORD-12401,2026-08-01,North,Electronics,Power Bank,1,1499,1411.68,1113.19
+ORD-12289,2026-08-02,South,Electronics,Smartwatch,2,6999,13469.98,10264.73
+ORD-12290,2026-08-02,East,Electronics,Power Bank,2,1499,2872.95,2266.5
+ORD-12293,2026-08-02,East,Electronics,Smartwatch,3,6999,19457.38,15934.72
+ORD-12351,2026-08-02,North,Apparel,Handloom Saree,1,4999,4717.69,2619.35
+ORD-12370,2026-08-02,North,Home & Kitchen,Steel Water Bottle,2,599,1160.21,752.16
+ORD-12372,2026-08-02,East,Home & Kitchen,Cookware Set,3,2799,7779.93,5119.06
+ORD-12398,2026-08-02,North,Electronics,Smartwatch,1,6999,6247.3,5160.08
+ORD-12279,2026-08-03,East,Electronics,Bluetooth Speaker,1,3299,3150.29,2433.6
+ORD-12330,2026-08-03,South,Electronics,Smartwatch,1,6999,6878.91,5206.47
+ORD-12287,2026-08-04,East,Electronics,Power Bank,2,1499,2833.67,2235.51
+ORD-12326,2026-08-04,East,Electronics,Power Bank,2,1499,2781.13,2247.61
+ORD-12377,2026-08-04,North,Home & Kitchen,Mixer Grinder,1,3499,3489.67,2206.52
+ORD-12381,2026-08-04,South,Home & Kitchen,Air Fryer,1,5999,5379.27,3679.53
+ORD-12271,2026-08-05,East,Home & Kitchen,Mixer Grinder,1,3499,3168.14,2108.76
+ORD-12322,2026-08-05,North,Beauty & Care,Skincare Kit,1,2499,2247.96,1112.04
+ORD-12323,2026-08-05,East,Home & Kitchen,Steel Water Bottle,1,599,582.56,373.03
+ORD-12336,2026-08-05,North,Home & Kitchen,Steel Water Bottle,1,599,549.82,375.27
+ORD-12315,2026-08-06,East,Electronics,Bluetooth Speaker,1,3299,3223.68,2395.95
+ORD-12338,2026-08-06,East,Home & Kitchen,Cookware Set,1,2799,2706.41,1700.24
+ORD-12382,2026-08-06,West,Electronics,Power Bank,1,1499,1471.55,1142.19
+ORD-12294,2026-08-08,West,Electronics,Power Bank,1,1499,1431.08,1096.33
+ORD-12385,2026-08-08,East,Electronics,Bluetooth Speaker,1,3299,3284.69,2472.19
+ORD-12334,2026-08-09,South,Apparel,Running Shoes,1,3499,3155.17,1784.34
+ORD-12374,2026-08-09,East,Apparel,Cotton Kurta,1,1299,1199.33,662.0
+ORD-12284,2026-08-10,South,Beauty & Care,Hair Dryer,1,1999,1849.97,921.05
+ORD-12327,2026-08-10,South,Home & Kitchen,Cookware Set,1,2799,2690.66,1685.97
+ORD-12335,2026-08-10,East,Apparel,Running Shoes,1,3499,3140.42,1801.09
+ORD-12345,2026-08-10,West,Electronics,Power Bank,2,1499,2839.18,2284.99
+ORD-12386,2026-08-10,West,Beauty & Care,Skincare Kit,1,2499,2230.34,1093.79
+ORD-12325,2026-08-11,West,Electronics,Smartwatch,1,6999,6247.09,5262.41
+ORD-12328,2026-08-11,East,Electronics,Bluetooth Speaker,1,3299,3064.63,2486.65
+ORD-12344,2026-08-11,East,Beauty & Care,Perfume,1,1799,1652.15,786.92
+ORD-12356,2026-08-11,West,Beauty & Care,Hair Dryer,1,1999,1885.75,878.55
+ORD-12367,2026-08-11,South,Apparel,Denim Jacket,1,2999,2832.49,1554.79
+ORD-12405,2026-08-11,North,Beauty & Care,Face Serum,1,899,807.91,397.85
+ORD-12292,2026-08-12,South,Electronics,Wireless Earbuds,2,2499,4532.71,3736.6
+ORD-12310,2026-08-12,South,Home & Kitchen,Mixer Grinder,1,3499,3286.66,2195.36
+ORD-12347,2026-08-12,South,Home & Kitchen,Steel Water Bottle,2,599,1113.41,747.63
+ORD-12365,2026-08-12,North,Home & Kitchen,Air Fryer,2,5999,11382.01,7470.23
+ORD-12387,2026-08-12,North,Electronics,Wireless Earbuds,1,2499,2385.28,1883.95
+ORD-12393,2026-08-12,West,Beauty & Care,Hair Dryer,1,1999,1919.1,883.1
+ORD-12278,2026-08-13,East,Apparel,Running Shoes,2,3499,6796.24,3699.55
+ORD-12319,2026-08-13,West,Electronics,Power Bank,3,1499,4413.64,3276.66
+ORD-12331,2026-08-13,North,Electronics,Power Bank,1,1499,1414.97,1112.72
+ORD-12332,2026-08-13,North,Electronics,Power Bank,1,1499,1408.64,1114.45
+ORD-12346,2026-08-13,South,Home & Kitchen,Cookware Set,1,2799,2723.56,1745.67
+ORD-12362,2026-08-13,North,Home & Kitchen,Steel Water Bottle,1,599,569.39,364.6
+ORD-12384,2026-08-13,West,Home & Kitchen,Cookware Set,1,2799,2784.07,1778.28
+ORD-12281,2026-08-14,East,Beauty & Care,Face Serum,1,899,865.51,396.14
+ORD-12288,2026-08-14,East,Home & Kitchen,Air Fryer,1,5999,5849.46,3693.41
+ORD-12297,2026-08-14,East,Apparel,Running Shoes,1,3499,3344.97,1852.47
+ORD-12299,2026-08-14,East,Electronics,Bluetooth Speaker,3,3299,9589.08,7197.93
+ORD-12303,2026-08-14,East,Apparel,Handloom Saree,1,4999,4977.31,2608.01
+ORD-12304,2026-08-14,East,Apparel,Running Shoes,1,3499,3293.85,1826.86
+ORD-12369,2026-08-14,East,Beauty & Care,Face Serum,2,899,1752.73,819.96
+ORD-12390,2026-08-14,East,Home & Kitchen,Air Fryer,2,5999,11856.4,7313.17
+ORD-12402,2026-08-14,West,Electronics,Smartwatch,1,6999,6501.43,5093.96
+ORD-12283,2026-08-15,West,Electronics,Bluetooth Speaker,1,3299,3153.94,2412.53
+ORD-12291,2026-08-15,West,Apparel,Running Shoes,1,3499,3187.23,1855.8
+ORD-12329,2026-08-15,East,Beauty & Care,Face Serum,1,899,868.95,415.83
+ORD-12368,2026-08-15,West,Apparel,Denim Jacket,2,2999,5681.7,3196.56
+ORD-12376,2026-08-15,North,Beauty & Care,Face Serum,1,899,827.69,410.04
+ORD-12403,2026-08-15,North,Home & Kitchen,Air Fryer,2,5999,11589.34,7549.84
+ORD-12343,2026-08-16,East,Electronics,Power Bank,1,1499,1331.42,1112.04
+ORD-12360,2026-08-16,North,Apparel,Cotton Kurta,2,1299,2557.07,1378.31
+ORD-12366,2026-08-16,East,Home & Kitchen,Steel Water Bottle,1,599,552.87,378.91
+ORD-12272,2026-08-17,West,Home & Kitchen,Steel Water Bottle,1,599,593.02,374.39
+ORD-12274,2026-08-17,South,Home & Kitchen,Air Fryer,1,5999,5742.31,3626.66
+ORD-12286,2026-08-17,North,Beauty & Care,Perfume,1,1799,1736.41,798.41
+ORD-12298,2026-08-17,West,Beauty & Care,Skincare Kit,1,2499,2448.96,1122.54
+ORD-12302,2026-08-17,North,Apparel,Cotton Kurta,1,1299,1217.8,678.32
+ORD-12339,2026-08-17,East,Beauty & Care,Face Serum,2,899,1699.42,829.93
+ORD-12305,2026-08-18,West,Home & Kitchen,Cookware Set,1,2799,2755.62,1757.73
+ORD-12354,2026-08-18,North,Beauty & Care,Hair Dryer,2,1999,3638.77,1833.74
+ORD-12361,2026-08-18,South,Electronics,Power Bank,1,1499,1357.19,1116.86
+ORD-12277,2026-08-19,West,Apparel,Cotton Kurta,3,1299,3551.41,2007.45
+ORD-12308,2026-08-19,South,Electronics,Power Bank,1,1499,1458.75,1117.48
+ORD-12357,2026-08-19,West,Apparel,Running Shoes,1,3499,3304.83,1765.49
+ORD-12383,2026-08-19,West,Electronics,Bluetooth Speaker,1,3299,3084.0,2428.02
+ORD-12341,2026-08-20,West,Electronics,Power Bank,1,1499,1471.24,1105.72
+ORD-12342,2026-08-20,East,Electronics,Power Bank,1,1499,1348.97,1084.96
+ORD-12389,2026-08-20,North,Home & Kitchen,Air Fryer,1,5999,5714.76,3734.38
+ORD-12407,2026-08-20,North,Electronics,Smartwatch,2,6999,12944.7,10586.29
+ORD-12300,2026-08-21,North,Electronics,Smartwatch,2,6999,13292.55,10170.23
+ORD-12317,2026-08-21,South,Home & Kitchen,Steel Water Bottle,1,599,535.34,364.32
+ORD-12320,2026-08-21,North,Home & Kitchen,Cookware Set,2,2799,4953.51,3572.88
+ORD-12358,2026-08-21,North,Electronics,Smartwatch,1,6999,6360.41,5089.92
+ORD-12378,2026-08-21,South,Home & Kitchen,Steel Water Bottle,2,599,1108.93,761.86
+ORD-12280,2026-08-22,West,Electronics,Smartwatch,2,6999,12720.84,10445.25
+ORD-12296,2026-08-22,South,Electronics,Bluetooth Speaker,1,3299,2936.14,2384.22
+ORD-12314,2026-08-22,North,Beauty & Care,Face Serum,1,899,820.81,399.45
+ORD-12321,2026-08-22,East,Home & Kitchen,Steel Water Bottle,1,599,556.47,360.36
+ORD-12380,2026-08-22,South,Beauty & Care,Hair Dryer,1,1999,1762.55,922.82
+ORD-12295,2026-08-24,North,Electronics,Smartwatch,1,6999,6545.22,5271.08
+ORD-12306,2026-08-24,West,Electronics,Power Bank,1,1499,1330.39,1078.45
+ORD-12311,2026-08-24,West,Electronics,Power Bank,1,1499,1452.6,1086.91
+ORD-12352,2026-08-24,North,Beauty & Care,Perfume,1,1799,1668.85,830.3
+ORD-12359,2026-08-24,West,Home & Kitchen,Air Fryer,1,5999,5467.59,3815.46
+ORD-12364,2026-08-24,South,Apparel,Denim Jacket,1,2999,2693.42,1529.09
+ORD-12392,2026-08-24,South,Electronics,Smartwatch,1,6999,6461.08,5183.06
+ORD-12400,2026-08-24,East,Beauty & Care,Skincare Kit,1,2499,2439.59,1109.77
+ORD-12276,2026-08-25,East,Electronics,Wireless Earbuds,2,2499,4931.16,3731.69
+ORD-12355,2026-08-25,South,Home & Kitchen,Mixer Grinder,1,3499,3327.61,2185.84
+ORD-12396,2026-08-25,North,Apparel,Cotton Kurta,2,1299,2597.84,1380.99
+ORD-12399,2026-08-25,West,Electronics,Smartwatch,1,6999,6432.38,5304.62
+ORD-12404,2026-08-25,South,Home & Kitchen,Mixer Grinder,2,3499,6846.99,4354.18
+ORD-12307,2026-08-26,East,Beauty & Care,Hair Dryer,1,1999,1851.47,878.59
+ORD-12408,2026-08-26,West,Electronics,Bluetooth Speaker,2,3299,5810.64,4794.93
+ORD-12309,2026-08-27,West,Home & Kitchen,Mixer Grinder,1,3499,3098.36,2117.2
+ORD-12312,2026-08-27,South,Home & Kitchen,Mixer Grinder,1,3499,3392.86,2207.32
+ORD-12316,2026-08-27,East,Apparel,Cotton Kurta,1,1299,1283.89,669.67
+ORD-12333,2026-08-27,West,Electronics,Wireless Earbuds,3,2499,6867.93,5610.61
+ORD-12340,2026-08-27,West,Electronics,Power Bank,1,1499,1464.37,1106.3
+ORD-12350,2026-08-27,East,Beauty & Care,Hair Dryer,1,1999,1954.19,910.46
+ORD-12388,2026-08-27,East,Beauty & Care,Perfume,1,1799,1777.91,832.7
+ORD-12397,2026-08-27,South,Apparel,Running Shoes,2,3499,6189.48,3647.79
+ORD-12349,2026-08-28,North,Home & Kitchen,Mixer Grinder,2,3499,6728.73,4370.09
+ORD-12353,2026-08-28,West,Electronics,Smartwatch,1,6999,6583.45,5257.04
+ORD-12379,2026-08-28,West,Electronics,Wireless Earbuds,1,2499,2445.62,1828.37
+ORD-12406,2026-08-28,South,Home & Kitchen,Mixer Grinder,1,3499,3213.16,2132.67
+ORD-12275,2026-08-29,North,Beauty & Care,Hair Dryer,1,1999,1785.88,900.64
+ORD-12282,2026-08-29,East,Electronics,Wireless Earbuds,1,2499,2208.45,1886.89
+ORD-12285,2026-08-29,South,Home & Kitchen,Cookware Set,1,2799,2595.86,1698.73
+ORD-12348,2026-08-29,West,Electronics,Wireless Earbuds,1,2499,2410.43,1794.49
+ORD-12391,2026-08-29,East,Home & Kitchen,Cookware Set,2,2799,5151.14,3485.44
+ORD-12394,2026-08-29,East,Electronics,Bluetooth Speaker,2,3299,6400.55,4859.08
+ORD-12273,2026-08-30,North,Beauty & Care,Skincare Kit,1,2499,2332.86,1145.46
+ORD-12313,2026-08-30,West,Home & Kitchen,Steel Water Bottle,1,599,528.01,363.81
+ORD-12318,2026-08-30,North,Home & Kitchen,Mixer Grinder,2,3499,6521.56,4366.86
+ORD-12324,2026-08-30,North,Electronics,Wireless Earbuds,3,2499,7482.0,5642.29
+ORD-12301,2026-08-31,East,Electronics,Smartwatch,2,6999,12319.96,10360.2
+ORD-12337,2026-08-31,South,Home & Kitchen,Air Fryer,1,5999,5855.08,3820.83
+ORD-12373,2026-08-31,East,Home & Kitchen,Mixer Grinder,2,3499,6848.95,4217.59
+ORD-12395,2026-08-31,South,Apparel,Denim Jacket,3,2999,8937.68,4634.29
+ORD-12428,2026-09-01,West,Beauty & Care,Hair Dryer,2,1999,3533.42,1796.24
+ORD-12440,2026-09-01,South,Home & Kitchen,Mixer Grinder,2,3499,6844.81,4437.83
+ORD-12484,2026-09-01,West,Beauty & Care,Perfume,2,1799,3342.57,1607.24
+ORD-12490,2026-09-01,South,Electronics,Wireless Earbuds,1,2499,2332.23,1820.68
+ORD-12530,2026-09-01,West,Electronics,Smartwatch,1,6999,6701.48,5200.55
+ORD-12541,2026-09-01,North,Apparel,Cotton Kurta,3,1299,3712.12,2047.39
+ORD-12463,2026-09-02,West,Beauty & Care,Hair Dryer,2,1999,3988.47,1807.95
+ORD-12468,2026-09-02,West,Electronics,Power Bank,1,1499,1350.02,1096.67
+ORD-12560,2026-09-02,North,Home & Kitchen,Steel Water Bottle,2,599,1134.93,740.18
+ORD-12420,2026-09-03,North,Electronics,Power Bank,2,1499,2688.5,2272.61
+ORD-12464,2026-09-03,East,Apparel,Cotton Kurta,1,1299,1236.93,664.16
+ORD-12506,2026-09-03,South,Electronics,Smartwatch,2,6999,13244.57,10294.18
+ORD-12414,2026-09-04,South,Electronics,Smartwatch,1,6999,6431.32,5313.26
+ORD-12437,2026-09-04,East,Home & Kitchen,Steel Water Bottle,2,599,1109.88,738.77
+ORD-12452,2026-09-04,East,Beauty & Care,Perfume,1,1799,1696.83,796.64
+ORD-12482,2026-09-04,West,Electronics,Smartwatch,1,6999,6616.39,5183.6
+ORD-12515,2026-09-04,East,Beauty & Care,Hair Dryer,3,1999,5920.78,2700.27
+ORD-12521,2026-09-04,East,Electronics,Wireless Earbuds,1,2499,2200.52,1844.98
+ORD-12502,2026-09-05,East,Home & Kitchen,Mixer Grinder,2,3499,6897.86,4351.37
+ORD-12505,2026-09-05,North,Home & Kitchen,Cookware Set,1,2799,2773.84,1774.88
+ORD-12545,2026-09-05,North,Beauty & Care,Face Serum,2,899,1668.27,820.85
+ORD-12413,2026-09-06,West,Electronics,Power Bank,2,1499,2803.46,2277.27
+ORD-12416,2026-09-06,East,Apparel,Handloom Saree,1,4999,4622.41,2567.6
+ORD-12442,2026-09-06,North,Beauty & Care,Face Serum,3,899,2580.5,1207.08
+ORD-12455,2026-09-06,South,Beauty & Care,Perfume,1,1799,1708.36,802.83
+ORD-12457,2026-09-07,West,Home & Kitchen,Mixer Grinder,1,3499,3435.57,2142.31
+ORD-12460,2026-09-07,West,Home & Kitchen,Cookware Set,1,2799,2711.82,1756.3
+ORD-12497,2026-09-07,East,Home & Kitchen,Air Fryer,2,5999,11035.25,7462.56
+ORD-12504,2026-09-07,East,Apparel,Cotton Kurta,1,1299,1271.23,663.43
+ORD-12532,2026-09-07,South,Apparel,Handloom Saree,1,4999,4886.62,2593.72
+ORD-12424,2026-09-08,South,Electronics,Power Bank,2,1499,2933.84,2192.4
+ORD-12427,2026-09-08,North,Home & Kitchen,Steel Water Bottle,2,599,1178.26,735.05
+ORD-12449,2026-09-08,South,Home & Kitchen,Mixer Grinder,1,3499,3439.31,2113.78
+ORD-12475,2026-09-08,South,Apparel,Running Shoes,1,3499,3417.4,1832.27
+ORD-12489,2026-09-08,East,Electronics,Power Bank,1,1499,1321.21,1132.09
+ORD-12508,2026-09-08,West,Apparel,Denim Jacket,2,2999,5444.62,3062.51
+ORD-12514,2026-09-08,East,Home & Kitchen,Cookware Set,1,2799,2537.11,1780.51
+ORD-12559,2026-09-08,West,Apparel,Denim Jacket,1,2999,2897.28,1542.66
+ORD-12425,2026-09-09,East,Home & Kitchen,Mixer Grinder,1,3499,3081.3,2112.93
+ORD-12434,2026-09-09,North,Electronics,Power Bank,2,1499,2996.06,2230.06
+ORD-12439,2026-09-09,West,Electronics,Bluetooth Speaker,1,3299,3102.14,2387.85
+ORD-12483,2026-09-09,West,Apparel,Running Shoes,2,3499,6460.57,3670.3
+ORD-12491,2026-09-09,North,Home & Kitchen,Mixer Grinder,1,3499,3487.88,2158.43
+ORD-12493,2026-09-09,South,Beauty & Care,Face Serum,2,899,1649.64,796.98
+ORD-12496,2026-09-09,East,Electronics,Bluetooth Speaker,1,3299,2911.09,2403.4
+ORD-12534,2026-09-09,East,Apparel,Denim Jacket,2,2999,5287.41,3067.68
+ORD-12549,2026-09-09,West,Home & Kitchen,Steel Water Bottle,1,599,528.7,377.21
+ORD-12551,2026-09-09,West,Electronics,Bluetooth Speaker,3,3299,8965.52,7189.39
+ORD-12555,2026-09-09,West,Electronics,Bluetooth Speaker,1,3299,3045.6,2444.76
+ORD-12522,2026-09-10,East,Electronics,Power Bank,1,1499,1324.01,1130.57
+ORD-12451,2026-09-11,East,Electronics,Smartwatch,1,6999,6211.67,5189.93
+ORD-12465,2026-09-11,West,Electronics,Wireless Earbuds,2,2499,4997.08,3803.49
+ORD-12469,2026-09-11,East,Home & Kitchen,Mixer Grinder,2,3499,6700.2,4337.81
+ORD-12453,2026-09-12,West,Electronics,Power Bank,2,1499,2978.21,2202.62
+ORD-12477,2026-09-12,South,Electronics,Bluetooth Speaker,1,3299,3024.97,2439.61
+ORD-12492,2026-09-12,East,Home & Kitchen,Mixer Grinder,1,3499,3469.93,2199.23
+ORD-12507,2026-09-12,East,Electronics,Smartwatch,1,6999,6812.51,5180.52
+ORD-12512,2026-09-12,North,Electronics,Wireless Earbuds,2,2499,4636.46,3783.69
+ORD-12513,2026-09-12,East,Home & Kitchen,Cookware Set,1,2799,2738.28,1692.44
+ORD-12528,2026-09-12,South,Electronics,Wireless Earbuds,2,2499,4762.86,3625.2
+ORD-12556,2026-09-12,West,Home & Kitchen,Air Fryer,1,5999,5756.5,3731.84
+ORD-12454,2026-09-13,East,Apparel,Running Shoes,1,3499,3269.86,1836.19
+ORD-12466,2026-09-13,East,Home & Kitchen,Cookware Set,3,2799,8163.15,5351.22
+ORD-12478,2026-09-13,East,Home & Kitchen,Mixer Grinder,1,3499,3171.31,2170.44
+ORD-12479,2026-09-13,West,Apparel,Running Shoes,1,3499,3257.1,1825.42
+ORD-12500,2026-09-13,South,Home & Kitchen,Steel Water Bottle,1,599,561.51,380.46
+ORD-12526,2026-09-13,South,Electronics,Bluetooth Speaker,1,3299,3105.71,2370.96
+ORD-12542,2026-09-13,South,Home & Kitchen,Air Fryer,1,5999,5590.19,3774.78
+ORD-12552,2026-09-13,West,Apparel,Denim Jacket,1,2999,2847.55,1542.61
+ORD-12421,2026-09-14,West,Home & Kitchen,Cookware Set,1,2799,2788.84,1735.94
+ORD-12423,2026-09-14,East,Electronics,Bluetooth Speaker,2,3299,6308.65,4738.89
+ORD-12438,2026-09-14,West,Beauty & Care,Hair Dryer,2,1999,3551.42,1824.99
+ORD-12516,2026-09-14,East,Apparel,Handloom Saree,1,4999,4903.16,2671.32
+ORD-12417,2026-09-15,West,Electronics,Smartwatch,2,6999,13011.19,10646.49
+ORD-12432,2026-09-15,East,Apparel,Cotton Kurta,3,1299,3845.9,1976.06
+ORD-12461,2026-09-15,East,Electronics,Power Bank,1,1499,1435.8,1119.27
+ORD-12481,2026-09-15,West,Apparel,Denim Jacket,2,2999,5349.14,3036.33
+ORD-12509,2026-09-15,East,Apparel,Running Shoes,2,3499,6186.57,3682.21
+ORD-12511,2026-09-15,South,Beauty & Care,Perfume,2,1799,3257.74,1609.99
+ORD-12518,2026-09-15,West,Electronics,Bluetooth Speaker,3,3299,9531.26,7183.73
+ORD-12412,2026-09-16,South,Electronics,Bluetooth Speaker,1,3299,3159.43,2375.93
+ORD-12419,2026-09-16,East,Electronics,Smartwatch,2,6999,12426.58,10235.19
+ORD-12480,2026-09-16,South,Electronics,Power Bank,2,1499,2715.44,2177.25
+ORD-12486,2026-09-16,West,Beauty & Care,Face Serum,2,899,1609.55,788.61
+ORD-12448,2026-09-17,West,Beauty & Care,Perfume,1,1799,1601.29,821.11
+ORD-12494,2026-09-18,West,Electronics,Power Bank,1,1499,1440.94,1129.19
+ORD-12529,2026-09-18,East,Home & Kitchen,Mixer Grinder,2,3499,6892.65,4343.37
+ORD-12429,2026-09-19,South,Electronics,Bluetooth Speaker,1,3299,3055.04,2509.58
+ORD-12450,2026-09-19,South,Electronics,Power Bank,1,1499,1442.69,1106.31
+ORD-12467,2026-09-19,South,Apparel,Cotton Kurta,1,1299,1185.93,693.82
+ORD-12498,2026-09-19,East,Beauty & Care,Hair Dryer,1,1999,1882.82,897.95
+ORD-12517,2026-09-19,South,Apparel,Running Shoes,2,3499,6508.92,3539.6
+ORD-12415,2026-09-20,East,Home & Kitchen,Steel Water Bottle,1,599,569.74,379.46
+ORD-12436,2026-09-20,West,Electronics,Bluetooth Speaker,2,3299,6584.86,5018.04
+ORD-12471,2026-09-20,East,Home & Kitchen,Cookware Set,1,2799,2538.15,1781.39
+ORD-12485,2026-09-20,North,Electronics,Bluetooth Speaker,2,3299,6146.78,4866.3
+ORD-12561,2026-09-20,North,Electronics,Smartwatch,1,6999,6479.13,5038.81
+ORD-12409,2026-09-21,East,Electronics,Bluetooth Speaker,1,3299,2933.2,2483.99
+ORD-12418,2026-09-21,West,Home & Kitchen,Mixer Grinder,1,3499,3311.77,2221.68
+ORD-12459,2026-09-21,West,Electronics,Bluetooth Speaker,1,3299,3253.42,2391.96
+ORD-12472,2026-09-21,West,Electronics,Bluetooth Speaker,2,3299,6145.8,4889.91
+ORD-12487,2026-09-21,North,Home & Kitchen,Steel Water Bottle,2,599,1197.64,722.34
+ORD-12488,2026-09-21,South,Electronics,Bluetooth Speaker,2,3299,6348.75,4923.71
+ORD-12501,2026-09-21,South,Home & Kitchen,Air Fryer,1,5999,5677.17,3635.5
+ORD-12538,2026-09-21,East,Apparel,Handloom Saree,1,4999,4411.6,2620.63
+ORD-12426,2026-09-22,West,Beauty & Care,Face Serum,1,899,811.23,413.41
+ORD-12458,2026-09-22,North,Beauty & Care,Skincare Kit,1,2499,2490.87,1100.74
+ORD-12470,2026-09-22,East,Apparel,Running Shoes,2,3499,6268.11,3600.55
+ORD-12495,2026-09-22,East,Electronics,Power Bank,2,1499,2848.35,2243.51
+ORD-12536,2026-09-22,North,Home & Kitchen,Cookware Set,1,2799,2502.41,1712.3
+ORD-12537,2026-09-22,North,Beauty & Care,Skincare Kit,1,2499,2239.76,1156.34
+ORD-12410,2026-09-23,West,Home & Kitchen,Steel Water Bottle,1,599,565.64,360.41
+ORD-12445,2026-09-23,North,Apparel,Denim Jacket,1,2999,2857.85,1590.77
+ORD-12546,2026-09-23,West,Home & Kitchen,Mixer Grinder,1,3499,3190.09,2159.77
+ORD-12563,2026-09-23,South,Electronics,Wireless Earbuds,1,2499,2450.98,1812.73
+ORD-12435,2026-09-24,East,Electronics,Bluetooth Speaker,2,3299,6043.4,4775.65
+ORD-12443,2026-09-24,South,Electronics,Power Bank,1,1499,1442.24,1142.54
+ORD-12533,2026-09-24,East,Home & Kitchen,Air Fryer,2,5999,10768.72,7397.63
+ORD-12535,2026-09-24,South,Electronics,Smartwatch,1,6999,6578.0,5113.06
+ORD-12550,2026-09-24,North,Apparel,Handloom Saree,1,4999,4938.32,2544.88
+ORD-12411,2026-09-25,East,Home & Kitchen,Mixer Grinder,1,3499,3462.68,2143.16
+ORD-12520,2026-09-25,South,Apparel,Running Shoes,1,3499,3427.22,1873.89
+ORD-12523,2026-09-25,North,Electronics,Wireless Earbuds,2,2499,4759.43,3637.6
+ORD-12539,2026-09-25,West,Home & Kitchen,Steel Water Bottle,1,599,563.71,375.69
+ORD-12548,2026-09-25,North,Home & Kitchen,Air Fryer,1,5999,5670.37,3688.97
+ORD-12557,2026-09-25,West,Electronics,Smartwatch,1,6999,6434.68,5184.44
+ORD-12433,2026-09-26,South,Apparel,Cotton Kurta,1,1299,1154.14,675.24
+ORD-12441,2026-09-26,West,Electronics,Power Bank,1,1499,1462.47,1121.39
+ORD-12446,2026-09-26,North,Electronics,Smartwatch,1,6999,6848.58,5032.2
+ORD-12499,2026-09-26,East,Beauty & Care,Face Serum,1,899,835.61,410.73
+ORD-12564,2026-09-26,West,Beauty & Care,Hair Dryer,1,1999,1879.44,894.46
+ORD-12422,2026-09-27,South,Apparel,Running Shoes,2,3499,6608.26,3716.7
+ORD-12444,2026-09-27,South,Home & Kitchen,Cookware Set,1,2799,2756.65,1720.11
+ORD-12447,2026-09-27,North,Electronics,Smartwatch,1,6999,6557.26,5050.71
+ORD-12456,2026-09-27,South,Apparel,Denim Jacket,2,2999,5867.16,3189.65
+ORD-12462,2026-09-27,West,Home & Kitchen,Mixer Grinder,2,3499,6659.45,4217.57
+ORD-12547,2026-09-27,East,Apparel,Denim Jacket,1,2999,2869.06,1567.33
+ORD-12519,2026-09-28,South,Electronics,Smartwatch,1,6999,6408.54,5257.56
+ORD-12525,2026-09-28,East,Apparel,Handloom Saree,1,4999,4725.39,2588.61
+ORD-12531,2026-09-28,North,Apparel,Denim Jacket,1,2999,2714.36,1530.72
+ORD-12543,2026-09-28,South,Apparel,Handloom Saree,1,4999,4880.76,2560.1
+ORD-12430,2026-09-29,North,Apparel,Handloom Saree,1,4999,4868.48,2670.42
+ORD-12474,2026-09-29,West,Electronics,Power Bank,1,1499,1417.17,1096.14
+ORD-12476,2026-09-29,East,Beauty & Care,Skincare Kit,1,2499,2221.32,1102.99
+ORD-12510,2026-09-29,East,Home & Kitchen,Mixer Grinder,1,3499,3272.16,2158.42
+ORD-12527,2026-09-29,North,Apparel,Denim Jacket,1,2999,2898.5,1554.88
+ORD-12554,2026-09-29,East,Electronics,Smartwatch,1,6999,6911.19,5221.19
+ORD-12562,2026-09-29,East,Beauty & Care,Hair Dryer,1,1999,1884.36,880.38
+ORD-12431,2026-09-30,East,Beauty & Care,Perfume,2,1799,3379.33,1641.3
+ORD-12473,2026-09-30,North,Beauty & Care,Perfume,2,1799,3236.0,1590.3
+ORD-12503,2026-09-30,West,Home & Kitchen,Steel Water Bottle,1,599,548.41,374.12
+ORD-12524,2026-09-30,South,Electronics,Smartwatch,1,6999,6306.93,5298.42
+ORD-12540,2026-09-30,West,Electronics,Smartwatch,1,6999,6199.62,5230.39
+ORD-12544,2026-09-30,South,Electronics,Power Bank,1,1499,1401.58,1098.75
+ORD-12553,2026-09-30,West,Apparel,Running Shoes,2,3499,6243.91,3696.91
+ORD-12558,2026-09-30,East,Home & Kitchen,Mixer Grinder,1,3499,3373.4,2166.55
