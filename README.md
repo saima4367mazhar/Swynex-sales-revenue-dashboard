@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analysing two years of retail sales (Jan 2025 to Sep 2026).
 
-[View the dashboard (PDF)](dashboard.pdf)
+[View the dashboard (PDF)](Dashboard.pdf)
 
 ## What it shows
 - KPIs: total revenue, orders, units sold, average order value, gross margin
